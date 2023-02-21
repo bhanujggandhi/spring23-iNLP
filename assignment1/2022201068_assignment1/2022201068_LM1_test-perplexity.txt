@@ -1,0 +1,1001 @@
+Average Perplexity: 55.98224060482249
+<s> my dear <title> bennet said his lady to him one day have you heard that netherfield park is let at last. <e>	53.62763034358468
+<s> this was invitation enough. <e>	17.80403900948743
+<s> what is his name. <e>	4.511547896538579
+<s> my dear <title> bennet replied his wife how can you be so tiresome. <e>	11.490568735369111
+<s> my dear you flatter me. <e>	17.149412589649522
+<s> when a woman has five grown up daughters she ought to give over thinking of her own beauty. <e>	71.4213170892125
+<s> they are my old friends. <e>	26.457489064998068
+<s> she was a woman of mean understanding little information and uncertain temper. <e>	83.52719124187004
+<s> i do not believe <title> long will do any such thing. <e>	18.253701425701554
+<s> <title> bennet deigned not to make any reply but unable to contain herself began scolding one of her daughters. <e>	84.82779645021407
+<s> you tear them to pieces. <e>	11.78082083230101
+<s> to morrow fortnight. <e>	20.06188217043551
+<s> aye so it is cried her mother and <title> long does not come back till the day before so it will be impossible for her to introduce him for she will not know him herself. <e>	30.338313200995813
+<s> then my dear you may have the advantage of your friend and introduce <title> bingley to her. <e>	29.946173193470287
+<s> but if we do not venture somebody else will and after all <title> long and her nieces must stand their chance and therefore as she will think it an act of kindness if you decline the office i will take it on myself. <e>	106.00194288145117
+<s> the girls stared at their father. <e>	27.52037292791471
+<s> i cannot quite agree with you there. <e>	25.81271382026019
+<s> what say you mary. <e>	11.572748976344757
+<s> for you are a young lady of deep reflection i know and read great books and make extracts. <e>	74.63075866085977
+<s> if i had known as much this morning i certainly would not have called on him. <e>	26.86139907948485
+<s> i do not know how you will ever make him amends for his kindness or me either for that matter. <e>	44.968192018642796
+<s> the rest of the evening was spent in conjecturing how soon he would return <title> bennet is visit and determining when they should ask him to dinner. <e>	36.159105673934285
+<s> his sisters were fine women with an air of decided fashion. <e>	57.26581617265389
+<s> <title> bingley had soon made himself acquainted with all the principal people in the room he was lively and unreserved danced every dance was angry that the ball closed so early and talked of giving one himself at netherfield. <e>	98.84322342625855
+<s> elizabeth bennet had been obliged by the scarcity of gentlemen to sit down for two dances and during part of that time <title> darcy had been standing near enough for her to overhear a conversation between him and <title> bingley who came from the dance for a few minutes to press his friend to join it. <e>	47.95394705823433
+<s> you had much better dance. <e>	17.11282137904343
+<s> she told the story however with great spirit among her friends for she had a lively playful disposition which delighted in any thing ridiculous. <e>	134.46524746308216
+<s> every body said how well she looked and <title> bingley thought her quite beautiful and danced with her twice. <e>	49.27551036072821
+<s> she was therefore obliged to seek another branch of the subject and related with much bitterness of spirit and some exaggeration the shocking rudeness of <title> darcy. <e>	95.10610676249614
+<s> i quite detest the man. <e>	35.62737194038432
+<s> he could not help seeing that you were about five times as pretty as every other woman in the room. <e>	46.44124947332716
+<s> but they are very pleasing women when you converse with them. <e>	46.05053868145441
+<s> they were of a respectable family in the north of england a circumstance more deeply impressed on their memories than that their brother is fortune and their own had been acquired by trade. <e>	68.54231976089082
+<s> his sisters were very anxious for his having an estate of his own but though he was now established only as a tenant miss bingley was by no means unwilling to preside at his table nor was <title> hurst who had married a man of more fashion than fortune less disposed to consider his house as her home when it suited her. <e>	84.85639182130632
+<s> <title> bingley had not been of age two years when he was tempted by an accidental recommendation to look at netherfield house. <e>	65.72271527698776
+<s> between him and darcy there was a very steady friendship in spite of a great opposition of character. bingley was endeared to darcy by the easiness openness ductility of his temper though no disposition could offer a greater contrast to his own and though with his own he never appeared dissatisfied. <e>	122.97166781995146
+<s> in understanding darcy was the superior. <e>	47.30225930161003
+<s> he was at the same time haughty reserved and fastidious and his manners though well bred were not inviting. <e>	56.92192985131466
+<s> lady lucas was a very good kind of woman not too clever to be a valuable neighbour to <title> <e>	52.30608269384377
+<s> bennet. they had several children. <e>	66.07478278251207
+<s> i beg you would not put it into lizzy is head to be vexed by his ill treatment for he is such a disagreeable man that it would be quite a misfortune to be liked by him. <e>	55.619602345271055
+<s> said jane. i certainly saw <title> darcy speaking to her. <e>	45.21817027025541
+<s> i do not believe a word of it my dear. <e>	7.8624784651426065
+<s> but i can guess how it was every body says that he is ate up with pride and i dare say he had heard somehow that <title> long does not keep a carriage and had come to the ball in a hack chaise. <e>	53.69490996989951
+<s> another time lizzy said her mother i would not dance with him if i were you. <e>	37.46688789076886
+<s> i believe ma am i may safely promise you never to dance with him. <e>	50.990757660739156
+<s> miss bennet is pleasing manners grew on the good will of <title> hurst and miss bingley and though the mother was found to be intolerable and the younger sisters not worth speaking to a wish of being better acquainted with them was expressed towards the two eldest. <e>	56.27618588468089
+<s> she mentioned this to her friend miss lucas. <e>	16.58995688463862
+<s> if a woman conceals her affection with the same skill from the object of it she may lose the opportunity of fixing him and it will then be but poor consolation to believe the world equally in the dark. <e>	55.81274336568019
+<s> we can all begin freely a slight preference is natural enough but there are very few of us who have heart enough to be really in love without encouragement. <e>	67.54267856727209
+<s> if i can perceive her regard for him he must be a simpleton indeed not to discover it too. <e>	48.508872061985855
+<s> but though bingley and jane meet tolerably often it is never for many hours together and as they always see each other in large mixed parties it is impossible that every moment should be employed in conversing together. <e>	101.85702745227657
+<s> your plan is a good one replied elizabeth where nothing is in question but the desire of being well married and if i were determined to get a rich husband or any husband i dare say i should adopt it. <e>	95.30880858569333
+<s> you make me laugh charlotte but it is not sound. <e>	32.19590255897445
+<s> that is a question which <title> darcy only can answer. <e>	12.543142381891052
+<s> he has a very satirical eye and if i do not begin by being impertinent myself i shall soon grow afraid of him. <e>	61.10368462760371
+<s> on his approaching them soon afterwards though without seeming to have any intention of speaking miss lucas defied her friend to mention such a subject to him which immediately provoking elizabeth to do it she turned to him and said did not you think <title> darcy that i expressed myself uncommonly well just now when i was teazing colonel forster to give us a ball at meryton. <e>	73.29233706956413
+<s> with great energy but it is a subject which always makes a lady energetic. <e>	66.10417585086519
+<s> you are severe on us. <e>	18.425805231517998
+<s> after a song or two and before she could reply to the entreaties of several that she would sing again she was eagerly succeeded at the instrument by her sister mary who having in consequence of being the only plain one in the family worked hard for knowledge and accomplishments was always impatient for display. <e>	123.49118747982418
+<s> elizabeth easy and unaffected had been listened to with much more pleasure though not playing half so well and mary at the end of a long concerto was glad to purchase praise and gratitude by scotch and irish airs at the request of her younger sisters who with some of the lucases and two or three officers joined eagerly in dancing at one end of the room. <e>	75.30349898083816
+<s> your friend performs delightfully he continued after a pause on seeing bingley join the group and i doubt not that you are an adept in the science yourself <title> <e>	47.917188257293404
+<s> do you not think it would be a proper compliment to the place. <e>	17.837937292206778
+<s> it is a compliment which i never pay to any place if i can avoid it. <e>	46.19703545367143
+<s> i had once some thoughts of fixing in town myself for i am fond of superior society but i did not feel quite certain that the air of london would agree with lady lucas. <e>	68.11361197199861
+<s> he paused in hopes of an answer but his companion was not disposed to make any and elizabeth at that instant moving towards them he was struck with the notion of doing a very gallant thing and called out to her my dear miss eliza why are not you dancing. <title> <e>	75.53712623793953
+<s> you are considering how insupportable it would be to pass many evenings in this manner in such society and indeed i am quite of your opinion. <e>	72.98347689167693
+<s> he listened to her with perfect indifference while she chose to entertain herself in this manner and as his composure convinced her that all was safe her wit flowed long. <e>	53.280087149372456
+<s> the village of longbourn was only one mile from meryton a most convenient distance for the young ladies who were usually tempted thither three or four times a week to pay their duty to their aunt and to a milliner is shop just over the way. <e>	103.28020371722516
+<s> they could talk of nothing but officers and <title> bingley is large fortune the mention of which gave animation to their mother was worthless in their eyes when opposed to the regimentals of an ensign. <e>	94.25637539881436
+<s> i remember the time when i liked a red coat myself very well and indeed so i do still at my heart and if a smart young colonel with five or six thousand a year should want one of my girls i shall not say nay to him and i thought colonel forster looked very becoming the other night at sir william is in his regimentals. <e>	150.08453174384047
+<s> <title> bennet was prevented replying by the entrance of the footman with a note for miss bennet it came from netherfield and the servant waited for an answer. <e>	32.48220628900593
+<s> my dear friend if you are not so compassionate as to dine to day with louisa and me we shall be in danger of hating each other for the rest of our lives for a whole day is tête à tête between two women can never end without a quarrel. <e>	79.73867618708188
+<s> no my dear you had better go on horseback because it seems likely to rain and then you must stay all night. <e>	33.767267074801005
+<s> that would be a good scheme said elizabeth if you were sure that they would not offer to send her home. <e>	41.76606501199043
+<s> jane was therefore obliged to go on horseback and her mother attended her to the door with many cheerful prognostics of a bad day. <e>	38.54054820034275
+<s> this was a lucky idea of mine indeed. <e>	19.544249392097193
+<s> my kind friends will not hear of my returning home till i am better. <e>	51.89080646866657
+<s> elizabeth feeling really anxious was determined to go to her though the carriage was not to be had and as she was no horse woman walking was her only alternative. <e>	62.281560458955965
+<s> is this a hint to me lizzy said her father to send for the horses. <e>	36.70363939858077
+<s> i admire the activity of your benevolence observed mary but every impulse of feeling should be guided by reason and in my opinion exertion should always be in proportion to what is required. <e>	144.37316460969052
+<s> we will go as far as meryton with you said catherine and lydia. elizabeth accepted their company and the three young ladies set off together. <e>	75.17864515027122
+<s> if we make haste said lydia as they walked along perhaps we may see something of captain carter before he goes. <e>	72.6323730606659
+<s> she was shewn into the breakfast parlour where all but jane were assembled and where her appearance created a great deal of surprise. that she should have walked three miles so early in the day in such dirty weather and by herself was almost incredible to <title> hurst and miss bingley and elizabeth was convinced that they held her in contempt for it. <e>	80.0291696703862
+<s> miss bennet had slept ill and though up was very feverish and not well enough to leave her room. <e>	43.06314385451475
+<s> miss bingley offered her the carriage and she only wanted a little pressing to accept it when jane testified such concern in parting with her that miss bingley was obliged to convert the offer of the chaise into an invitation to remain at netherfield for the present. <e>	57.91481882881303
+<s> at five o clock the two ladies retired to dress and at half past six elizabeth was summoned to dinner. <e>	120.29555569257592
+<s> she had very little notice from any but him. <e>	23.70642777310903
+<s> her hair so untidy so blowsy. <e>	30.94660345237746
+<s> yes and her petticoat i hope you saw her petticoat six inches deep in mud i am absolutely certain and the gown which had been let down to hide it not doing its office. <e>	116.37124941282624
+<s> to walk three miles or four miles or five miles or whatever it is above her ancles in dirt and alone quite alone. <e>	129.03594433415196
+<s> it seems to me to shew an abominable sort of conceited independence a most country town indifference to decorum. <e>	147.03348068918044
+<s> not at all he replied they were brightened by the exercise. <e>	22.88320863818454
+<s> if they had uncles enough to fill all cheapside cried bingley it would not make them one jot less agreeable. <e>	50.21518428940754
+<s> <title> hurst looked at her with astonishment. <e>	7.755741186372213
+<s> said he that is rather singular. <e>	16.801522868165495
+<s> elizabeth thanked him from her heart and then walked towards a table where a few books were lying. <e>	49.558289602656245
+<s> i cannot comprehend the neglect of a family library in such days as these. <e>	66.78487395668421
+<s> but i would really advise you to make your purchase in that neighbourhood and take pemberley for a kind of model. <e>	49.32322114847286
+<s> there is not a finer county in england than derbyshire. <e>	41.37262759857116
+<s> is miss darcy much grown since the spring. <e>	69.13409187347794
+<s> i never met with anybody who delighted me so much. <e>	33.43343981106894
+<s> the word is applied to many a woman who deserves it no otherwise than by netting a purse or covering a skreen. <e>	95.50350524283586
+<s> but i am very far from agreeing with you in your estimation of ladies in general. <e>	48.70989699782406
+<s> i cannot boast of knowing more than half a dozen in the whole range of my acquaintance that are really accomplished. <e>	45.78429537694631
+<s> all this she must possess added darcy and to all this she must yet add something more substantial in the improvement of her mind by extensive reading. <e>	52.79599153386832
+<s> i am no longer surprised at your knowing only six accomplished women. <e>	51.66165909829851
+<s> but in my opinion it is a paltry device a very mean art. <e>	36.17007793650673
+<s> miss bingley was not so entirely satisfied with this reply as to continue the subject. <e>	28.841939214191733
+<s> elizabeth joined them again only to say that her sister was worse and that she could not leave her. <e>	28.023531138200763
+<s> bingley urged <title> jones is being sent for immediately while his sisters convinced that no country advice could be of any service recommended an express to town for one of the most eminent physicians. <e>	119.61554600996388
+<s> bingley was quite uncomfortable his sisters declared that they were miserable. <e>	40.565717030741126
+<s> the note was immediately dispatched and its contents as quickly complied with. <e>	76.23060453383893
+<s> she would not listen therefore to her daughter is proposal of being carried home neither did the apothecary who arrived about the same time think it at all advisable. <e>	97.70133569425788
+<s> after sitting a little while with jane on miss bingley is appearance and invitation the mother and three daughters all attended her into the breakfast parlour. <e>	67.69006480124526
+<s> bingley met them with hopes that <title> bennet had not found miss bennet worse than she expected. <e>	44.998583736187854
+<s> i am sure she added if it was not for such good friends i do not know what would become of her for she is very ill indeed and suffers a vast deal though with the greatest patience in the world which is always the way with her for she has without exception the sweetest temper i ever met with. <e>	47.87090618955714
+<s> that is exactly what i should have supposed of you said elizabeth. <e>	11.109988533098985
+<s> that is as it happens. <e>	17.94694965786748
+<s> it must be an amusing study. <e>	29.17643079690109
+<s> i assure you there is quite as much of that going on in the country as in town. <e>	18.1698977945611
+<s> <title> bennet who fancied she had gained a complete victory over him continued her triumph. <e>	59.388180742457976
+<s> i cannot see that london has any great advantage over the country for my part except the shops and public places. <e>	81.723782780628
+<s> the country is a vast deal pleasanter is not it <title> <e>	65.46891305892333
+<s> when i am in the country he replied i never wish to leave it and when i am in town it is pretty much the same. <e>	34.19412854146383
+<s> they have each their advantages and i can be equally happy in either. <e>	67.18333667181281
+<s> aye that is because you have the right disposition. <e>	39.220946301192434
+<s> but that gentleman looking at darcy seemed to think the country was nothing at all. <e>	27.725320035130324
+<s> i am perfectly ready i assure you to keep my engagement and when your sister is recovered you shall if you please name the very day of the ball. <e>	43.95848894873732
+<s> the loo table however did not appear. <e>	47.96153483364422
+<s> he made no answer. <e>	3.9712435467772074
+<s> you are mistaken. <e>	9.638920119772452
+<s> i write rather slowly. <e>	19.009928169566265
+<s> i am afraid you do not like your pen. <e>	9.547001734522384
+<s> it is of no consequence. <e>	17.298006185215918
+<s> i shall see her in january. <e>	9.382868337563064
+<s> he studies too much for words of four syllables. do not you darcy. <e>	61.54007932340984
+<s> it is often only carelessness of opinion and sometimes an indirect boast. <e>	122.5608329464461
+<s> and yet upon my honour i believed what i said of myself to be true and i believe it at this moment. <e>	34.24065651607133
+<s> i dare say you believed it but i am by no means convinced that you would be gone with such celerity. <e>	18.988056635824208
+<s> you have shewn him off now much more than he did himself. <e>	49.32065280510736
+<s> but in general and ordinary cases between friend and friend where one of them is desired by the other to change a resolution of no very great moment should you think ill of that person for complying with the desire without waiting to be argued into it. <e>	111.92040421043409
+<s> will it not be advisable before we proceed on this subject to arrange with rather more precision the degree of importance which is to appertain to this request as well as the degree of intimacy subsisting between the parties. <e>	91.55557932254814
+<s> <title> darcy took her advice and did finish his letter. <e>	20.349482922960465
+<s> <title> hurst sang with her sister and while they were thus employed elizabeth could not help observing as she turned over some music books that lay on the instrument how frequently <title> darcy is eyes were fixed on her. <e>	74.29917750016847
+<s> she could only imagine however at last that she drew his notice because there was a something about her more wrong and reprehensible according to his ideas of right than in any other person present. <e>	77.3318902605463
+<s> after playing some italian songs miss bingley varied the charm by a lively scotch air and soon afterwards <title> darcy drawing near elizabeth said to her do not you feel a great inclination miss bennet to seize such an opportunity of dancing a reel. <e>	77.6064148314786
+<s> said she i heard you before but i could not immediately determine what to say in reply. <e>	32.27938593683281
+<s> he really believed that were it not for the inferiority of her connections he should be in some danger. <e>	42.37540187873278
+<s> she often tried to provoke darcy into disliking her guest by talking of their supposed marriage and planning his happiness in such an alliance. <e>	133.36772431180853
+<s> i hope said she as they were walking together in the shrubbery the next day you will give your mother in law a few hints when this desirable event takes place as to the advantage of holding her tongue and if you can compass it do cure the younger girls of running after the officers. and if i may mention so delicate a subject endeavour to check that little something bordering on conceit and impertinence which your lady possesses. <e>	82.37238247223623
+<s> put them next to your great uncle the judge. <e>	88.49160258669717
+<s> as for your elizabeth is picture you must not attempt to have it taken for what painter could do justice to those beautiful eyes. <e>	69.87276433957966
+<s> at that moment they were met from another walk by <title> hurst and elizabeth herself. <e>	32.237826337616504
+<s> she then ran gaily off rejoicing as she rambled about in the hope of being at home again in a day or two. <e>	58.28765305168855
+<s> they could describe an entertainment with accuracy relate an anecdote with humour and laugh at their acquaintance with spirit. <e>	106.95239319922686
+<s> the first half hour was spent in piling up the fire lest she should suffer from the change of room and she removed at his desire to the other side of the fire place that she might be farther from the door. <e>	52.842334214422685
+<s> when tea was over <title> hurst reminded his sister in law of the card table but in vain. <e>	42.10397003311434
+<s> miss bingley is attention was quite as much engaged in watching <title> darcy is progress through his book as in reading her own and she was perpetually either making some inquiry or looking at his page. <e>	61.579144559030794
+<s> she then yawned again threw aside her book and cast her eyes round the room in quest of some amusement when hearing her brother mentioning a ball to miss bennet she turned suddenly towards him and said by the bye charles are you really serious in meditating a dance at netherfield. i would advise you before you determine on it to consult the wishes of the present party i am much mistaken if there are not some among us to whom a ball would be rather a punishment than a pleasure. <e>	121.0058050968152
+<s> her figure was elegant and she walked well but darcy at whom it was all aimed was still inflexibly studious. <e>	57.89968537595378
+<s> miss bingley succeeded no less in the real object of her civility <title> darcy looked up. <e>	44.727644498284704
+<s> i have not the smallest objection to explaining them said he as soon as she allowed him to speak. <e>	17.459948690774752
+<s> the wisest and the best of men nay the wisest and best of their actions may be rendered ridiculous by a person whose first object in life is a joke. <e>	112.11837972388051
+<s> perhaps that is not possible for any one. <e>	27.724414108157827
+<s> such as vanity and pride. <e>	29.12753491964985
+<s> no said darcy i have made no such pretension. <e>	15.855855884435407
+<s> my temper would perhaps be called resentful. my good opinion once lost is lost for ever. <e>	60.570544891659615
+<s> do let us have a little music cried miss bingley tired of a conversation in which she had no share. louisa you will not mind my waking <title> <e>	67.60616424283045
+<s> he began to feel the danger of paying elizabeth too much attention. <e>	38.37477252763518
+<s> <title> bennet sent them word that they could not possibly have the carriage before tuesday and in her postscript it was added that if <title> bingley and his sister pressed them to stay longer she could spare them very well. against staying longer however elizabeth was positively resolved nor did she much expect it would be asked and fearful on the contrary as being considered as intruding themselves needlessly long she urged jane to borrow <title> bingley is carriage immediately and at length it was settled that their original design of leaving netherfield that morning should be mentioned and the request made. <e>	156.63566698125706
+<s> they were not welcomed home very cordially by their mother. <e>	82.47241017513964
+<s> <title> bennet is eyes sparkled. a gentleman and a stranger. <e>	8.054152219096096
+<s> i do think it is the hardest thing in the world that your estate should be entailed away from your own children and i am sure if i had been you i should have tried long ago to do something or other about it. <e>	39.94648377030381
+<s> jane and elizabeth attempted to explain to her the nature of an entail. <e>	41.08312363263605
+<s> but if you will listen to his letter you may perhaps be a little softened by his manner of expressing himself. <e>	39.62502599837408
+<s> my mind however is now made up on the subject for having received ordination at easter i have been so fortunate as to be distinguished by the patronage of the right honourable lady catherine de bourgh widow of sir lewis de bourgh whose bounty and beneficence has preferred me to the valuable rectory of this parish where it shall be my earnest endeavour to demean myself with grateful respect towards her ladyship and be ever ready to perform those rites and ceremonies which are instituted by the church of england. <e>	103.04839028818084
+<s> though it is difficult said jane to guess in what way he can mean to make us the atonement he thinks our due the wish is certainly to his credit. <e>	144.17918149914757
+<s> elizabeth was chiefly struck with his extraordinary deference for lady catherine and his kind intention of christening marrying and burying his parishioners whenever it were required. <e>	80.16389687761041
+<s> i cannot make him out. there is something very pompous in his style. and what can he mean by apologizing for being next in the entail. we cannot suppose he would help it if he could. can he be a sensible man sir. <e>	75.21726393657254
+<s> i am impatient to see him. <e>	11.23665925615766
+<s> it was next to impossible that their cousin should come in a scarlet coat and it was now some weeks since they had received pleasure from the society of a man in any other colour. <e>	73.48408116415555
+<s> <title> collins was punctual to his time and was received with great politeness by the whole family. <e>	18.773411368054
+<s> things are settled so oddly. <e>	47.37728150605823
+<s> at present i will not say more but perhaps when we are better acquainted he was interrupted by a summons to dinner and the girls smiled on each other. <e>	56.12162931273304
+<s> he begged pardon for having displeased her. <e>	54.41560894903987
+<s> lady catherine was reckoned proud by many people he knew but he had never seen any thing but affability in her. <e>	40.44577329373097
+<s> it is a pity that great ladies in general are not more like her. <e>	32.63944165486878
+<s> does she live near you sir. <e>	69.50874672022498
+<s> lady catherine herself says that in point of true beauty miss de bourgh is far superior to the handsomest of her sex because there is that in her features which marks the young woman of distinguished birth. <e>	81.97268859348794
+<s> they arise chiefly from what is passing at the time and though i sometimes amuse myself with suggesting and arranging such little elegant compliments as may be adapted to ordinary occasions i always wish to give them as unstudied an air as possible. <e>	159.49231128751393
+<s> by tea time however the dose had been enough and <title> bennet was glad to take his guest into the drawing room again and when tea was over glad to invite him to read aloud to the ladies. <e>	70.15858195262892
+<s> <title> bennet accepted the challenge observing that he acted very wisely in leaving the girls to their own trifling amusements. <e>	83.60709180228788
+<s> <title> bennet and her daughters apologised most civilly for lydia is interruption and promised that it should not occur again if he would resume his book but <title> collins after assuring them that he bore his young cousin no ill will and should never resent her behaviour as any affront seated himself at another table with <title> bennet and prepared for backgammon. <e>	127.3557040151281
+<s> having now a good house and very sufficient income he intended to marry and in seeking a reconciliation with the longbourn family he had a wife in view as he meant to chuse one of the daughters if he found them as handsome and amiable as they were represented by common report. <e>	111.00647975272125
+<s> his appearance was greatly in his favour he had all the best part of beauty a fine countenance a good figure and very pleasing address. <e>	83.95164213194305
+<s> on distinguishing the ladies of the group the two gentlemen came directly towards them and began the usual civilities. <e>	66.86787845888561
+<s> some of them were to dine with the philipses the next day and their aunt promised to make her husband call on <title> wickham and give him an invitation also if the family from longbourn would come in the evening. <e>	42.75881373277949
+<s> this was agreed to and <title> philips protested that they would have a nice comfortable noisy game of lottery tickets and a little bit of hot supper afterwards. <e>	102.41709533593199
+<s> <title> collins repeated his apologies in quitting the room and was assured with unwearying civility that they were perfectly needless. <e>	72.18072192556406
+<s> he protested that except lady catherine and her daughter he had never seen a more elegant woman for she had not only received him with the utmost civility but had even pointedly included him in her invitation for the next evening although utterly unknown to her before. <e>	45.74464794853428
+<s> as no objection was made to the young people is engagement with their aunt and all <title> collins is scruples of leaving <title> and <title> bennet for a single evening during his visit were most steadily resisted the coach conveyed him and his five cousins at a suitable hour to meryton and the girls had the pleasure of hearing as they entered the drawing room that <title> wickham had accepted their uncle is invitation and was then in the house. <e>	89.81543005918996
+<s> yes replied wickham his estate there is a noble one. <e>	55.1134897270099
+<s> a clear ten thousand per annum. <e>	35.97173437753137
+<s> you could not have met with a person more capable of giving you certain information on that head than myself for i have been connected with his family in a particular manner from my infancy. <e>	50.07942913265794
+<s> i am not qualified to form one. <e>	24.592449311757115
+<s> he is not at all liked in hertfordshire. <e>	15.888387354509831
+<s> his father miss bennet the late <title> darcy was one of the best men that ever breathed and the truest friend i ever had and i can never be in company with this <title> darcy without being grieved to the soul by a thousand tender recollections. <e>	50.775883435257285
+<s> elizabeth found the interest of the subject increase and listened with all her heart but the delicacy of it prevented farther inquiry. <e>	66.4493483861558
+<s> elizabeth honoured him for such feelings and thought him handsomer than ever as he expressed them. <e>	56.23661250053052
+<s> but what said she after a pause can have been his motive. what can have induced him to behave so cruelly. <e>	69.07667655621331
+<s> i will not trust myself on the subject replied wickham i can hardly be just to him. <e>	24.46181893942164
+<s> it has connected him nearer with virtue than any other feeling. <e>	77.86201080609726
+<s> can such abominable pride as his have ever done him good. <e>	80.10481534613471
+<s> he has also brotherly pride which with some brotherly affection makes him a very kind and careful guardian of his sister and you will hear him generally cried up as the most attentive and best of brothers. <e>	93.36658482357795
+<s> what sort of a girl is miss darcy. <e>	10.309152940860312
+<s> he shook his head. i wish i could call her amiable. <e>	30.349154231917442
+<s> since her father is death her home has been london where a lady lives with her and superintends her education. <e>	87.78331423521026
+<s> after many pauses and many trials of other subjects elizabeth could not help reverting once more to the first and saying i am astonished at his intimacy with <title> bingley. <e>	68.85020956274704
+<s> how can <title> bingley who seems good humour itself and is i really believe truly amiable be in friendship with such a man. <e>	74.30927343378329
+<s> there are undoubtedly many who could not say the same but thanks to lady catherine de bourgh i am removed far beyond the necessity of regarding little matters. <e>	50.78772208238033
+<s> <title> wickham is attention was caught and after observing <title> collins for a few moments he asked elizabeth in a low voice whether her relation were very intimately acquainted with the family of de bourgh. <e>	28.22841597348874
+<s> no indeed i did not. i knew nothing at all of lady catherine is connections. <e>	25.802378430609455
+<s> there could be no conversation in the noise of <title> philips is supper party but his manners recommended him to every body. <e>	32.645774526904425
+<s> my dearest lizzy do but consider in what a disgraceful light it places <title> darcy to be treating his father is favourite in such a manner one whom his father had promised to provide for. it is impossible. <e>	75.50655985223615
+<s> i beg your pardon one knows exactly what to think. <e>	19.27028302024396
+<s> the two ladies were delighted to see their dear friend again called it an age since they had met and repeatedly asked what she had been doing with herself since their separation. <e>	105.39787093694513
+<s> they were soon gone again rising from their seats with an activity which took their brother by surprise and hurrying off as if eager to escape from <title> bennet is civilities. <e>	110.43499295525352
+<s> <title> bennet chose to consider it as given in compliment to her eldest daughter and was particularly flattered by receiving the invitation from <title> bingley himself instead of a ceremonious card. <e>	56.75886367684174
+<s> the happiness anticipated by catherine and lydia depended less on any single event or any particular person for though they each like elizabeth meant to dance half the evening with <title> wickham he was by no means the only partner who could satisfy them and a ball was at any rate a ball. <e>	113.30790561210418
+<s> society has claims on us all and i profess myself one of those who consider intervals of recreation and amusement as desirable for every body. <e>	124.39733940606865
+<s> elizabeth however did not chuse to take the hint being well aware that a serious dispute must be the consequence of any reply. <e>	73.58489850212513
+<s> no aunt no officers no news could be sought after the very shoe roses for netherfield were got by proxy. <e>	141.1134407334649
+<s> he walked away again immediately and she was left to fret over her own want of presence of mind charlotte tried to console her. <e>	59.25416691752075
+<s> i dare say you will find him very agreeable. <e>	12.947025731399203
+<s> after a pause of some minutes she addressed him a second time with it is your turn to say something now <title> <e>	31.800257287805664
+<s> he smiled and assured her that whatever she wished him to say should be said. <e>	25.025760683640854
+<s> both replied elizabeth archly for i have always seen a great similarity in the turn of our minds. we are each of an unsocial taciturn disposition unwilling to speak unless we expect to say something that will amaze the whole room and be handed down to posterity with all the eclat of a proverb. <e>	103.85810917430922
+<s> i do not think we were speaking at all. <e>	7.6789846740727175
+<s> sir william could not have interrupted any two people in the room who had less to say for themselves. we have tried two or three subjects already without success and what we are to talk of next i cannot imagine. <e>	103.99125115524258
+<s> no. i am sure we never read the same or not with the same feelings. <e>	37.62237464307875
+<s> you are very cautious i suppose as to its _being created_. <e>	33.15517193610541
+<s> and what is your success. <e>	10.349994841449677
+<s> i do not know the particulars but i know very well that <title> darcy is not in the least to blame that he cannot bear to hear george wickham mentioned and that though my brother thought he could not well avoid including him in his invitation to the officers he was excessively glad to find that he had taken himself out of the way. <e>	36.791286481866386
+<s> his coming into the country at all is a most insolent thing indeed and i wonder how he could presume to do it. <e>	45.20136415323019
+<s> jane met her with a smile of such sweet complacency a glow of such happy expression as sufficiently marked how well she was satisfied with the occurrences of the evening. elizabeth instantly read her feelings and at that moment solicitude for wickham resentment against his enemies and every thing else gave way before the hope of jane is being in the fairest way for happiness. <e>	75.65706883445769
+<s> <title> bingley does not know the whole of his history and is quite ignorant of the circumstances which have principally offended <title> darcy but he will vouch for the good conduct the probity and honour of his friend and is perfectly convinced that <title> wickham has deserved much less attention from <title> darcy than he has received and i am sorry to say that by his account as well as his sister is <title> wickham is by no means a respectable young man. <e>	46.32045403194614
+<s> no he never saw him till the other morning at meryton. <e>	38.85224819418956
+<s> i am perfectly satisfied. <e>	8.431265443985192
+<s> it will be in my power to assure him that her ladyship was quite well yesterday se night. <e>	34.64848335202277
+<s> elizabeth tried hard to dissuade him from such a scheme assuring him that <title> darcy would consider his addressing him without introduction as an impertinent freedom rather than a compliment to his aunt that it was not in the least necessary there should be any notice on either side and that if it were it must belong to <title> darcy the superior in consequence to begin the acquaintance. <title> <e>	96.50622925883751
+<s> and with a low bow he left her to attack <title> darcy whose reception of his advances she eagerly watched and whose astonishment at being so addressed was very evident. <e>	85.41454883958455
+<s> <title> collins however was not discouraged from speaking again and <title> darcy is contempt seemed abundantly increasing with the length of his second speech and at the end of it he only made him a slight bow and moved another way. <e>	85.67731917217259
+<s> her mother is thoughts she plainly saw were bent the same way and she determined not to venture near her lest she might hear too much. <e>	105.99275500375384
+<s> the expression of his face changed gradually from indignant contempt to a composed and steady gravity. <e>	188.38010594408505
+<s> she looked at his two sisters and saw them making signs of derision at each other and at darcy who continued however impenetrably grave. <e>	55.29475760637567
+<s> he took the hint and when mary had finished her second song said aloud that will do extremely well child. <e>	88.19026948039307
+<s> let the other young ladies have time to exhibit. <e>	22.236562657157293
+<s> i cannot acquit him of that duty nor could i think well of the man who should omit an occasion of testifying his respect towards any body connected with the family. <e>	49.255746946403306
+<s> she was teazed by <title> collins who continued most perseveringly by her side and though he could not prevail with her to dance with him again put it out of her power to dance with others. <e>	41.75866814213703
+<s> darcy said nothing at all. <e>	7.907874981311611
+<s> <title> bennet was perfectly satisfied and quitted the house under the delightful persuasion that allowing for the necessary preparations of settlements new carriages and wedding clothes she should undoubtedly see her daughter settled at netherfield in the course of three or four months. <e>	73.74593311171493
+<s> on finding <title> bennet elizabeth and one of the younger girls together soon after breakfast he addressed the mother in these words may i hope madam for your interest with your fair daughter elizabeth when i solicit for the honour of a private audience with her in the course of this morning. <e>	78.05983359266659
+<s> collins must excuse me. he can have nothing to say to me that any body need not hear. <e>	42.415245615347814
+<s> believe me my dear miss elizabeth that your modesty so far from doing you any disservice rather adds to your other perfections. <e>	45.119554206114834
+<s> you would have been less amiable in my eyes had there not been this little unwillingness but allow me to assure you that i have your respected mother is permission for this address. <e>	80.40677111417787
+<s> secondly that i am convinced it will add very greatly to my happiness and thirdly which perhaps i ought to have mentioned earlier that it is the particular advice and recommendation of the very noble lady whom i have the honour of calling patroness. <e>	101.77401970567597
+<s> a clergyman like you must marry. chuse properly chuse a gentlewoman for my sake and for your own let her be an active useful sort of person not brought up high but able to make a small income go a good way. <e>	161.28618810318451
+<s> i do assure you that i am not one of those young ladies if such young ladies there are who are so daring as to risk their happiness on the chance of being asked a second time. <e>	36.01796949509831
+<s> indeed <title> collins all praise of me will be unnecessary. <e>	26.779195307046766
+<s> i wish you very happy and very rich and by refusing your hand do all in my power to prevent your being otherwise. <e>	57.85085711965214
+<s> in making me the offer you must have satisfied the delicacy of your feelings with regard to my family and may take possession of longbourn estate whenever it falls without any self reproach. <e>	91.49972486014315
+<s> really <title> collins cried elizabeth with some warmth you puzzle me exceedingly. <e>	40.831836595083495
+<s> your portion is unhappily so small that it will in all likelihood undo the effects of your loveliness and amiable qualifications. <e>	122.04160179309858
+<s> i do assure you sir that i have no pretension whatever to that kind of elegance which consists in tormenting a respectable man. <e>	50.49108730362944
+<s> my feelings in every respect forbid it. <e>	12.335819753616653
+<s> you are uniformly charming. <e>	25.552858697477596
+<s> to such perseverance in wilful self deception elizabeth would make no reply and immediately and in silence withdrew determined if he persisted in considering her repeated refusals as flattering encouragement to apply to her father whose negative might be uttered in such a manner as must be decisive and whose behaviour at least could not be mistaken for the affectation and coquetry of an elegant female. <e>	167.8665196969822
+<s> i will speak to her about it myself directly. <e>	23.739397907845074
+<s> i will go directly to <title> bennet and we shall very soon settle it with her i am sure. <e>	24.398263502413137
+<s> i understand that <title> collins has made you an offer of marriage. <e>	8.182365371702184
+<s> my dear replied her husband i have two small favours to request. <e>	51.757508417169284
+<s> i shall be glad to have the library to myself as soon as may be. <e>	17.101175892643987
+<s> she talked to elizabeth again and again coaxed and threatened her by turns. <e>	21.300159498698957
+<s> his regard for her was quite imaginary and the possibility of her deserving her mother is reproach prevented his feeling any regret. <e>	94.75564978525145
+<s> elizabeth passed quietly out of the room jane and kitty followed but lydia stood her ground determined to hear all she could and charlotte detained first by the civility of <title> collins whose inquiries after herself and all her family were very minute and then by a little curiosity satisfied herself with walking to the window and pretending not to hear. <e>	104.6360949627819
+<s> far be it from me he presently continued in a voice that marked his displeasure to resent the behaviour of your daughter. <e>	72.72831628288512
+<s> my object has been to secure an amiable companion for myself with due consideration for the advantage of all your family and if my manner has been at all reprehensible i here beg leave to apologise. <e>	84.61179675674688
+<s> elizabeth had hoped that his resentment might shorten his visit but his plan did not appear in the least affected by it. <e>	31.158832527490922
+<s> jane recollected herself soon and putting the letter away tried to join with her usual cheerfulness in the general conversation but elizabeth felt an anxiety on the subject which drew off her attention even from wickham and no sooner had he and his companion taken leave than a glance from jane invited her to follow her up stairs. <e>	112.61888741406214
+<s> the whole party have left netherfield by this time and are on their way to town and without any intention of coming back again. <e>	36.41844523791583
+<s> i sincerely hope your christmas in hertfordshire may abound in the gaieties which that season generally brings and that your beaux will be so numerous as to prevent your feeling the loss of the three of whom we shall deprive you. <e>	100.89539008655382
+<s> it must be his own doing. he is his own master. <e>	36.49597039389699
+<s> <title> darcy is impatient to see his sister and to confess the truth we are scarcely less eager to meet her again. <e>	51.85593767097379
+<s> indeed jane you ought to believe me. no one who has ever seen you together can doubt his affection. <e>	94.67106909790893
+<s> but my dearest jane you cannot seriously imagine that because miss bingley tells you her brother greatly admires miss darcy he is in the smallest degree less sensible of your merit than when he took leave of you on tuesday or that it will be in her power to persuade him that instead of being in love with you he is very much in love with her friend. <e>	48.27800887232965
+<s> caroline is incapable of wilfully deceiving any one and all that i can hope in this case is that she is deceived herself. <e>	71.43105324379988
+<s> that is right. you could not have started a more happy idea since you will not take comfort in mine. <e>	58.70856056974563
+<s> you have now done your duty by her and must fret no longer. <e>	45.273184671130664
+<s> the idea of his returning no more elizabeth treated with the utmost contempt. <e>	28.26335412883915
+<s> elizabeth took an opportunity of thanking her. <e>	22.92567522811028
+<s> his reception however was of the most flattering kind. <e>	58.98974573663729
+<s> in as short a time as <title> collins is long speeches would allow every thing was settled between them to the satisfaction of both and as they entered the house he earnestly entreated her to name the day that was to make him the happiest of men and though such a solicitation must be waved for the present the lady felt no inclination to trifle with his happiness. <e>	60.63034963605992
+<s> <title> collins is present circumstances made it a most eligible match for their daughter to whom they could give little fortune and his prospects of future wealth were exceedingly fair. <e>	99.18932081239562
+<s> the whole family in short were properly overjoyed on the occasion. <e>	27.978325913086596
+<s> her reflections were in general satisfactory. <e>	25.26999925064581
+<s> this preservative she had now obtained and at the age of twenty seven without having ever been handsome she felt all the good luck of it. <e>	82.307457833134
+<s> you cannot be too much on your guard. <e>	8.133620867290523
+<s> risk any thing rather than her displeasure and if you find it likely to be raised by your coming to us again which i should think exceedingly probable stay quietly at home and be satisfied that we shall take no offence. <e>	72.5658416792676
+<s> miss lucas called soon after breakfast and in a private conference with elizabeth related the event of the day before. <e>	38.572819832904784
+<s> my dear charlotte impossible. <e>	10.338592261535304
+<s> in the first place she persisted in disbelieving the whole of the matter secondly she was very sure that <title> collins had been taken in thirdly she trusted that they would never be happy together and fourthly that the match might be broken off. <e>	42.69953365947062
+<s> <title> bennet is emotions were much more tranquil on the occasion and such as he did experience he pronounced to be of a most agreeable sort for it gratified him he said to discover that charlotte lucas whom he had been used to think tolerably sensible was as foolish as his wife and more foolish than his daughter. <e>	74.12982430495084
+<s> after discharging his conscience on that head he proceeded to inform them with many rapturous expressions of his happiness in having obtained the affection of their amiable neighbour miss lucas and then explained that it was merely with the view of enjoying her society that he had been so ready to close with their kind wish of seeing him again at longbourn whither he hoped to be able to return on monday fortnight for lady catherine he added so heartily approved his marriage that she wished it to take place as soon as possible which he trusted would be an unanswerable argument with his amiable charlotte to name an early day for making him the happiest of men. <e>	103.33831009783228
+<s> even elizabeth began to fear not that bingley was indifferent but that his sisters would be successful in keeping him away. <e>	65.52887414346255
+<s> as for jane her anxiety under this suspence was of course more painful than elizabeth is but whatever she felt she was desirous of concealing and between herself and elizabeth therefore the subject was never alluded to. <e>	77.4206706653662
+<s> it needed all jane is steady mildness to bear these attacks with tolerable tranquillity. <e>	279.04759996077337
+<s> <title> bennet was really in a most pitiable state. <e>	31.694658476230348
+<s> illustration a vicarage house. <e>	24.177970910772874
+<s> my dear jane. <e>	6.962241164947435
+<s> your sweetness and disinterestedness are really angelic i do not know what to say to you. <e>	21.3926620993945
+<s> i feel as if i had never done you justice or loved you as you deserve. <e>	74.85469784529023
+<s> i only want to think you perfect and you set yourself against it. <e>	65.79716675754212
+<s> i must think your language too strong in speaking of both replied jane and i hope you will be convinced of it by seeing them happy together. <e>	67.7374336883456
+<s> you mentioned two instances. <e>	25.289495463033077
+<s> yes to the last. <e>	13.662876406243837
+<s> stop me whilst you can. <e>	100.21671365647127
+<s> you persist then in supposing his sisters influence him. <e>	65.99394037320516
+<s> they can only wish his happiness and if he is attached to me no other woman can secure it. <e>	53.865158098964756
+<s> but whatever may be their own wishes it is very unlikely they should have opposed their brother is. <e>	36.08711953060917
+<s> <title> bennet treated the matter differently. <e>	30.11928257748612
+<s> i congratulate her. <e>	9.655138800938007
+<s> thank you sir but a less agreeable man would satisfy me. <e>	81.69669633882076
+<s> the whole of what elizabeth had already heard his claims on <title> darcy and all that he had suffered from him was now openly acknowledged and publicly canvassed and every body was pleased to think how much they had always disliked <title> darcy before they had known any thing of the matter. <e>	62.460640374365965
+<s> <title> gardiner was a sensible gentleman like man greatly superior to his sister as well by nature as education. <e>	44.762047362527845
+<s> they had frequently been staying with her in town. <e>	35.72257559781075
+<s> <title> bennet had many grievances to relate and much to complain of. <e>	39.46613503144184
+<s> they had all been very ill used since she last saw her sister. <e>	49.58249430473251
+<s> two of her girls had been on the point of marriage and after all there was nothing in it. <e>	23.479707885042128
+<s> he made her an offer in this very room and she refused him. <e>	44.06372516300742
+<s> the consequence of it is that lady lucas will have a daughter married before i have and that longbourn estate is just as much entailed as ever. <e>	42.763059564796364
+<s> i am sorry it went off. <e>	7.284676215609762
+<s> but do you think she would be prevailed on to go back with us. <e>	13.432676830721215
+<s> miss bennet accepted her aunt is invitation with pleasure and the bingleys were no otherwise in her thoughts at the time than as she hoped that by caroline is not living in the same house with her brother she might occasionally spend a morning with her without any danger of seeing him. <e>	78.25742607167432
+<s> in comparing her recollection of pemberley with the minute description which wickham could give and in bestowing her tribute of praise on the character of its late possessor she was delighting both him and herself. <e>	120.1809172042012
+<s> i beg your pardon. <e>	14.488130395502901
+<s> but he is beyond all comparison the most agreeable man i ever saw and if he becomes really attached to me i believe it will be better that he should not. <e>	58.45645765070222
+<s> when i am in company with him i will not be wishing. <e>	9.968578217991563
+<s> perhaps it will be as well if you discourage his coming here so very often. <e>	40.14830563863762
+<s> you know my mother is ideas as to the necessity of constant company for her friends. <e>	37.35138911285514
+<s> <title> collins returned into hertfordshire soon after it had been quitted by the gardiners and jane but as he took up his abode with the lucases his arrival was no great inconvenience to <title> bennet. <e>	58.708214279967486
+<s> as they went down stairs together charlotte said i shall depend on hearing from you very often eliza. <e>	51.50263976533789
+<s> and i have another favour to ask. <e>	24.06517094765892
+<s> it was <title> collins is picture of hunsford and rosings rationally softened and elizabeth perceived that she must wait for her own visit there to know the rest. <e>	81.0135059858679
+<s> her impatience for this second letter was as well rewarded as impatience generally is. <e>	122.48524996915073
+<s> my dearest lizzy will i am sure be incapable of triumphing in her better judgment at my expence when i confess myself to have been entirely deceived in miss bingley is regard for me. <e>	53.30258824134396
+<s> she was very wrong in singling me out as she did i can safely say that every advance to intimacy began on her side. <e>	69.50000961774687
+<s> i am extremely glad that you have such pleasant accounts from our friends at hunsford. <e>	71.92888212149911
+<s> all expectation from the brother was now absolutely over. <e>	51.72960287654317
+<s> his apparent partiality had subsided his attentions were over he was the admirer of some one else. <e>	69.57593592291816
+<s> the only pain was in leaving her father who would certainly miss her and who when it came to the point so little liked her going that he told her to write to him and almost promised to answer her letter. <e>	80.30272624623368
+<s> sir william lucas and his daughter maria a good humoured girl but as empty headed as himself had nothing to say that could be worth hearing and were listened to with about as much delight as the rattle of the chaise. <e>	74.42432509243372
+<s> the day passed most pleasantly away the morning in bustle and shopping and the evening at one of the theatres. <e>	39.067859469220735
+<s> pray my dear aunt what is the difference in matrimonial affairs between the mercenary and the prudent motive. <e>	71.43657992621227
+<s> but he paid her not the smallest attention till her grandfather is death made her mistress of this fortune. <e>	68.97950085187345
+<s> no why should he. <e>	24.00727755609517
+<s> what are men to rocks and mountains. <e>	24.819360386520177
+<s> the paling of rosings park was their boundary on one side. <e>	75.66941188091556
+<s> at length the parsonage was discernible. <e>	18.318356630797634
+<s> <title> collins welcomed her friend with the liveliest pleasure and elizabeth was more and more satisfied with coming when she found herself so affectionately received. <e>	54.29121238547437
+<s> lady catherine is a very respectable sensible woman indeed added charlotte and a most attentive neighbour. <e>	55.315140187024454
+<s> she is the sort of woman whom one cannot regard with too much deference. <e>	43.12825644286581
+<s> a lively imagination soon settled it all. <e>	64.78091995077662
+<s> she opened the door and met maria in the landing place who breathless with agitation cried out oh my dear eliza. <e>	57.135469016234445
+<s> make haste and come down this moment. <e>	15.796087913399676
+<s> i expected at least that the pigs were got into the garden and here is nothing but lady catherine and her daughter. <e>	33.6238799484187
+<s> the old lady is <title> jenkinson who lives with them. <e>	45.734587790318756
+<s> i like her appearance said elizabeth struck with other ideas. <e>	50.435184454187066
+<s> when the ladies were separating for the toilette he said to elizabeth do not make yourself uneasy my dear cousin about your apparel. <e>	20.867398552754505
+<s> while they were dressing he came two or three times to their different doors to recommend their being quick as lady catherine very much objected to be kept waiting for her dinner. such formidable accounts of her ladyship and her manner of living quite frightened maria lucas who had been little used to company and she looked forward to her introduction at rosings with as much apprehension as her father had done to his presentation at st. james is. <e>	82.8540061068642
+<s> elizabeth found herself quite equal to the scene and could observe the three ladies before her composedly. lady catherine was a tall large woman with strongly marked features which might once have been handsome. <e>	152.69138829044974
+<s> there was neither in figure nor face any likeness between the ladies. <e>	111.33058462128116
+<s> in the intervals of her discourse with <title> collins she addressed a variety of questions to maria and elizabeth but especially to the latter of whose connections she knew the least and who she observed to <title> collins was a very genteel pretty kind of girl. <e>	94.81844046701124
+<s> your mother should have taken you to town every spring for the benefit of masters. <e>	43.09235852480437
+<s> my mother would have had no objection but my father hates london. <e>	50.034032396115876
+<s> has your governess left you. <e>	64.67322400026525
+<s> five daughters brought up at home without a governess. i never heard of such a thing. <e>	43.878185445677175
+<s> without a governess you must have been neglected. <e>	39.139781739319915
+<s> aye no doubt but that is what a governess will prevent and if i had known your mother i should have advised her most strenuously to engage one. <e>	85.73140477839587
+<s> it is wonderful how many families i have been the means of supplying in that way. <e>	23.755289339374716
+<s> four nieces of <title> jenkinson are most delightfully situated through my means and it was but the other day that i recommended another young person who was merely accidentally mentioned to me and the family are quite delighted with her. <e>	90.6942111911364
+<s> yes ma am all. <e>	9.497758758448922
+<s> all. what all five out at once. <e>	56.64049108152435
+<s> yes my youngest is not sixteen. <e>	49.22085284397008
+<s> perhaps she is full young to be much in company. <e>	51.13011840682912
+<s> when the gentlemen had joined them and tea was over the card tables were placed. <e>	29.218542535598232
+<s> lady catherine was generally speaking stating the mistakes of the three others or relating some anecdote of herself. <e>	149.80901520305548
+<s> he was storing his memory with anecdotes and noble names. <e>	31.701980285136482
+<s> sir william staid only a week at hunsford but his visit was long enough to convince him of his daughter is being most comfortably settled and of her possessing such a husband and such a neighbour as were not often met with. <e>	64.65237253536658
+<s> very few days passed in which <title> collins did not walk to rosings and not many in which his wife did not think it necessary to go likewise and till elizabeth recollected that there might be other family livings to be disposed of she could not understand the sacrifice of so many hours. <e>	74.93827802322441
+<s> their other engagements were few as the style of living of the neighbourhood in general was beyond the collinses reach. <e>	85.83839115564847
+<s> this however was no evil to elizabeth and upon the whole she spent her time comfortably enough there were half hours of pleasant conversation with charlotte and the weather was so fine for the time of year that she had often great enjoyment out of doors. <e>	74.05037606867717
+<s> elizabeth merely curtseyed to him without saying a word. <e>	15.97540021346125
+<s> colonel fitzwilliam entered into conversation directly with the readiness and ease of a well bred man and talked very pleasantly but his cousin after having addressed a slight observation on the house and garden to <title> collins sat for some time without speaking to any body. <e>	64.72060313902641
+<s> at length however his civility was so far awakened as to enquire of elizabeth after the health of her family. <e>	25.672844342273503
+<s> her ladyship received them civilly but it was plain that their company was by no means so acceptable as when she could get nobody else and she was in fact almost engrossed by her nephews speaking to them especially to darcy much more than to any other person in the room. <e>	59.48492465721844
+<s> colonel fitzwilliam seemed really glad to see them any thing was a welcome relief to him at rosings and <title> collins is pretty friend had moreover caught his fancy very much. <e>	68.59929753522617
+<s> it is of all subjects my delight. <e>	29.01897802736874
+<s> so much the better. <e>	2.7703421048460037
+<s> <title> darcy looked a little ashamed of his aunt is ill breeding and made no answer. <e>	21.541825868002235
+<s> i shall not say that you are mistaken he replied because you could not really believe me to entertain any design of alarming you and i have had the pleasure of your acquaintance long enough to know that you find great enjoyment in occasionally professing opinions which in fact are not your own. <e>	52.552909813723296
+<s> i should like to know how he behaves among strangers. <e>	24.30396836463918
+<s> he danced only four dances though gentlemen were scarce and to my certain knowledge more than one young lady was sitting down in want of a partner. <e>	52.6327362068431
+<s> my fingers wait your orders. <e>	34.43377125595857
+<s> it is because he will not give himself the trouble. <e>	31.567144998674085
+<s> we neither of us perform to strangers. <e>	51.865617468994934
+<s> here they were interrupted by lady catherine who called out to know what they were talking of. <e>	18.53636562547598
+<s> they then sat down and when her enquiries after rosings were made seemed in danger of sinking into total silence. <e>	112.86284862270418
+<s> it was absolutely necessary therefore to think of something and in this emergence recollecting when she had seen him last in hertfordshire and feeling curious to know what he would say on the subject of their hasty departure she observed how very suddenly you all quitted netherfield last november <title> darcy. <e>	73.03799542609688
+<s> he and his sisters were well i hope when you left london. <e>	29.053039222824438
+<s> perfectly so i thank you. <e>	33.6553042319644
+<s> she found that she was to receive no other answer and after a short pause added i think i have understood that <title> bingley has not much idea of ever returning to netherfield again. <e>	31.652007325701046
+<s> if he means to be but little at netherfield it would be better for the neighbourhood that he should give up the place entirely for then we might possibly get a settled family there. <e>	62.18095560531125
+<s> it must be very agreeable to her to be settled within so easy a distance of her own family and friends. <e>	31.940162402282777
+<s> the far and the near must be relative and depend on many varying circumstances. <e>	117.04104330146531
+<s> the tête à tête surprised them. <e>	16.802693352723114
+<s> my dear eliza he must be in love with you or he would never have called on us in this familiar way. <e>	43.113522663583595
+<s> it could not be for society as he frequently sat there ten minutes together without opening his lips and when he did speak it seemed the effect of necessity rather than of choice a sacrifice to propriety not a pleasure to himself. <e>	128.8883059440763
+<s> colonel fitzwilliam is occasionally laughing at his stupidity proved that he was generally different which her own knowledge of him could not have told her and as she would have liked to believe this change the effect of love and the object of that love her friend eliza she sat herself seriously to work to find it out. she watched him whenever they were at rosings and whenever he came to hunsford but without much success. <e>	87.040960264109
+<s> she had once or twice suggested to elizabeth the possibility of his being partial to her but elizabeth always laughed at the idea and <title> collins did not think it right to press the subject from the danger of raising expectations which might only end in disappointment for in her opinion it admitted not of a doubt that all her friend is dislike would vanish if she could suppose him to be in her power. <e>	73.60710659827414
+<s> he never said a great deal nor did she give herself the trouble of talking or of listening much but it struck her in the course of their third rencontre that he was asking some odd unconnected questions about her pleasure in being at hunsford her love of solitary walks and her opinion of <title> and <title> collins is happiness and that in speaking of rosings and her not perfectly understanding the house he seemed to expect that whenever she came into kent again she would be staying there too. <e>	109.12921135008962
+<s> it distressed her a little and she was quite glad to find herself at the gate in the pales opposite the parsonage. <e>	50.39612340246021
+<s> are you going much farther. <e>	32.90431987398578
+<s> do you certainly leave kent on saturday. <e>	31.572301648516632
+<s> yes if darcy does not put it off again. <e>	25.871106782303944
+<s> i speak feelingly. <e>	9.778398380521397
+<s> but in matters of greater weight i may suffer from the want of money. <e>	71.97750956557131
+<s> younger sons cannot marry where they like. <e>	168.25029920855513
+<s> unless where they like women of fortune which i think they very often do. <e>	82.02700501448007
+<s> no said colonel fitzwilliam that is an advantage which he must divide with me. <e>	41.33653470350021
+<s> i am joined with him in the guardianship of miss darcy. <e>	20.028404966977448
+<s> it was all conjecture. <e>	9.885249298475998
+<s> it is a circumstance which darcy of course would not wish to be generally known because if it were to get round to the lady is family it would be an unpleasant thing. <e>	51.9244061334589
+<s> and remember that i have not much reason for supposing it to be bingley. <e>	28.009064106044786
+<s> he did not talk to me of his own arts said fitzwilliam smiling. <e>	41.54822812945948
+<s> elizabeth made no answer and walked on her heart swelling with indignation. <e>	18.450875996575867
+<s> your cousin is conduct does not suit my feelings. <e>	54.61836063156897
+<s> this was spoken jestingly but it appeared to her so just a picture of <title> darcy that she would not trust herself with an answer and therefore abruptly changing the conversation talked on indifferent matters till they reached the parsonage. <e>	66.8793598187276
+<s> if his own vanity however did not mislead him he was the cause his pride and caprice were the cause of all that jane had suffered and still continued to suffer. <e>	61.44105818513563
+<s> to jane herself she exclaimed there could be no possibility of objection. <e>	55.498891318909244
+<s> her understanding excellent her mind improved and her manners captivating. <e>	59.35726688420521
+<s> when she thought of her mother indeed her confidence gave way a little but she would not allow that any objections there had material weight with <title> darcy whose pride she was convinced would receive a deeper wound from the want of importance in his friend is connections than from their want of sense and she was quite decided at last that he had been partly governed by this worst kind of pride and partly by the wish of retaining <title> bingley for his sister. <e>	69.49033590063674
+<s> <title> collins seeing that she was really unwell did not press her to go and as much as possible prevented her husband from pressing her but <title> collins could not conceal his apprehension of lady catherine is being rather displeased by her staying at home. <e>	57.85590924047564
+<s> she could not think of darcy is leaving kent without remembering that his cousin was to go with him but colonel fitzwilliam had made it clear that he had no intentions at all and agreeable as he was she did not mean to be unhappy about him. <e>	49.651061654648004
+<s> this he considered sufficient encouragement and the avowal of all that he felt and had long felt for her immediately followed. <e>	71.4282179759381
+<s> he spoke of apprehension and anxiety but his countenance expressed real security. <e>	66.54876762245779
+<s> it is natural that obligation should be felt and if i could feel gratitude i would now thank you. <e>	77.99183657952662
+<s> his complexion became pale with anger and the disturbance of his mind was visible in every feature. <e>	66.82794905656029
+<s> as she pronounced these words <title> darcy changed colour but the emotion was short and he listened without attempting to interrupt her while she continued. <e>	104.52485809883811
+<s> you dare not you cannot deny that you have been the principal if not the only means of dividing them from each other of exposing one to the censure of the world for caprice and instability the other to its derision for disappointed hopes and involving them both in misery of the acutest kind. <e>	90.97466690430788
+<s> can you deny that you have done it. <e>	20.587877425731783
+<s> in what imaginary act of friendship can you here defend yourself. <e>	144.16044360750428
+<s> and of your infliction cried elizabeth with energy. <e>	35.359067706757415
+<s> and yet you can treat the mention of his misfortunes with contempt and ridicule. <e>	78.90785780341302
+<s> but disguise of every sort is my abhorrence. <e>	80.67942979164367
+<s> nor am i ashamed of the feelings i related. <e>	56.5114182774852
+<s> elizabeth felt herself growing more angry every moment yet she tried to the utmost to speak with composure when she said you are mistaken <title> darcy if you suppose that the mode of your declaration affected me in any other way than as it spared me the concern which i might have felt in refusing you had you behaved in a more gentleman like manner. <e>	101.55269649827427
+<s> i perfectly comprehend your feelings and have now only to be ashamed of what my own have been. <e>	49.564820285288874
+<s> and with these words he hastily left the room and elizabeth heard him the next moment open the front door and quit the house. <e>	116.25171468453935
+<s> that he should have been in love with her for so many months. <e>	13.124776636112237
+<s> elizabeth awoke the next morning to the same thoughts and meditations which had at length closed her eyes. <e>	39.95132675742661
+<s> she had turned away but on hearing herself called though in a voice which proved it to be <title> darcy she moved again towards the gate. <e>	59.407286814458374
+<s> and then with a slight bow turned again into the plantation and was soon out of sight. <e>	32.30011887191487
+<s> the first mentioned was that regardless of the sentiments of either i had detached <title> bingley from your sister and the other that i had in defiance of various claims in defiance of honour and humanity ruined the immediate prosperity and blasted the prospects of <title> <e>	146.45394011574936
+<s> from that moment i observed my friend is behaviour attentively and i could then perceive that his partiality for miss bennet was beyond what i had ever witnessed in him. <e>	76.98140110792284
+<s> here again i shall give you pain to what degree you only can tell. <e>	60.88649315865989
+<s> my excellent father died about five years ago and his attachment to <title> wickham was to the last so steady that in his will he particularly recommended it to me to promote his advancement in the best manner that his profession might allow and if he took orders desired that a valuable family living might be his as soon as soon as it became vacant. <e>	107.4104239114348
+<s> for about three years i heard little of him but on the decease of the incumbent of the living which had been designed for him he applied to me again by letter for the presentation. <e>	60.08466909198526
+<s> this madam is a faithful narrative of every event in which we have been concerned together and if you do not absolutely reject it as false you will i hope acquit me henceforth of cruelty towards <title> wickham. <e>	75.2913896494541
+<s> ignorant as you previously were of every thing concerning either detection could not be in your power and suspicion certainly not in your inclination. <e>	80.0772565094484
+<s> you may possibly wonder why all this was not told you last night. <e>	48.944572114820744
+<s> if elizabeth when <title> darcy gave her the letter did not expect it to contain a renewal of his offers she had formed no expectation at all of its contents. <e>	48.522888196247166
+<s> again she read on. <e>	16.64820642324186
+<s> his countenance voice and manner had established him at once in the possession of every virtue. <e>	55.83754555021043
+<s> she could see him instantly before her in every charm of air and address but she could remember no more substantial good than the general approbation of the neighbourhood and the regard which his social powers had gained him in the mess. <e>	74.86389096176181
+<s> the story which followed of his designs on miss darcy received some confirmation from what had passed between colonel fitzwilliam and herself only the morning before and at last she was referred for the truth of every particular to colonel fitzwilliam himself from whom she had previously received the information of his near concern in all his cousin is affairs and whose character she had no reason to question. <e>	69.88478523377675
+<s> many of his expressions were still fresh in her memory. <e>	38.170004510386256
+<s> she remembered also that till the netherfield family had quitted the country he had told his story to no one but herself but that after their removal it had been every where discussed that he had then no reserves no scruples in sinking <title> darcy is character though he had assured her that respect for the father would always prevent his exposing the son. <e>	140.18437606288038
+<s> his behaviour to herself could now have had no tolerable motive he had either been deceived with regard to her fortune or had been gratifying his vanity by encouraging the preference which she believed she had most incautiously shewn. <e>	108.93600628260606
+<s> but vanity not love has been my folly. pleased with the preference of one and offended by the neglect of the other on the very beginning of our acquaintance i have courted prepossession and ignorance and driven reason away where either were concerned. <e>	106.89724745172394
+<s> it soothed but it could not console her for the contempt which had been thus self attracted by the rest of her family and as she considered that jane is disappointment had in fact been the work of her nearest relations and reflected how materially the credit of both must be hurt by such impropriety of conduct she felt depressed beyond any thing she had ever known before. <e>	63.234052483479275
+<s> you are all kindness madam but i believe we must abide by our original plan. <e>	58.40598056289431
+<s> when my niece georgiana went to ramsgate last summer i made a point of her having two men servants go with her. miss darcy the daughter of <title> darcy of pemberley and lady anne could not have appeared with propriety in a different manner. i am excessively attentive to all those things. <e>	107.6455339949249
+<s> reflection must be reserved for solitary hours whenever she was alone she gave way to it as the greatest relief and not a day went by without a solitary walk in which she might indulge in all the delight of unpleasant recollections. <e>	125.98109478526459
+<s> in her own past behaviour there was a constant source of vexation and regret and in the unhappy defects of her family a subject of yet heavier chagrin. <e>	47.480869353298154
+<s> elizabeth had frequently united with jane in an endeavour to check the imprudence of catherine and lydia but while they were supported by their mother is indulgence what chance could there be of improvement. <e>	67.10000035512374
+<s> they were ignorant idle and vain. <e>	16.84388553695725
+<s> i know not miss elizabeth said he whether <title> collins has yet expressed her sense of your kindness in coming to us but i am very certain you will not leave the house without receiving her thanks for it. <e>	48.45088525558677
+<s> we know how little there is to tempt any one to our humble abode. <e>	54.33249783165534
+<s> you see how continually we are engaged there. <e>	44.13470446329391
+<s> in truth i must acknowledge that with all the disadvantages of this humble parsonage i should not think any one abiding in it an object of compassion while they are sharers of our intimacy at rosings. <e>	66.80445128433169
+<s> i flatter myself at least that you will be able to do so. <e>	13.72101683236443
+<s> at length the chaise arrived the trunks were fastened on the parcels placed within and it was pronounced to be ready. <e>	63.07643495778894
+<s> but jane was to go home with her and at longbourn there would be leisure enough for observation. <e>	34.35887771804841
+<s> it was the second week in may in which the three young ladies set out together from gracechurch street for the town of in hertfordshire and as they drew near the appointed inn where <title> bennet is carriage was to meet them they quickly perceived in token of the coachman is punctuality both kitty and lydia looking out of a dining room up stairs. <e>	80.93277919099222
+<s> then shewing her purchases look here i have bought this bonnet. <e>	153.14106682015213
+<s> i shall pull it to pieces as soon as i get home and see if i can make it up any better. <e>	37.262455994120344
+<s> but there were two or three much uglier in the shop and when i have bought some prettier coloured satin to trim it with fresh i think it will be very tolerable. <e>	75.13199006957615
+<s> yes thought elizabeth that would be a delightful scheme indeed and completely do for us at once. <e>	73.81354022962041
+<s> now i have got some news for you said lydia as they sat down to table. <e>	15.364256560577518
+<s> there is no danger of wickham is marrying mary king. <e>	33.114011504962654
+<s> she is gone down to her uncle at liverpool gone to stay. <e>	27.68259199055873
+<s> added elizabeth safe from a connection imprudent as to fortune. <e>	68.67133362576176
+<s> who could about such a nasty little freckled thing. <e>	33.77145801381599
+<s> elizabeth was shocked to think that however incapable of such coarseness of expression herself the coarseness of the sentiment was little other than her own breast had formerly harboured and fancied liberal. <e>	113.03852242227147
+<s> i am glad i bought my bonnet if it is only for the fun of having another bandbox. <e>	56.891284023642704
+<s> i was in great hopes that one of you would have got a husband before you came back. <e>	46.4856653812377
+<s> my aunt philips wants you so to get husbands you ca not think. <e>	48.39476048015207
+<s> how i should like to be married before any of you and then i would chaperon you about to all the balls. <e>	29.959326428530222
+<s> we dressed up chamberlayne in woman is clothes on purpose to pass for a lady only think what fun. <e>	95.73198625201772
+<s> not a soul knew of it but col. and <title> forster and kitty and me except my aunt for we were forced to borrow one of her gowns and you cannot imagine how well he looked. <e>	62.67821669061085
+<s> with such kind of histories of their parties and good jokes did lydia assisted by kitty is hints and additions endeavour to amuse her companions all the way to longbourn. <e>	60.73870873948646
+<s> but i confess they would have no charms for me. <e>	29.311558807808847
+<s> what a stroke was this for poor jane. <e>	50.448263988185374
+<s> you never will be able to make both of them good for any thing. <e>	24.995159988664415
+<s> there is but such a quantity of merit between them just enough to make one good sort of man and of late it has been shifting about pretty much. <e>	59.57296021152406
+<s> and poor <title> darcy. <e>	14.170372565343774
+<s> i am sure you must feel it so. <e>	7.489375294062126
+<s> such an openness and gentleness in his manner. <e>	62.356429689501006
+<s> and yet i meant to be uncommonly clever in taking so decided a dislike to him without any reason. <e>	96.22652917163882
+<s> one may be continually abusive without saying any thing just but one cannot be always laughing at a man without now and then stumbling on something witty. <e>	86.34204275279762
+<s> how unfortunate that you should have used such very strong expressions in speaking of wickham to <title> darcy for now they do appear wholly undeserved. <e>	97.13697124437518
+<s> i want to be told whether i ought or ought not to make our acquaintance in general understand wickham is character. <e>	41.93855530324851
+<s> miss bennet paused a little and then replied surely there can be no occasion for exposing him so dreadfully. <e>	48.91640911768456
+<s> nobody wants him to come. <e>	34.86393125009464
+<s> and what sort of table do they keep. <e>	22.192758271597178
+<s> if she is half as sharp as her mother she is saving enough. <e>	67.01606789055457
+<s> a great deal of good management depend upon it. <e>	19.714347029729993
+<s> well much good may it do them. <e>	44.52079385058387
+<s> well if they can be easy with an estate that is not lawfully their own so much the better. <e>	27.750807012747124
+<s> what is to become of us. <e>	6.551481184662632
+<s> what are we to do. <e>	16.72293394965791
+<s> observed <title> bennet. <e>	14.352478233321117
+<s> and my aunt philips is sure it would do me a great deal of good added kitty. <e>	22.032491512283652
+<s> such were the kind of lamentations resounding perpetually through longbourn house. <e>	64.55943510346015
+<s> elizabeth tried to be diverted by them but all sense of pleasure was lost in shame. <e>	34.55136023248758
+<s> the rapture of lydia on this occasion her adoration of <title> forster the delight of <title> bennet and the mortification of kitty are scarcely to be described. <e>	52.9872491405923
+<s> repeated <title> bennet. <e>	13.328643234689215
+<s> what has she frightened away some of your lovers. <e>	41.37012018948291
+<s> indeed you are mistaken. <e>	12.410986763398176
+<s> it is not of peculiar but of general evils which i am now complaining. <e>	37.70807391575224
+<s> in this danger kitty is also comprehended. <e>	37.08924419072331
+<s> my dear father can you suppose it possible that they will not be censured and despised wherever they are known and that their sisters will not be often involved in the disgrace. <e>	59.446972413660255
+<s> at any rate she cannot grow many degrees worse without authorizing us to lock her up for the rest of her life. <e>	58.6668030244722
+<s> she was confident of having performed her duty and to fret over unavoidable evils or augment them by anxiety was no part of her disposition. <e>	97.54615178795126
+<s> had lydia and her mother known the substance of her conference with her father their indignation would hardly have found expression in their united volubility. <e>	69.0950333835333
+<s> had she known that her sister sought to tear her from such prospects and such realities as these what would have been her sensations. <e>	53.58260840097151
+<s> she had even learnt to detect in the very gentleness which had first delighted her an affectation and a sameness to disgust and weary. <e>	92.48570815089344
+<s> has he deigned to add ought of civility to his ordinary style. <e>	58.62396082508455
+<s> she saw that he wanted to engage her on the old subject of his grievances and she was in no humour to indulge him. <e>	36.210027663622036
+<s> this is not the sort of happiness which a man would in general wish to owe to his wife but where other powers of entertainment are wanting the true philosopher will derive benefit from such as are given. <e>	120.92734462246909
+<s> but she had never felt so strongly as now the disadvantages which must attend the children of so unsuitable a marriage nor ever been so fully aware of the evils arising from so ill judged a direction of talents talents which rightly used might at least have preserved the respectability of his daughters even if incapable of enlarging the mind of his wife. <e>	181.59564030827522
+<s> upon the whole therefore she found what has been sometimes found before that an event to which she had looked forward with impatient desire did not in taking place bring all the satisfaction she had promised herself. <e>	84.28190727952723
+<s> after the first fortnight or three weeks of her absence health good humour and cheerfulness began to re appear at longbourn. <e>	67.08062986071145
+<s> the town where she had formerly passed some years of her life and where they were now to spend a few days was probably as great an object of her curiosity as all the celebrated beauties of matlock chatsworth dovedale or the peak. <e>	87.67847059513936
+<s> it was impossible for her to see the word without thinking of pemberley and its owner. <e>	24.268238445723206
+<s> one enjoyment was certain that of suitableness as companions a suitableness which comprehended health and temper to bear inconveniences cheerfulness to enhance every pleasure and affection and intelligence which might supply it among themselves if there were disappointments abroad. <e>	285.4537508143187
+<s> in talking over their route the evening before <title> gardiner expressed an inclination to see the place again. <e>	43.345913321429215
+<s> they have some of the finest woods in the country. <e>	25.37042404813907
+<s> elizabeth said no more but her mind could not acquiesce. <e>	21.85153353184385
+<s> but against this there were objections and she finally resolved that it could be the last resource if her private enquiries as to the absence of the family were unfavourably answered. <e>	58.22711875318091
+<s> the park was very large and contained great variety of ground. <e>	71.9938490374503
+<s> they entered it in one of its lowest points and drove for some time through a beautiful wood stretching over a wide extent. <e>	115.73984799289198
+<s> on applying to see the place they were admitted into the hall and elizabeth as they waited for the housekeeper had leisure to wonder at her being where she was. <e>	44.503582287736805
+<s> the hill crowned with wood from which they had descended receiving increased abruptness from the distance was a beautiful object. <e>	211.86962798568226
+<s> how rejoiced was elizabeth that their own journey had not by any circumstance been delayed a day. <e>	114.890598236938
+<s> the housekeeper came forward and told them it was the picture of a young gentleman the son of her late master is steward who had been brought up by him at his own expence. he is now gone into the army she added but i am afraid he has turned out very wild. <e>	45.843868458440305
+<s> it was drawn at the same time as the other about eight years ago. <e>	24.779545628668135
+<s> but lizzy you can tell us whether it is like or not. <e>	34.45723918516788
+<s> this room was my late master is favourite room and these miniatures are just as they used to be then. <e>	136.19593787055294
+<s> <title> reynolds then directed their attention to one of miss darcy drawn when she was only eight years old. <e>	52.25823668399249
+<s> <title> gardiner whose manners were easy and pleasant encouraged her communicativeness by his questions and remarks <title> reynolds either from pride or attachment had evidently great pleasure in talking of her master and his sister. <e>	99.08670510057101
+<s> not so much as i could wish sir but i dare say he may spend half his time here and miss darcy is always down for the summer months. <e>	46.573420280318715
+<s> except thought elizabeth when she goes to ramsgate. <e>	33.89426805325546
+<s> elizabeth thought this was going pretty far and she listened with increasing astonishment as the housekeeper added i have never had a cross word from him in my life and i have known him ever since he was four years old. <e>	66.10139023450172
+<s> she related the subject of the pictures the dimensions of the rooms and the price of the furniture in vain. <e>	32.88431211591769
+<s> not like the wild young men now a days who think of nothing but themselves. <e>	64.73447644071544
+<s> perhaps we might be deceived. <e>	20.94046838743622
+<s> that is not very likely our authority was too good. <e>	36.86615180348737
+<s> there is nothing he would not do for her. <e>	11.734140785484831
+<s> in the former were many good paintings but elizabeth knew nothing of the art and from such as had been already visible below she had willingly turned to look at some drawings of miss darcy is in crayons whose subjects were usually more interesting and also more intelligible. <e>	114.40882958956585
+<s> at last it arrested her and she beheld a striking resemblance of <title> darcy with such a smile over the face as she remembered to have sometimes seen when he looked at her. <e>	44.2717071861506
+<s> they were within twenty yards of each other and so abrupt was his appearance that it was impossible to avoid his sight. <e>	43.2091253940443
+<s> had his first appearance or his resemblance to the picture they had just been examining been insufficient to assure the other two that they now saw <title> darcy the gardener is expression of surprise on beholding his master must immediately have told it. <e>	143.49524064993338
+<s> in what a disgraceful light might it not strike so vain a man. <e>	139.31243335962404
+<s> why did she come. <e>	13.115396251325599
+<s> that he should even speak to her was amazing. but to speak with such civility to enquire after her family. <e>	38.53589849808026
+<s> the walk being here less sheltered than on the other side allowed them to see him before they met. <e>	67.87206397400014
+<s> elizabeth however astonished was at least more prepared for an interview than before and resolved to appear and to speak with calmness if he really intended to meet them. <e>	107.97437527382708
+<s> with a glance she saw that he had lost none of his recent civility and to imitate his politeness she began as they met to admire the beauty of the place but she had not got beyond the words delightful and charming when some unlucky recollections obtruded and she fancied that praise of pemberley from her might be mischievously construed. <e>	116.7093302524359
+<s> what will be his surprise thought she when he knows who they are. <e>	59.04926291202808
+<s> <title> gardiner who was walking arm in arm with elizabeth gave her a look expressive of her wonder. <e>	76.20602472429964
+<s> from what can it proceed. <e>	12.784081177085406
+<s> he acknowledged the truth of it all and said that business with his steward had occasioned his coming forward a few hours before the rest of the party with whom he had been travelling. <e>	51.157371123977654
+<s> elizabeth answered only by a slight bow. <e>	11.677802236386638
+<s> at last she recollected that she had been travelling and they talked of matlock and dove dale with great perseverance. <e>	56.359918775376784
+<s> he is perfectly well behaved polite and unassuming said her uncle. <e>	82.3890902775989
+<s> elizabeth had settled it that <title> darcy would bring his sister to visit her the very day after her reaching pemberley and was consequently resolved not to be out of sight of the inn the whole of that morning. <e>	48.64842989189233
+<s> they had been walking about the place with some of their new friends and were just returned to the inn to dress themselves for dining with the same family when the sound of a carriage drew them to a window and they saw a gentleman and lady in a curricle driving up the street. <e>	78.20525890215612
+<s> while these newly born notions were passing in their heads the perturbation of elizabeth is feelings was every moment increasing. <e>	140.91464601586262
+<s> she retreated from the window fearful of being seen and as she walked up and down the room endeavouring to compose herself saw such looks of enquiring surprise in her uncle and aunt as made every thing worse. <e>	53.887073908538895
+<s> with astonishment did elizabeth see that her new acquaintance was at least as much embarrassed as herself. <e>	66.63811368056182
+<s> elizabeth who had expected to find in her as acute and unembarrassed an observer as ever <title> darcy had been was much relieved by discerning such different feelings. <e>	75.26057133967798
+<s> they had not been long together before darcy told her that bingley was also coming to wait on her and she had barely time to express her satisfaction and prepare for such a visitor when bingley is quick step was heard on the stairs and in a moment he entered the room. <e>	44.11429997045253
+<s> how ardently did she long to know whether any of his were directed in a like manner. <e>	47.98450920458532
+<s> sometimes she could fancy that he talked less than on former occasions and once or twice pleased herself with the notion that as he looked at her he was trying to trace a resemblance. <e>	89.12453234359243
+<s> we have not met since the 26th of november when we were all dancing together at netherfield. <e>	56.79021740878318
+<s> when she saw him thus seeking the acquaintance and courting the good opinion of people with whom any intercourse a few months ago would have been a disgrace when she saw him thus civil not only to herself but to the very relations whom he had openly disdained and recollected their last lively scene in hunsford parsonage the difference the change was so great and struck so forcibly on her mind that she could hardly restrain her astonishment from being visible. <e>	132.80815646532352
+<s> <title> gardiner looked at her niece desirous of knowing how she whom the invitation most concerned felt disposed as to its acceptance but elizabeth had turned away her head. <e>	87.1683816293766
+<s> elizabeth construing all this into a wish of hearing her speak of her sister was pleased and on this account as well as some others found herself when their visitors left them capable of considering the last half hour with some satisfaction though while it was passing the enjoyment of it had been little. <e>	68.30328651880271
+<s> but she had no reason to fear <title> and <title> gardiner is curiosity it was not their wish to force her communication. <e>	23.359530973850752
+<s> they had nothing to accuse him of but pride pride he probably had and if not it would certainly be imputed by the inhabitants of a small market town where the family did not visit. <e>	61.97123197335103
+<s> no hatred had vanished long ago and she had almost as long been ashamed of ever feeling a dislike against him that could be so called. <e>	68.91776420286592
+<s> he who she had been persuaded would avoid her as his greatest enemy seemed on this accidental meeting most eager to preserve the acquaintance and without any indelicate display of regard or any peculiarity of manner where their two selves only were concerned was soliciting the good opinion of her friends and bent on making her known to his sister. <e>	161.67710847864186
+<s> such a change in a man of so much pride excited not only astonishment but gratitude for to love ardent love it must be attributed and as such its impression on her was of a sort to be encouraged as by no means unpleasing though it could not be exactly defined. <e>	80.70644709811984
+<s> elizabeth soon saw that she was herself closely watched by miss bingley and that she could not speak a word especially to miss darcy without calling her attention. <e>	34.465491044658705
+<s> this observation would not have prevented her from trying to talk to the latter had they not been seated at an inconvenient distance but she was not sorry to be spared the necessity of saying much. <e>	81.55228515595309
+<s> in no countenance was attentive curiosity so strongly marked as in miss bingley is in spite of the smiles which overspread her face whenever she spoke to one of its objects for jealousy had not yet made her desperate and her attentions to <title> darcy were by no means over. <e>	102.21893185353447
+<s> they must be a great loss to your family. <e>	11.02061100561341
+<s> while she spoke an involuntary glance shewed her darcy with an heightened complexion earnestly looking at her and his sister overcome with confusion and unable to lift up her eyes. <e>	67.54608786137429
+<s> when darcy returned to the saloon miss bingley could not help repeating to him some part of what she had been saying to his sister. <e>	38.5238922908755
+<s> she is grown so brown and coarse. <e>	24.298068056148676
+<s> her nose wants character there is nothing marked in its lines. <e>	83.2542188573513
+<s> they talked of his sister his friends his house his fruit of every thing but himself yet elizabeth was longing to know what <title> gardiner thought of him and <title> gardiner would have been highly gratified by her niece is beginning the subject. <e>	47.71926681677363
+<s> elizabeth was not surprised at it as jane had written the direction remarkably ill. <e>	60.95195088098782
+<s> my father bears it better. <e>	28.893219601179823
+<s> the express was sent off directly. <e>	11.444451006477617
+<s> many circumstances might make it more eligible for them to be married privately in town than to pursue their first plan and even if he could form such a design against a young woman of lydia is connections which is not likely can i suppose her so lost to every thing. impossible. <e>	76.14960841174701
+<s> poor kitty has anger for having concealed their attachment but as it was a matter of confidence one cannot wonder. <e>	120.23743469398177
+<s> i am truly glad dearest lizzy that you have been spared something of these distressing scenes but now as the first shock is over shall i own that i long for your return. <e>	102.17977984283021
+<s> i am not so selfish however as to press for it if inconvenient. <e>	28.670876500475725
+<s> i take up my pen again to do what i have just told you i would not but circumstances are such that i cannot help earnestly begging you all to come here as soon as possible. <e>	60.874904113738424
+<s> cried he with more feeling than politeness then recollecting himself i will not detain you a minute but let me or let the servant go after <title> and <title> gardiner. <e>	106.42119166303532
+<s> calling back the servant therefore she commissioned him though in so breathless an accent as made her almost unintelligible to fetch his master and mistress home instantly. <e>	130.60118129172085
+<s> on his quitting the room she sat down unable to support herself and looking so miserably ill that it was impossible for darcy to leave her or to refrain from saying in a tone of gentleness and commiseration let me call your maid. <e>	62.58006969491557
+<s> my youngest sister has left all her friends has eloped has thrown herself into the power of of <title> wickham. <e>	61.076109336662505
+<s> my father is gone to london and jane has written to beg my uncle is immediate assistance and we shall be off i hope in half an hour. <e>	47.092588748859605
+<s> i have not the smallest hope. <e>	6.000009249031596
+<s> had i known what i ought what i dared to do. <e>	37.13685733436685
+<s> she could neither wonder nor condemn but the belief of his self conquest brought nothing consolatory to her bosom afforded no palliation of her distress. <e>	145.90111826431593
+<s> but self though it would intrude could not engross her. <e>	43.49666649600669
+<s> say that urgent business calls us home immediately. <e>	102.30993396914258
+<s> he readily assured her of his secrecy again expressed his sorrow for her distress wished it a happier conclusion than there was at present reason to hope and leaving his compliments for her relations with only one serious parting look went away. <e>	137.4911515323827
+<s> never since reading jane is second letter had she entertained a hope of wickham is meaning to marry her. <e>	95.24708688173068
+<s> the mischief of neglect and mistaken indulgence towards such a girl. oh. <e>	152.60549082129663
+<s> she was wild to be at home to hear to see to be upon the spot to share with jane in the cares that must now fall wholly upon her in a family so deranged a father absent a mother incapable of exertion and requiring constant attendance and though almost persuaded that nothing could be done for lydia her uncle is interference seemed of the utmost importance and till he entered the room the misery of her impatience was severe. <e>	133.39964755524286
+<s> not lydia only but all were concerned in it and after the first exclamations of surprise and horror <title> gardiner readily promised every assistance in his power. elizabeth though expecting no less thanked him with tears of gratitude and all three being actuated by one spirit every thing relating to their journey was speedily settled. <e>	172.34015213688818
+<s> yes and i told him we should not be able to keep our engagement. <e>	22.32633005394386
+<s> and are they upon such terms as for her to disclose the real truth. <e>	53.089968504855335
+<s> chapter v. i have been thinking it over again elizabeth said her uncle as they drove from the town and really upon serious consideration i am much more inclined than i was to judge as your eldest sister does of the matter. <e>	78.60213277159528
+<s> could he expect to be noticed again by the regiment after such an affront to colonel forster. <e>	38.60146957676438
+<s> his temptation is not adequate to the risk. <e>	42.8431607222586
+<s> cried elizabeth brightening up for a moment. <e>	15.40928881637801
+<s> why should they not go on to scotland if that had been the case. <e>	25.012727448661597
+<s> well then supposing them to be in london. <e>	14.317381418301874
+<s> why any fear of detection. <e>	19.035006794844843
+<s> his most particular friend you see by jane is account was persuaded of his never intending to marry her. <e>	65.45674807722986
+<s> wickham will never marry a woman without some money. <e>	38.289888526450895
+<s> it does seem and it is most shocking indeed replied elizabeth with tears in her eyes that a sister is sense of decency and virtue in such a point should admit of doubt. <e>	60.30873367256048
+<s> but really i know not what to say. <e>	10.612363079643993
+<s> she has been doing every thing in her power by thinking and talking on the subject to give greater what shall i call it. <e>	40.1828313395592
+<s> cried <title> gardiner whose curiosity as to the mode of her intelligence was all alive. <e>	40.79475405477153
+<s> from what he said of miss darcy i was thoroughly prepared to see a proud reserved disagreeable girl. <e>	54.03946247272961
+<s> that she could be in any danger from the deception never entered my head. <e>	54.5287195978349
+<s> i can remember no symptom of affection on either side and had any thing of the kind been perceptible you must be aware that ours is not a family on which it could be thrown away. <e>	48.33798234640473
+<s> they travelled as expeditiously as possible and sleeping one night on the road reached longbourn by dinner time the next day. <e>	79.77521304113976
+<s> he wrote me a few lines on wednesday to say that he had arrived in safety and to give me his directions which i particularly begged him to do. <e>	56.316175997130614
+<s> mary and kitty thank heaven. <e>	14.225576094691592
+<s> are quite well. <e>	10.564148651056561
+<s> jane ran to her uncle and aunt and welcomed and thanked them both with alternate smiles and tears. <e>	42.23240646833862
+<s> why did the forsters ever let her go out of their sight. <e>	36.54178113279205
+<s> i am sure there was some great neglect or other on their side for she is not the kind of girl to do such a thing if she had been well looked after. <e>	38.07027247239664
+<s> poor dear child. <e>	28.647998048249335
+<s> do not give way to useless alarm added he though it is right to be prepared for the worst there is no occasion to look on it as certain. <e>	45.79391695076135
+<s> it is not quite a week since they left brighton. <e>	25.51960246229693
+<s> my dear brother replied <title> bennet that is exactly what i could most wish for. <e>	20.289896639468186
+<s> but <title> gardiner though he assured her again of his earnest endeavours in the cause could not avoid recommending moderation to her as well in her hopes as her fears and after talking with her in this manner till dinner was on table they left her to vent all her feelings on the housekeeper who attended in the absence of her daughters. <e>	80.82005146628528
+<s> one came from her books and the other from her toilette. <e>	30.08632241826751
+<s> elizabeth lifted up her eyes in amazement but was too much oppressed to make any reply. <e>	49.574244642522274
+<s> i am so grieved for him. <e>	11.402122523716905
+<s> he did not repeat his persuasion of their not marrying and from that i am inclined to hope he might have been misunderstood before. <e>	40.17091014287024
+<s> i felt a little uneasy a little fearful of my sister is happiness with him in marriage because i knew that his conduct had not been always quite right. <e>	47.836681120187066
+<s> no i believe not. <e>	11.722196094012821
+<s> and did colonel forster appear to think ill of wickham himself. <e>	19.009474149483474
+<s> does he know his real character. <e>	23.630976031122977
+<s> he believed him to be imprudent and extravagant. <e>	12.704256568022673
+<s> could colonel forster repeat the particulars of lydia is note to his wife. <e>	46.05659784024192
+<s> you need not send them word at longbourn of my going if you do not like it for it will make the surprise the greater when i write to them and sign my name lydia wickham. <e>	70.78305168607541
+<s> tell him i hope he will excuse me when he knows all and tell him i will dance with him at the next ball we meet with great pleasure. <e>	47.5143654417902
+<s> i never saw any one so shocked. <e>	9.123122258893885
+<s> my mother was taken ill immediately and the whole house in such confusion. <e>	40.68169292641637
+<s> that i had been with you you have had every care and anxiety upon yourself alone. <e>	50.905297507343896
+<s> she was of great use and comfort to us all and lady lucas has been very kind she walked here on wednesday morning to condole with us and offered her services or any of her daughters if they could be of use to us. <e>	64.7643038102841
+<s> she then proceeded to enquire into the measures which her father had intended to pursue while in town for the recovery of his daughter. <e>	41.82983405324102
+<s> there was also a postscript to this effect. <e>	32.935308869146205
+<s> i have written to colonel forster to desire him to find out if possible from some of the young man is intimates in the regiment whether wickham has any relations or connections who would be likely to know in what part of the town he has now concealed himself. <e>	45.110141948904484
+<s> colonel forster will i dare say do every thing in his power to satisfy us on this head. <e>	34.694857853870815
+<s> the death of your daughter would have been a blessing in comparison of this. <e>	21.963440059377465
+<s> and it is the more to be lamented because there is reason to suppose as my dear charlotte informs me that this licentiousness of behaviour in your daughter has proceeded from a faulty degree of indulgence though at the same time for the consolation of yourself and <title> bennet i am inclined to think that her own disposition must be naturally bad or she could not be guilty of such an enormity at so early an age. <e>	57.891375725635065
+<s> his former acquaintance had been numerous but since he had been in the militia it did not appear that he was on terms of particular friendship with any of them. <e>	43.67032587962937
+<s> rendered spiritless by the ill success of all their endeavours he had yielded to his brother in law is intreaty that he would return to his family and leave it to him to do whatever occasion might suggest to be advisable for continuing their pursuit. <e>	89.72095498180731
+<s> the coach therefore took them the first stage of their journey and brought its master back to longbourn. <e>	70.98972448455041
+<s> elizabeth had received none since her return that could come from pemberley. <e>	52.95096468664652
+<s> he said as little as he had ever been in the habit of saying made no mention of the business that had taken him away and it was some time before his daughters had courage to speak of it. <e>	28.44607640865777
+<s> you must not be too severe upon yourself replied elizabeth. <e>	24.92466804652678
+<s> you may well warn me against such an evil. <e>	19.933218591456875
+<s> human nature is so prone to fall into it. <e>	42.6882477347118
+<s> and lydia used to want to go to london added kitty. <e>	44.54343348764958
+<s> they ran through the vestibule into the breakfast room from thence to the library their father was in neither and they were on the point of seeking him up stairs with their mother when they were met by the butler who said if you are looking for my master ma am he is walking towards the little copse. <e>	67.3640680072745
+<s> upon this information they instantly passed through the hall once more and ran across the lawn after their father who was deliberately pursuing his way towards a small wood on one side of the paddock. <e>	91.84826204927677
+<s> elizabeth read on i have seen them both. <e>	19.13589144625089
+<s> you will easily comprehend from these particulars that <title> wickham is circumstances are not so hopeless as they are generally believed to be. <e>	66.43773386712154
+<s> cried elizabeth when she had finished. <e>	6.2674054031404385
+<s> let me write for you said jane if you dislike the trouble yourself. <e>	43.356156990171044
+<s> and they must marry. <e>	11.693339669720245
+<s> yes yes they must marry. <e>	28.332079434030867
+<s> that is very true said elizabeth though it had not occurred to me before. <e>	15.270838239608963
+<s> a small sum could not do all this. <e>	38.39118219230317
+<s> how is half such a sum to be repaid. <e>	33.565476596604675
+<s> their father then went to the library to write and the girls walked into the breakfast room. <e>	35.93473911759158
+<s> that they should marry small as is their chance of happiness and wretched as is his character we are forced to rejoice. <e>	55.779403347967595
+<s> i comfort myself with thinking replied jane that he certainly would not marry lydia if he had not a real regard for her. <e>	43.46411348317303
+<s> he has children of his own and may have more. <e>	27.609736320625213
+<s> their taking her home and affording her their personal protection and countenance is such a sacrifice to her advantage as years of gratitude cannot enough acknowledge. <e>	155.28151260069703
+<s> their mutual affection will steady them and i flatter myself they will settle so quietly and live in so rational a manner as may in time make their past imprudence forgotten. <e>	157.88528240741937
+<s> they went to the library therefore and asked their father whether he would not wish them to make it known to her. <e>	33.785600070979086
+<s> as soon as jane had read <title> gardiner is hope of lydia is being soon married her joy burst forth and every following sentence added to its exuberance. <e>	91.1964080063772
+<s> she was now in an irritation as violent from delight as she had ever been fidgetty from alarm and vexation. <e>	63.2978547273617
+<s> my dear dear lydia. <e>	3.364542871904014
+<s> i will write to my sister gardiner about them directly. <e>	48.93253896942184
+<s> her eldest daughter endeavoured to give some relief to the violence of these transports by leading her thoughts to the obligations which <title> gardiner is behaviour laid them all under. <e>	82.37214715215165
+<s> how well it sounds. <e>	16.654875452639963
+<s> my dear hill have you heard the good news. <e>	38.36032453171744
+<s> <title> bennet had very often wished before this period of his life that instead of spending his whole income he had laid by an annual sum for the better provision of his children and of his wife if she survived him. <e>	104.09652675343858
+<s> he now wished it more than ever. <e>	25.90967835824124
+<s> he was seriously concerned that a cause of so little advantage to any one should be forwarded at the sole expence of his brother in law and he was determined if possible to find out the extent of his assistance and to discharge the obligation as soon as he could. <e>	58.47104137941675
+<s> when first <title> bennet had married economy was held to be perfectly useless for of course they were to have a son. <e>	89.16066432724044
+<s> <title> bennet had no turn for economy and her husband is love of independence had alone prevented their exceeding their income. <e>	68.70596842352532
+<s> haye park might do said she if the gouldings would quit it or the great house at stoke if the drawing room were larger but ashworth is too far off. <e>	107.40761793412526
+<s> her husband allowed her to talk on without interruption while the servants remained. <e>	43.26482624329405
+<s> but when they had withdrawn he said to her <title> bennet before you take any or all of these houses for your son and daughter let us come to a right understanding. <e>	87.51313940413738
+<s> elizabeth was now most heartily sorry that she had from the distress of the moment been led to make <title> darcy acquainted with their fears for her sister for since her marriage would so shortly give the proper termination to the elopement they might hope to conceal its unfavourable beginning from all those who were not immediately on the spot. <e>	100.43860877663889
+<s> there were few people on whose secrecy she would have more confidently depended but at the same time there was no one whose knowledge of a sister is frailty would have mortified her so much. <e>	56.86891406583544
+<s> she became jealous of his esteem when she could no longer hope to be benefited by it. <e>	38.46993073004886
+<s> she was convinced that she could have been happy with him when it was no longer likely they should meet. <e>	30.22084807231602
+<s> she began now to comprehend that he was exactly the man who in disposition and talents would most suit her. <e>	73.25589552432997
+<s> an union of a different tendency and precluding the possibility of the other was soon to be formed in their family. <e>	56.68769990861076
+<s> he promises fairly and i hope among different people where they may each have a character to preserve they will both be more prudent. <e>	170.6975355101419
+<s> and will you give yourself the trouble of carrying similar assurances to his creditors in meryton of whom i shall subjoin a list according to his information. <e>	94.90986159129895
+<s> the easy assurance of the young couple indeed was enough to provoke him. <e>	43.371346064778685
+<s> though i thought it would be very good fun if i was. <e>	24.054227355919064
+<s> her father lifted up his eyes. <e>	24.184630240096666
+<s> she then joined them soon enough to see lydia with anxious parade walk up to her mother is right hand and hear her say to her eldest sister ah. <e>	81.30735163165629
+<s> her ease and good spirits increased. <e>	19.05095698720719
+<s> she longed to see <title> philips the lucases and all their other neighbours and to hear herself called <title> wickham by each of them and in the mean time she went after dinner to shew her ring and boast of being married to <title> hill and the two housemaids. <e>	50.68789839772579
+<s> well mamma said she when they were all returned to the breakfast room and what do you think of my husband. <e>	19.42270094757975
+<s> i am sure my sisters must all envy me. <e>	27.919773339819606
+<s> but my dear lydia i do not at all like your going such a way off. <e>	23.11480666457466
+<s> and then when you go away you may leave one or two of my sisters behind you and i dare say i shall get husbands for them before the winter is over. <e>	51.19143817126938
+<s> i thank you for my share of the favour said elizabeth but i do not particularly like your way of getting husbands. <e>	39.052231806768724
+<s> their visitors were not to remain above ten days with them. <e>	41.13154179011209
+<s> these parties were acceptable to all to avoid a family circle was even more desirable to such as did think than such as did not. <e>	125.67164414673299
+<s> he was her dear wickham on every occasion no one was to be put in competition with him. <e>	45.5303739170991
+<s> and it was settled that we should all be there by eleven o clock. <e>	33.50563229538526
+<s> however i did not hear above one word in ten for i was thinking you may suppose of my dear wickham. <e>	74.10309908164245
+<s> i longed to know whether he would be married in his blue coat. <e>	30.275898023145515
+<s> but luckily he came back again in ten minutes time and then we all set out. <e>	52.60514366083031
+<s> you may depend upon my seeking no further. <e>	13.755782872781484
+<s> she could not bear such suspense and hastily seizing a sheet of paper wrote a short letter to her aunt to request an explanation of what lydia had dropt if it were compatible with the secrecy which had been intended. <e>	57.76173490070228
+<s> not that i shall though she added to herself as she finished the letter and my dear aunt if you do not tell me in an honourable manner i shall certainly be reduced to tricks and stratagems to find it out. <e>	28.39069123804299
+<s> your uncle is as much surprised as i am and nothing but the belief of your being a party concerned would have allowed him to act as he has done. <e>	47.29764213828193
+<s> if he had another motive i am sure it would never disgrace him. <e>	32.0891056919205
+<s> wickham indeed had gone to her on their first arrival in london and had she been able to receive them into her house they would have taken up their abode with her. <e>	40.675341635540086
+<s> he meant to resign his commission immediately and as to his future situation he could conjecture very little about it. <e>	58.86866930246633
+<s> but he found in reply to this question that wickham still cherished the hope of more effectually making his fortune by marriage in some other country. <e>	83.42123755815615
+<s> on saturday he came again. <e>	16.447218003177593
+<s> but at last your uncle was forced to yield and instead of being allowed to be of use to his niece was forced to put up with only having the probable credit of it which went sorely against the grain and i really believe your letter this morning gave him great pleasure because it required an explanation that would rob him of his borrowed feathers and give the praise where it was due. <e>	90.18492398560898
+<s> when all this was resolved on he returned again to his friends who were still staying at pemberley but it was agreed that he should be in london once more when the wedding took place and all money matters were then to receive the last finish. <e>	54.4205100563472
+<s> i believe i have now told you every thing. <e>	12.578526025572566
+<s> but slyness seems the fashion. <e>	72.81909138459024
+<s> your is very sincerely m. <e>	17.394228997551608
+<s> he had followed them purposely to town he had taken on himself all the trouble and mortification attendant on such a research in which supplication had been necessary to a woman whom he must abominate and despise and where he was reduced to meet frequently meet reason with persuade and finally bribe the man whom he always most wished to avoid and whose very name it was punishment to him to pronounce. <e>	117.09512326557285
+<s> he had done all this for a girl whom he could neither regard nor esteem. <e>	29.16759680052569
+<s> she was ashamed to think how much. <e>	23.751833911638048
+<s> she read over her aunt is commendation of him again and again. <e>	34.3214770808394
+<s> she was roused from her seat and her reflections by some one is approach and before she could strike into another path she was overtaken by wickham. <e>	77.31046197925981
+<s> <title> bennet and lydia are going in the carriage to meryton. <e>	22.822509417011762
+<s> at such a distance as that you know things are strangely misrepresented. <e>	33.73709509038312
+<s> we passed each other several times. <e>	61.7589716820739
+<s> i thought i understood from the gardiners that you had. <e>	27.882357891552427
+<s> a most delightful place. excellent parsonage house. <e>	83.03622822234053
+<s> did you ever hear darcy mention the circumstance when you were in kent. <e>	71.05983585530598
+<s> in future i hope we shall be always of one mind. <e>	30.36297624831469
+<s> my dear lydia she cried when shall we meet again. <e>	32.02763360511376
+<s> but you know married women have never much time for writing. <e>	66.872736238677
+<s> he simpers and smirks and makes love to us all. <e>	32.41846538653899
+<s> i defy even sir william lucas himself to produce a more valuable son in law. <e>	57.219298695666474
+<s> i often think said she that there is nothing so bad as parting with one is friends. <e>	45.1261110607
+<s> but the spiritless condition which this event threw her into was shortly relieved and her mind opened again to the agitation of hope by an article of news which then began to be in circulation. <e>	117.82933207595585
+<s> the housekeeper at netherfield had received orders to prepare for the arrival of her master who was coming down in a day or two to shoot there for several weeks. <e>	62.58846562371866
+<s> she looked at jane and smiled and shook her head by turns. <e>	17.187385278098233
+<s> but however he is very welcome to come to netherfield if he likes it. <e>	23.694208080569982
+<s> you may depend on it replied the other for <title> nicholls was in meryton last night i saw her passing by and went out myself on purpose to know the truth of it and she told me that it was certain true. <e>	57.60489341122249
+<s> i do assure you that the news does not affect me either with pleasure or pain. <e>	41.02970205611231
+<s> yet it is hard she sometimes thought that this poor man cannot come to a house which he has legally hired without raising all this speculation. <e>	106.5833903436244
+<s> i will leave him to himself. <e>	19.459078853414933
+<s> they were more disturbed more unequal than she had often seen them. <e>	49.56736250011812
+<s> consoled by this resolution she was the better able to bear her husband is incivility though it was very mortifying to know that her neighbours might all see <title> bingley in consequence of it before they did. <e>	90.67433429194604
+<s> as the day of his arrival drew near i begin to be sorry that he comes at all said jane to her sister. <e>	29.428543756457916
+<s> jane resolutely kept her place at the table but elizabeth to satisfy her mother went to the window she looked she saw <title> darcy with him and sat down again by her sister. <e>	50.83105301645394
+<s> some acquaintance or other my dear i suppose i am sure i do not know. <e>	19.252944098650676
+<s> that tall proud man. <e>	45.19859791451707
+<s> she knew but little of their meeting in derbyshire and therefore felt for the awkwardness which must attend her sister in seeing him almost for the first time after receiving his explanatory letter. <e>	63.93191891972587
+<s> bingley she had likewise seen for an instant and in that short period saw him looking both pleased and embarrassed. <e>	129.8871585709435
+<s> people did say you meant to quit the place entirely at michaelmas but however i hope it is not true. <e>	93.4136442121472
+<s> a great many changes have happened in the neighbourhood since you went away. <e>	14.868287877571925
+<s> to miss lydia bennet without there being a syllable said of her father or the place where she lived or any thing. <e>	48.29176685265465
+<s> did you see it. <e>	7.659348279802594
+<s> bingley replied that he did and made his congratulations. <e>	34.34703112036196
+<s> it is a delightful thing to be sure to have a daughter well married continued her mother but at the same time <title> bingley it is very hard to have her taken such a way from me. <e>	24.897855909935988
+<s> he has some friends though perhaps not so many as he deserves. <e>	46.14333518861925
+<s> it drew from her however the exertion of speaking which nothing else had so effectually done before and she asked bingley whether he meant to make any stay in the country at present. <e>	108.38148409549503
+<s> when you have killed all your own birds <title> bingley said her mother i beg you will come here and shoot as many as you please on <title> bennet is manor. <e>	69.30126205142699
+<s> were the same fair prospect to arise at present as had flattered them a year ago every thing she was persuaded would be hastening to the same vexatious conclusion. <e>	117.99189865133167
+<s> but her mind was so busily engaged that she did not always know when she was silent. <e>	29.629336077655747
+<s> when the gentlemen rose to go away <title> bennet was mindful of her intended civility and they were invited and engaged to dine at longbourn in a few days time. <e>	34.17754251369072
+<s> <title> bennet had been strongly inclined to ask them to stay and dine there that day but though she always kept a very good table she did not think any thing less than two courses could be good enough for a man on whom she had such anxious designs or satisfy the appetite and pride of one who had ten thousand a year. <e>	81.33789149075905
+<s> i am glad he dines here on tuesday. <e>	22.67338670584503
+<s> on tuesday there was a large party assembled at longbourn and the two who were most anxiously expected to the credit of their punctuality as sportsmen were in very good time. <e>	52.316690939431815
+<s> on entering the room he seemed to hesitate but jane happened to look round and happened to smile it was decided. <e>	48.17701164154473
+<s> though she dared not depend upon the consequence she yet received pleasure from observing his behaviour. <e>	78.14142858245415
+<s> <title> darcy was almost as far from her as the table could divide them. <e>	20.553007633335323
+<s> and on the gentlemen is approaching one of the girls moved closer to her than ever and said in a whisper the men sha not come and part us i am determined. <e>	54.6552081499707
+<s> she followed him with her eyes envied every one to whom he spoke had scarcely patience enough to help anybody to coffee and then was enraged against herself for being so silly. <e>	102.844083427514
+<s> how could i ever be foolish enough to expect a renewal of his love. <e>	27.25872288428525
+<s> have all her friends left her. <e>	33.73903877192931
+<s> she could think of nothing more to say but if he wished to converse with her he might have better success. <e>	25.53548319172664
+<s> when the tea things were removed and the card tables placed the ladies all rose and elizabeth was then hoping to be soon joined by him when all her views were overthrown by seeing him fall a victim to her mother is rapacity for whist players and in a few moments after seated with the rest of the party. <e>	83.14806846059513
+<s> <title> bennet had designed to keep the two netherfield gentlemen to supper but their carriage was unluckily ordered before any of the others and she had no opportunity of detaining them. <e>	90.98792339559625
+<s> the soup was fifty times better than what we had at the lucas is last week and even <title> darcy acknowledged that the partridges were remarkably well done and i suppose he has two or three french cooks at least. <e>	72.26935327152391
+<s> <title> long said so too for i asked her whether you did not. <e>	42.92642457398357
+<s> but why should you wish to persuade me that i feel more than i acknowledge. <e>	18.76514103159757
+<s> next time you call said she i hope we shall be more lucky. <e>	39.012331100046275
+<s> can you come to morrow. <e>	16.751783765739614
+<s> make haste make haste. <e>	23.11643440375502
+<s> here sarah come to miss bennet this moment and help her on with her gown. <e>	49.1115171540477
+<s> what has she to do with it. <e>	19.963039676844826
+<s> she then sat still five minutes longer but unable to waste such a precious occasion she suddenly got up and saying to kitty come here my love i want to speak to you took her out of the room. <e>	68.94105186063103
+<s> elizabeth was forced to go. <e>	5.5156584362913454
+<s> <title> bennet is schemes for this day were ineffectual. <e>	21.75896065043886
+<s> bingley of course returned with him to dinner and in the evening <title> bennet is invention was again at work to get every body away from him and her daughter. <e>	44.12915147691819
+<s> i do not deserve it. <e>	10.554753070595307
+<s> why is not every body as happy. <e>	18.517589467663285
+<s> elizabeth is congratulations were given with a sincerity a warmth a delight which words could but poorly express. <e>	167.47140532767926
+<s> and this said she is the end of all his friend is anxious circumspection. <e>	31.134382448469427
+<s> i remember as soon as ever i saw him when he first came into hertfordshire last year i thought how likely it was that you should come together. <e>	37.47898624921701
+<s> mary petitioned for the use of the library at netherfield and kitty begged very hard for a few balls there every winter. <e>	81.2891500399667
+<s> elizabeth had now but little time for conversation with her sister for while he was present jane had no attention to bestow on any one else but she found herself considerably useful to both of them in those hours of separation that must sometimes occur. <e>	103.85869535094216
+<s> he has made me so happy said she one evening by telling me that he was totally ignorant of my being in town last spring. <e>	35.25726195052355
+<s> it must have been his sister is doing. <e>	14.015234865660863
+<s> would you believe it lizzy that when he went to town last november he really loved me and nothing but a persuasion of my being indifferent would have prevented his coming down again. <e>	64.99346273600156
+<s> he made a little mistake to be sure but it is to the credit of his modesty. <e>	32.16578973518496
+<s> elizabeth was pleased to find that he had not betrayed the interference of his friend for though jane had the most generous and forgiving heart in the world she knew it was a circumstance which must prejudice her against him. <e>	37.35437794455756
+<s> no no let me shift for myself and perhaps if i have very good luck i may meet with another <title> collins in time. <e>	56.489343003452284
+<s> one morning about a week after bingley is engagement with jane had been formed as he and the females of the family were sitting together in the dining room their attention was suddenly drawn to the window by the sound of a carriage and they perceived a chaise and four driving up the lawn. <e>	78.4949096102948
+<s> yes madam said <title> bennet delighted to speak to a lady catherine. <e>	23.734922598070096
+<s> it is nothing in comparison of rosings my lady i dare say but i assure you it is much larger than sir william lucas is. <e>	27.462318536148754
+<s> i saw them the night before last. <e>	36.11896401474524
+<s> elizabeth now expected that she would produce a letter for her from charlotte as it seemed the only probable motive for her calling. <e>	98.02668626884028
+<s> <title> bennet with great civility begged her ladyship to take some refreshment but lady catherine very resolutely and not very politely declined eating any thing and then rising up said to elizabeth miss bennet there seemed to be a prettyish kind of a little wilderness on one side of your lawn. <e>	77.16530286322714
+<s> go my dear cried her mother and shew her ladyship about the different walks. <e>	40.59980733102667
+<s> said she as she looked in her face. <e>	27.495359963732668
+<s> as soon as they entered the copse lady catherine began in the following manner you can be at no loss miss bennet to understand the reason of my journey hither. <e>	48.30971311397063
+<s> but however insincere you may choose to be you shall not find me so. <e>	35.36562924428558
+<s> i do not pretend to possess equal frankness with your ladyship. <e>	34.466575831047685
+<s> if i have i shall be the last person to confess it. <e>	25.12422871885268
+<s> now what have you to say. <e>	16.66359053662388
+<s> lady catherine hesitated for a moment and then replied the engagement between them is of a peculiar kind. <e>	65.76671927820108
+<s> while in their cradles we planned the union and now at the moment when the wishes of both sisters would be accomplished in their marriage to be prevented by a young woman of inferior birth of no importance in the world and wholly unallied to the family. <e>	70.7858178140439
+<s> because honour decorum prudence nay interest forbid it. <e>	216.99287026920555
+<s> is nothing due to me on that score. <e>	28.17862460517639
+<s> i have not been used to submit to any person is whims. <e>	15.77371995301181
+<s> i have not been in the habit of brooking disappointment. <e>	9.680735357395237
+<s> hear me in silence. <e>	26.040321245848887
+<s> my daughter and my nephew are formed for each other. <e>	32.23330174362164
+<s> they are descended on the maternal side from the same noble line and on the father is from respectable honourable and ancient though untitled families. <e>	144.89570517617693
+<s> but it must not shall not be. <e>	17.450726684679434
+<s> but who was your mother. <e>	16.43709986350882
+<s> do not imagine me ignorant of their condition. <e>	18.806042528978594
+<s> i will make no promise of the kind. <e>	13.732105314743437
+<s> i shall not go away till you have given me the assurance i require. <e>	25.47514216792961
+<s> to all the objections i have already urged i have still another to add. <e>	51.88470480323071
+<s> i am no stranger to the particulars of your youngest sister is infamous elopement. <e>	69.76866240571886
+<s> is her husband is the son of his late father is steward to be his brother. <e>	42.42394235940962
+<s> heaven and earth. of what are you thinking. <e>	30.294854070965663
+<s> you have insulted me in every possible method. <e>	13.452588219607675
+<s> and she rose as she spoke. <e>	33.25582358426213
+<s> you know my sentiments. <e>	8.490651601289604
+<s> you are then resolved to have him. <e>	19.098350733348035
+<s> i have said no such thing. <e>	7.325219591191805
+<s> you refuse to obey the claims of duty honour and gratitude. <e>	74.60385757536754
+<s> i came to try you. <e>	14.75869934041283
+<s> i send no compliments to your mother. <e>	24.18403541343757
+<s> she is a very fine looking woman. <e>	13.51069649281329
+<s> she is on her road somewhere i dare say and so passing through meryton thought she might as well call on you. <e>	61.44648186229717
+<s> if he had been wavering before as to what he should do which had often seemed likely the advice and intreaty of so near a relation might settle every doubt and determine him at once to be as happy as dignity unblemished could make him. <e>	88.90539198061356
+<s> in that case he would return no more. <e>	34.33284144222999
+<s> if therefore an excuse for not keeping his promise should come to his friend within a few days she added i shall know how to understand it. <e>	38.97038220854132
+<s> from <title> collins. <e>	7.555498645361459
+<s> he begins with congratulations on the approaching nuptials of my eldest daughter of which it seems he has been told by some of the good natured gossiping lucases. <e>	72.19969304875185
+<s> having thus offered you the sincere congratulations of <title> collins and myself on this happy event let me now add a short hint on the subject of another of which we have been advertised by the same authority. <e>	80.4350257148861
+<s> yet in spite of all these temptations let me warn my cousin elizabeth and yourself of what evils you may incur by a precipitate closure with this gentleman is proposals which of course you will be inclined to take immediate advantage of. <e>	97.57882038433073
+<s> have you any idea lizzy who this gentleman is. <e>	37.067409143475615
+<s> darcy_ you see is the man. <e>	23.512780780654406
+<s> are you not diverted. <e>	19.93490087469672
+<s> you ought certainly to forgive them as a christian but never to admit them in your sight or allow their names to be mentioned in your hearing. <e>	168.25485792693155
+<s> the rest of his letter is only about his dear charlotte is situation and his expectation of a young olive branch. <e>	36.41618080882667
+<s> had they fixed on any other man it would have been nothing but his perfect indifference and your pointed dislike make it so delightfully absurd. <e>	69.72662452742229
+<s> nay when i read a letter of his i cannot help giving him the preference even over wickham much as i value the impudence and hypocrisy of my son in law. <e>	115.87027055951728
+<s> elizabeth had never been more at a loss to make her feelings appear what they were not. <e>	23.228300161634092
+<s> i can no longer help thanking you for your unexampled kindness to my poor sister. <e>	39.96956836607247
+<s> after a short pause her companion added you are too generous to trifle with me. <e>	35.51007809416895
+<s> she soon learnt that they were indebted for their present good understanding to the efforts of his aunt who did call on him in her return through london and there relate her journey to longbourn its motive and the substance of her conversation with elizabeth dwelling emphatically on every expression of the latter which in her ladyship is apprehension peculiarly denoted her perverseness and assurance in the belief that such a relation must assist her endeavours to obtain that promise from her nephew which she had refused to give. <e>	131.4603254028411
+<s> for though your accusations were ill founded formed on mistaken premises my behaviour to you at the time had merited the severest reproof. <e>	155.88729058416342
+<s> i cannot think of it without abhorrence. <e>	17.949744547510594
+<s> your reproof so well applied i shall never forget had you behaved in a more gentleman like manner. <e>	74.68551488795912
+<s> you know not you can scarcely conceive how they have tortured me though it was some time i confess before i was reasonable enough to allow their justice. <e>	83.23498427796825
+<s> i assure you that i have long been most heartily ashamed of it. <e>	23.954347626149172
+<s> darcy mentioned his letter. <e>	25.49805497241949
+<s> i knew said he that what i wrote must give you pain but it was necessary. <e>	27.120684152205637
+<s> there was one part especially the opening of it which i should dread your having the power of reading again. <e>	82.56040846218124
+<s> indeed i had. <e>	9.313460935593689
+<s> my object then replied darcy was to shew you by every civility in my power that i was not so mean as to resent the past and i hoped to obtain your forgiveness to lessen your ill opinion by letting you see that your reproofs had been attended to. <e>	105.18344913389816
+<s> after walking several miles in a leisurely manner and too busy to know any thing about it they found at last on examining their watches that it was time to be at home. <e>	58.96698149880784
+<s> what could become of <title> bingley and jane. <e>	16.932270725932828
+<s> i must ask whether you were surprised. <e>	33.689527623849564
+<s> not at all. <e>	3.964480490559865
+<s> i told him moreover that i believed myself mistaken in supposing as i had done that your sister was indifferent to him and as i could easily perceive that his attachment to her was unabated i felt no doubt of their happiness together. <e>	48.7159442110398
+<s> but his anger i am persuaded lasted no longer than he remained in any doubt of your sister is sentiments. <e>	50.82636653125185
+<s> in anticipating the happiness of bingley which of course was to be inferior only to his own he continued the conversation till they reached the house. <e>	37.087445331108874
+<s> she coloured as she spoke but neither that nor any thing else awakened a suspicion of the truth. <e>	60.30089180443634
+<s> you are joking lizzy. <e>	8.609556735270031
+<s> it cannot be. <e>	6.459572679299859
+<s> perhaps i did not always love him so well as i do now. <e>	19.890724657621348
+<s> this is the last time i shall ever remember it myself. <e>	34.80422319461915
+<s> can it be really so. <e>	16.996761087826762
+<s> my dear dear lizzy i would i do congratulate you but are you certain. <e>	30.80752338929401
+<s> shall you like to have such a brother. <e>	21.951795497971187
+<s> it has been coming on so gradually that i hardly know when it began. <e>	40.39781434242699
+<s> but lizzy you have been very sly very reserved with me. <e>	31.55478606941689
+<s> but now she would no longer conceal from her his share in lydia is marriage. <e>	43.15906498008218
+<s> what shall we do with him. <e>	20.61929979351778
+<s> i advise <title> darcy and lizzy and kitty said <title> bennet to walk to oakham mount this morning. <e>	41.090786808902024
+<s> it may do very well for the others replied <title> bingley but i am sure it will be too much for kitty. <e>	24.739842194573
+<s> she could not determine how her mother would take it sometimes doubting whether all his wealth and grandeur would be enough to overcome her abhorrence of the man. <e>	82.61767916926625
+<s> but whether she were violently set against the match or violently delighted with it it was certain that her manner would be equally ill adapted to do credit to her sense and she could no more bear that <title> darcy should hear the first raptures of her joy than the first vehemence of her disapprobation. <e>	78.60845512839285
+<s> or in other words you are determined to have him. <e>	16.435023401330767
+<s> he is perfectly amiable. <e>	20.324716712269854
+<s> your lively talents would place you in the greatest danger in an unequal marriage. <e>	151.5988000819038
+<s> you could scarcely escape discredit and misery. <e>	99.44604181149982
+<s> and so darcy did every thing made up the match gave the money paid the fellow is debts and got him his commission. <e>	96.64780870297643
+<s> it will save me a world of trouble and economy. <e>	53.65535495849397
+<s> every thing was too recent for gaiety but the evening passed tranquilly away there was no longer any thing material to be dreaded and the comfort of ease and familiarity would come in time. <e>	79.39170159219658
+<s> she began at length to recover to fidget about in her chair get up sit down again wonder and bless herself. <e>	103.8927785006649
+<s> lord bless me. <e>	48.37375335413086
+<s> who would have thought it. <e>	5.6706762240261686
+<s> and is it really true. <e>	24.749295826908995
+<s> i am so pleased so happy. <e>	19.63344738110839
+<s> such a charming man. so handsome. <e>	19.205917620801007
+<s> so tall. oh my dear lizzy. <e>	23.474595318341994
+<s> pray apologise for my having disliked him so much before. <e>	70.78503369622055
+<s> three daughters married. <e>	35.020233511011654
+<s> ten thousand a year and very likely more. <e>	3.6484885934013676
+<s> tis as good as a lord. <e>	36.716329548287504
+<s> it is too long ago. <e>	9.123409789362912
+<s> i was in the middle before i knew that i had begun. <e>	18.435984912978107
+<s> it was very little less. <e>	6.898870804326581
+<s> had you not been really amiable you would have hated me for it but in spite of the pains you took to disguise yourself your feelings were always noble and just and in your heart you thoroughly despised the persons who so assiduously courted you. <e>	122.67802077008294
+<s> why especially when you called did you look as if you did not care about me. <e>	21.117125740290266
+<s> we will go round the park every day. <e>	24.284076118225073
+<s> i am the happiest creature in the world. <e>	5.511787526786533
+<s> perhaps other people have said so before but not one with such justice. <e>	71.14219831137605
+<s> console lady catherine as well as you can. <e>	20.14105691212044
+<s> elizabeth did all she could to shield him from the frequent notice of either and was ever anxious to keep him to herself and to those of her family with whom he might converse without mortification and though the uncomfortable feelings arising from all this took from the season of courtship much of its pleasure it added to the hope of the future and she looked forward with delight to the time when they should be removed from society so little pleasing to either to all the comfort and elegance of their family party at pemberley. <e>	90.61383151419244
+<s> i wish i could say for the sake of her family that the accomplishment of her earnest desire in the establishment of so many of her children produced so happy an effect as to make her a sensible amiable well informed woman for the rest of her life though perhaps it was lucky for her husband who might not have relished domestic felicity in so unusual a form that she still was occasionally nervous and invariably silly. <e>	84.55820889990139
+<s> he delighted in going to pemberley especially when he was least expected. <e>	49.91654199897941
+<s> the letter was to this effect my dear lizzy i wish you joy. <e>	11.451620946776043
+<s> it had always been evident to her that such an income as theirs under the direction of two persons so extravagant in their wants and heedless of the future must be very insufficient to their support and whenever they changed their quarters either jane or herself were sure of being applied to for some little assistance towards discharging their bills. <e>	118.2448530088635
+<s> they were able to love each other even as well as they intended. <e>	25.863453106877074
+<s> georgiana had the highest opinion in the world of elizabeth though at first she often listened with an astonishment bordering on alarm at her lively sportive manner of talking to her brother. <e>	64.31523789985052

@@ -1,0 +1,4 @@
+resources/
+.ipynb_checkpoints
+UD_English-Atis
+GoogleNews-vectors-negative300.bin

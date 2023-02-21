@@ -1,0 +1,1001 @@
+Average Perplexity: 36.69160122899911
+<s> halted he peered down the dark winding stairs and called out coarsely come up kinch <e>	73.87480129708692
+<s> he skipped off the gunrest and looked gravely at his watcher gathering about his legs the loose folds of his gown. <e>	105.71524944058355
+<s> tripping and sunny like the buck himself. <e>	34.14281592563388
+<s> he shaved warily over his chin. <e>	16.485168789913402
+<s> stephen suffered him to pull out and hold up on show by its corner a dirty crumpled handkerchief. <e>	57.42257354599109
+<s> a tolerant smile curled his lips. <e>	14.738070026801802
+<s> the ring of bay and skyline held a dull green mass of liquid. <e>	54.29009847495345
+<s> he swept the mirror a half circle in the air to flash the tidings abroad in sunlight now radiant on the sea. <e>	99.66075519821482
+<s> look at yourself he said you dreadful bard <e>	29.835779897324134
+<s> lead him not into temptation. <e>	11.050401650781442
+<s> the rage of caliban at not seeing his face in a mirror he said. <e>	37.64177374420814
+<s> stephen depressed by his own voice said do you remember the first day i went to your house after my mother is death <e>	27.673403570706657
+<s> you would not kneel down to pray for your mother on her deathbed when she asked you. <e>	23.38235119625178
+<s> i am inconsequent. <e>	2.687193729535434
+<s> wavewhite wedded words shimmering on the dim tide. <e>	37.00413608419428
+<s> for those words stephen love is bitter mystery. <e>	11.122061633001877
+<s> a cored apple filled with brown sugar roasting for her at the hob on a dark autumn evening. <e>	125.22725793889747
+<s> on me alone. <e>	6.640419458592226
+<s> touch him for a quid will you <e>	7.671103309975456
+<s> i am another now and yet the same. <e>	13.574248802579534
+<s> he hacked through the fry on the dish and slapped it out on three plates saying in nomine patris et filii et spiritus sancti. haines sat down to pour out the tea. <e>	56.75775237875983
+<s> i am giving you two lumps each he said. <e>	17.220412168034663
+<s> mother grogan was one imagines a kinswoman of mary ann. <e>	23.049813355722506
+<s> buck mulligan is face smiled with delight. <e>	7.600899113970314
+<s> living in a bogswamp eating cheap food and the streets paved with dust horsedung and consumptives spits. <e>	46.81561772268894
+<s> i thought it was irish she said by the sound of it. <e>	12.590650999947977
+<s> let us get out of the kip. <e>	5.8921605651665185
+<s> yes of course he said as they went on again. <e>	8.910433283565304
+<s> kneel down before me. <e>	9.528553251342542
+<s> i can quite understand that he said calmly. <e>	15.913325230292148
+<s> he scrambled up by the stones water glistening on his pate and on its garland of grey hair water rilling over his chest and paunch and spilling jets out of his black sagging loincloth. <e>	59.27060797320144
+<s> a sleek brown head a seal is far out on the water round. <e>	59.55117152831778
+<s> pyrrhus a pier. <e>	8.246536090145613
+<s> kingstown pier sir. <e>	5.598657691981805
+<s> time has branded them and fettered they are lodged in the room of the infinite possibilities they have ousted. <e>	35.78971947444503
+<s> hockey at ten sir. <e>	12.448511661618584
+<s> tis time for this poor soul to go to heaven. <e>	12.581340201590315
+<s> numbers eleven to fifteen sargent answered. <e>	26.272156043859752
+<s> ugly and futile lean neck and tangled hair and a stain of ink a snail is bed. <e>	25.55393755244924
+<s> it is very simple stephen said as he stood up. <e>	7.914673148629685
+<s> money is power. <e>	9.233889788372357
+<s> mr deasy laughed with rich delight putting back his savingsbox. <e>	25.719679432914837
+<s> sit down a moment. <e>	6.4799411261502975
+<s> full stop mr deasy bade his keys. <e>	25.343868663524088
+<s> emperor is horses at mürzsteg lower austria. <e>	30.02725358901183
+<s> he raised his forefinger and beat the air oldly before his voice spoke. <e>	30.29833667779337
+<s> their eyes knew their years of wandering and patient knew the dishonours of their flesh. <e>	54.24727457381175
+<s> history stephen said is a nightmare from which i am trying to awake. <e>	20.264447503051546
+<s> if you can have them published at once. <e>	15.525333915547733
+<s> still i will help him in his fight. <e>	15.98818339519856
+<s> no more letters i hope. <e>	14.550379595901424
+<s> yes sir stephen said turning back at the gate. <e>	9.139166475241709
+<s> a coughball of laughter leaped from his throat dragging after it a rattling chain of phlegm. <e>	90.7688933451734
+<s> then he was aware of them bodies before of them coloured. <e>	22.398640684965837
+<s> a lex eterna stays about him. <e>	19.034450139063484
+<s> and skeweyed walter sirring his father no less <e>	16.07867882989313
+<s> in his broad bed nuncle richie pillowed and blanketed extends over the hillock of his knees a sturdy forearm. <e>	146.40167809482307
+<s> abbas father furious dean what offence laid fire to their brains <e>	108.5591937622331
+<s> _descende calve ut ne nimium decalveris_. <e>	13.332272252558584
+<s> son of the wild goose kevin egan of paris. <e>	13.643501617406004
+<s> lap lapin. he hopes to win in the gros lots. <e>	18.072367076436528
+<s> my latin quarter hat. <e>	10.642036095954117
+<s> you seem to have enjoyed yourself. <e>	20.147490229099304
+<s> euge _ pretending to speak broken english as you dragged your valise porter threepence across the slimy pier at newhaven. <e>	129.09961131251504
+<s> belluomo rises from the bed of his wife is lover is wife the kerchiefed housewife is astir a saucer of acetic acid in her hand. <e>	60.83207629228888
+<s> to yoke me as his yokefellow our crimes our common cause. <e>	73.76281040802614
+<s> no the dog. <e>	6.961191984673803
+<s> pretenders live their lives. <e>	16.719967862142735
+<s> he saved men from drowning and you shake at a cur is yelping. <e>	31.899348995622894
+<s> ca not see <e>	3.1847064549835906
+<s> a drowning man. <e>	7.162405844124205
+<s> i see her skirties. <e>	3.9522177112526453
+<s> unheeded he kept by them as they came towards the drier sand a rag of wolf is tongue redpanting from his jaws. <e>	100.62935272569435
+<s> along by the edge of the mole he lolloped dawdled smelt a rock and from under a cocked hindleg pissed against it. <e>	69.43925552319087
+<s> haroun al raschid. <e>	2.601997950123509
+<s> that was the rule said. <e>	7.210035273305949
+<s> shouldering their bags they trudged the red egyptians. <e>	35.533317813203695
+<s> the banknotes blast them. <e>	19.34741987232365
+<s> our souls shamewounded by our sins cling to us yet more a woman to her lover clinging the more the more. <e>	67.55503202704098
+<s> touch touch me. <e>	10.274626445538116
+<s> pain is far. <e>	9.005993402835696
+<s> no they will pass on passing chafing against the low rocks swirling passing. <e>	130.23213651936422
+<s> and spent its speech ceases. <e>	32.37085930728621
+<s> full fathom five thy father lies. <e>	43.618846318168906
+<s> sunk though he be beneath the watery floor. <e>	4.934949886479821
+<s> my cockle hat and staff and hismy sandal shoon. <e>	14.404922943838908
+<s> why i wonder. <e>	4.408505330745075
+<s> he liked thick giblet soup nutty gizzards a stuffed roast heart liverslices fried with crustcrumbs fried hencods roes. <e>	140.5055387770373
+<s> the cat mewed in answer and stalked again stiffly round a leg of the table mewing. <e>	22.59267334125464
+<s> she cried running to lap. <e>	14.38400403926426
+<s> be back in a minute. <e>	4.841027151263843
+<s> boland is breadvan delivering with trays our daily but she prefers yesterday is loaves turnovers crisp crowns hot. <e>	213.44709778872425
+<s> a girl playing one of those instruments what do you call them dulcimers. <e>	19.46111079438289
+<s> save it they ca not. <e>	9.051529512587246
+<s> to catch up and walk behind her if she went slowly behind her moving hams. <e>	56.30370715323856
+<s> excellent for shade fuel and construction. <e>	50.56605433462406
+<s> olives cheaper oranges need artificial irrigation. <e>	30.658156208001415
+<s> still an idea behind it. <e>	6.6415053481476125
+<s> like that heavy sweet wild perfume. <e>	28.209298017464615
+<s> must begin again those sandow is exercises. <e>	26.374084382077385
+<s> runs she runs to meet me a girl with gold hair on the wind. <e>	23.615899927265755
+<s> entering the bedroom he halfclosed his eyes and walked through warm yellow twilight towards her tousled head. <e>	62.89725087019826
+<s> he waited till she had laid the card aside and curled herself back slowly with a snug sigh. <e>	58.05262342789781
+<s> putting pieces of folded brown paper in the letterbox for her. <e>	42.28386400347899
+<s> dreadful old case. <e>	12.06076190574503
+<s> oldfashioned way he used to bow molly off the platform. <e>	16.094324721629313
+<s> he looked calmly down on her bulk and between her large soft bubs sloping within her nightdress like a shegoat is udder. <e>	122.84537283620882
+<s> he felt here and there. <e>	5.497298604014235
+<s> i put a mark in it. <e>	10.056140849929035
+<s> cruelty behind it all. <e>	12.733222980791842
+<s> the sluggish cream wound curdling spirals through her tea. <e>	47.602692552768524
+<s> metempsychosis he said is what the ancient greeks called it. <e>	23.35021659085201
+<s> i got mummy is lovely box of creams and am writing. <e>	40.55487490766779
+<s> there is to be a concert in the greville arms on saturday. <e>	14.463084936896204
+<s> curious fifteenth of the month too. <e>	9.217524671796724
+<s> he smiled with troubled affection at the kitchen window. <e>	33.753197827320086
+<s> not a bit funky. <e>	4.3732803420234765
+<s> young kisses the first. <e>	13.061288186461468
+<s> girl is sweet light lips. <e>	16.21932187775727
+<s> or through m coy. <e>	8.195088304375428
+<s> mulch of dung. <e>	6.131855392360328
+<s> something new and easy. <e>	5.26423216572439
+<s> _matcham often thinks of the masterstroke by which he won the laughing witch who now_. <e>	17.358695821569064
+<s> hand in hand. <e>	6.773862950626123
+<s> come home to ma da. <e>	8.624648075181227
+<s> and past nichols the undertaker. <e>	5.305851943469317
+<s> met her once in the park. <e>	7.6839481220790224
+<s> must get some from tom kernan. <e>	10.463607528889199
+<s> from the curbstone he darted a keen glance through the door of the postoffice. <e>	23.351971341287186
+<s> are there any letters for me <e>	13.687629728875262
+<s> no he is a grenadier. <e>	4.135929576774945
+<s> and he said _sad thing about our poor friend paddy <e>	28.04475413293425
+<s> what is wrong with him <e>	3.0777566679060273
+<s> silk flash rich stockings white. <e>	47.03128038280063
+<s> mr bloom turned his largelidded eyes with unhasty friendliness. <e>	8.106022794063739
+<s> m coy said. <e>	2.4755190422905433
+<s> thanks old man. <e>	3.7516351190685855
+<s> pity to disturb them. <e>	10.344776965303131
+<s> i called you naughty boy because i do not like that other world. <e>	2.546910428849112
+<s> are you not happy in your home you poor little naughty boy <e>	1.9549238403927358
+<s> wonder did she wrote it herself. <e>	11.108544560068832
+<s> usual love scrimmage. <e>	7.919583303496513
+<s> o mairy lost the pin of her drawers. <e>	3.6111644300638464
+<s> must carry a paper goblet next time i go to the trottingmatches. <e>	31.077541650042686
+<s> the shreds fluttered away sank in the dank air a white flutter then all sank. <e>	109.38368405660502
+<s> what am i saying barrels <e>	7.159829895106983
+<s> he trod the worn steps pushed the swingdoor and entered softly by the rere. <e>	56.0479256538253
+<s> mr bloom looked back towards the choir. <e>	6.712000745841796
+<s> more interesting if you understood what it was all about. <e>	13.595574828574426
+<s> everyone wants to. <e>	7.027000781193402
+<s> pray at an altar. <e>	8.686650045914137
+<s> monasteries and convents. <e>	6.19715492812868
+<s> he stood a moment unseeing by the cold black marble bowl while before him and behind two worshippers dipped furtive hands in the low tide of holy water. <e>	195.44222385596166
+<s> trams a car of prescott is dyeworks a widow in her weeds. <e>	37.8964281765901
+<s> when was it i got it made up last <e>	15.242436817179374
+<s> i changed a sovereign i remember. <e>	10.372239145722546
+<s> drugs age you after mental excitement. <e>	30.597578041863223
+<s> enough stuff here to chloroform you. <e>	35.98104450085784
+<s> and white wax also he said. <e>	10.404252856052466
+<s> what perfume does your <e>	2.8349806452773265
+<s> i was just going to throw it away mr bloom said. <e>	4.301807472788995
+<s> fleshpots of egypt. <e>	5.667625922091071
+<s> then the spokes sports sports sports and the hub big college. <e>	67.53682562779166
+<s> heavenly weather really. <e>	20.638649675076852
+<s> sit around under sunshades. <e>	13.286950699774371
+<s> thanking her stars she was passed over. <e>	27.836647249400812
+<s> glad to see us go we give them such trouble coming. <e>	22.515350778638563
+<s> then wheels were heard from in front turning then nearer then horses hoofs. <e>	100.0661219482949
+<s> i am glad to see it has not died out. <e>	10.710931525514551
+<s> goulding collis and ward he calls the firm. <e>	10.517396097771204
+<s> he cried above the clatter of the wheels i wo not have her bastard of a nephew ruin my son. <e>	61.81951609365794
+<s> mr dedalus twisting his nose frowned downward and said unless i am greatly mistaken. <e>	56.627028727692206
+<s> feel my feet quite clean. <e>	15.362772758988843
+<s> do not miss this chance. <e>	10.674137445521161
+<s> the other trotting round with a fare. <e>	22.038692201995012
+<s> well but that fellow would lose his job then <e>	29.239809130542756
+<s> i said i. <e>	5.823221290549546
+<s> martin cunningham could work a pass for the gaiety. <e>	13.718221385757152
+<s> he is coming in the afternoon. <e>	8.302864096407543
+<s> who was he <e>	4.268340942320799
+<s> and after thinking alone. <e>	11.072891554305222
+<s> body getting a bit softy. <e>	8.425646169740784
+<s> mrs fleming is in to clean. <e>	8.737246497246302
+<s> a silver florin. <e>	9.46843845773593
+<s> we had better look a little serious martin cunningham said. <e>	14.67045518030909
+<s> always a good word to say. <e>	8.834187759694075
+<s> the carriage rattled swiftly along blessington street. <e>	25.82413062733364
+<s> he left me on my ownio. <e>	2.7782417646579645
+<s> ward for incurables there. <e>	8.531332893127171
+<s> much better to close up all the orifices. <e>	11.555440560404524
+<s> a pause by the wayside. <e>	7.324102969459085
+<s> elixir of life. <e>	6.333915936651852
+<s> on the slow weedy waterway he had floated on his raft coastward over ireland drawn by a haulage rope past beds of reeds over slime mudchoked bottles carrion dogs. <e>	172.33785650666906
+<s> hire some old crock safety. <e>	12.519924254677141
+<s> or so they said. <e>	4.298583496408832
+<s> whole place gone to hell. <e>	16.508509117989213
+<s> pallbearers gold reins requiem mass firing a volley. <e>	34.20943452645766
+<s> he followed his companions. <e>	3.8140791944756756
+<s> where is that child is funeral disappeared to <e>	13.480987746577709
+<s> dick tivy bald <e>	10.326993935218182
+<s> out it rushes blue. <e>	18.733357951411392
+<s> after that of course ... holy water that was i expect. <e>	28.864039841194376
+<s> she is better where she is he said kindly. <e>	6.0792727377959315
+<s> what does he do <e>	6.103518264471727
+<s> he never forgets a friend. <e>	15.192271374176567
+<s> i do not want your custom at all. <e>	6.242451784489139
+<s> rot quick in damp earth. <e>	17.324184934234623
+<s> then a kind of a tallowy kind of a cheesy. <e>	7.086024581442189
+<s> when you think of them all it does seem a waste of wood. <e>	28.438165239980734
+<s> only a mother and deadborn child ever buried in the one coffin. <e>	32.74939257197874
+<s> light they want. <e>	12.156421613360404
+<s> out of sight out of mind. <e>	7.719137405385057
+<s> got the run. <e>	7.3755051129343405
+<s> we have time. <e>	4.327070607303549
+<s> more sensible to spend the money on some charity for the living. <e>	70.55853602315233
+<s> all souls day. <e>	8.893368728754636
+<s> or a woman is with her saucepan. <e>	7.843769175013825
+<s> a bird sat tamely perched on a poplar branch. <e>	78.02639337441464
+<s> like the wedding present alderman hooper gave us. <e>	65.81147878990907
+<s> heart on his sleeve. <e>	10.074873543851785
+<s> wholesale burners and dutch oven dealers. <e>	14.201650396357003
+<s> eaten by birds. <e>	12.122270657373054
+<s> earth fire water. <e>	13.72623513536222
+<s> gentlemen of the press grossbooted draymen rolled barrels dullthudding out of prince is stores and bumped them up on the brewery float. <e>	68.90086116737753
+<s> the broadcloth back ascended each step back. <e>	32.66108508518067
+<s> fat folds of neck fat neck fat neck. <e>	77.31587836526161
+<s> soon be calling him my lord mayor. <e>	15.744402641998494
+<s> he hurried on eagerly towards the freeman is journal. <e>	27.334314536961323
+<s> like that mr bloom said crossing his forefingers at the top. <e>	12.490777294248101
+<s> do you think that is a good idea <e>	4.544849942955353
+<s> i could have said. <e>	3.6741295100649083
+<s> then i ll get the design mr nannetti he said and you ll give it a good place i know. <e>	17.225397900041475
+<s> wife a good cook and washer. <e>	12.745558109675107
+<s> next year in jerusalem. <e>	5.206900720017824
+<s> ned lambert it is. <e>	4.078865537485376
+<s> mr bloom moved nimbly aside. <e>	11.159170521274133
+<s> to be seen and heard. <e>	7.96610542852238
+<s> sceptre with o. madden up. <e>	5.299453231501446
+<s> hush lenehan said. <e>	8.128728009821145
+<s> he pointed to two faces peering in round the doorframe. <e>	26.632883678401953
+<s> lenehan cried running to the window. <e>	15.774932249375519
+<s> paddy hooper is there with jack hall. <e>	21.38863961048604
+<s> that is it he said. <e>	3.9999166957267804
+<s> he gazed about him in his toga and he said _it is meet to be here. <e>	7.304312004618521
+<s> how do you do <e>	2.1677617331252628
+<s> mr garrett deasy stephen said. <e>	4.493407144312045
+<s> an irishman saved his life on the ramparts of vienna. <e>	15.51320808665594
+<s> professor machugh turned on him. <e>	7.230592705129847
+<s> i teach the blatant latin language. <e>	32.212302437917884
+<s> where is the spirituality <e>	3.1986569133860456
+<s> i ought to profess greek the language of the mind. <e>	11.408619754214033
+<s> he strode away from them towards the window. <e>	13.921503887044302
+<s> rows of cast steel. <e>	12.914805569644253
+<s> the professor returning by way of the files swept his hand across stephen is and mr o madden burke is loose ties. <e>	42.43420681629918
+<s> and madam bloom mr o madden burke added. <e>	13.041831207411313
+<s> have you got that <e>	2.4516498854253754
+<s> a distant voice i ll answer it the professor said going. <e>	31.128849769794083
+<s> dick adams the besthearted bloody corkman the lord ever put the breath of life in and myself. <e>	29.514794037416376
+<s> come across yourself. <e>	7.617122017910923
+<s> why did you write it then <e>	8.78686415362059
+<s> my dear myles he said flinging his cigarette aside you put a false construction on my words. <e>	68.7282855284931
+<s> i hold no brief as at present advised for the third profession qua profession but your cork legs are running away with you. <e>	241.04283811737565
+<s> or the other story beast with two backs <e>	11.343954668554629
+<s> what do you think really of that hermetic crowd the opal hush poets a. e. the mastermystic <e>	50.31856196418328
+<s> still seeking he said when fitzgibbon is speech had ended john f taylor rose to reply. <e>	60.93000729017748
+<s> it seemed to me that i had been transported into a country far away from this country into an age remote from this age that i stood in ancient egypt and that i was listening to the speech of some highpriest of that land addressed to the youthful moses._ his listeners held their cigarettes poised to hear their smokes ascending in frail stalks that flowered with his speech. <e>	208.70214187458836
+<s> tis the hour methinks when the winejug metaphorically speaking is most grateful in ye ancient hostelry. <e>	134.47771667629607
+<s> where are they <e>	3.3204010522925747
+<s> they want to see the views of dublin from the top of nelson is pillar. <e>	5.700637836980983
+<s> interview with the editor just this ad mr bloom said pushing through towards the steps puffing and taking the cutting from his pocket. <e>	60.27810505699952
+<s> ithacans vow pen is champ. <e>	14.813582880890113
+<s> a sugarsticky girl shovelling scoopfuls of creams for a christian brother. <e>	29.386032329667348
+<s> one meal and a collation for fear he d collapse on the altar. <e>	25.0864867015042
+<s> rats get in too. <e>	14.317102048770552
+<s> shiny peels polishes them up with a rag or a handkerchief. <e>	42.11127956525606
+<s> fascinating little book that is of sir robert ball is. <e>	22.764001212807923
+<s> does not bring in any business either. <e>	10.74887758961708
+<s> i suggested to him about a transparent showcart with two smart girls sitting inside writing letters copybooks envelopes blottingpaper. <e>	155.41798127031913
+<s> would not have it of course because he did not think of it himself first. <e>	15.701268395839032
+<s> or the inkbottle i suggested with a false stain of black celluloid. <e>	25.302185396123903
+<s> fitted her like a glove shoulders and hips. <e>	44.964769871664714
+<s> milly is tubbing night. <e>	6.765790660729545
+<s> what was the name of that priestylooking chap was always squinting in when he passed <e>	23.69945331280939
+<s> milly has a position down in mullingar you know. <e>	29.298457837760825
+<s> o dear me mrs breen said. <e>	7.801328721490451
+<s> dignam mr bloom said. <e>	3.715195651774677
+<s> woke me up in the night she said. <e>	7.331352692377342
+<s> mr bloom asked taking the card. <e>	9.29378264140994
+<s> someone taking a rise out of him. <e>	13.147766023643412
+<s> she used to be a tasty dresser. <e>	8.144803342111361
+<s> josie powell that was. <e>	5.239330387706117
+<s> mrs breen asked. <e>	4.361750013760433
+<s> good system for criminals. <e>	9.763808996387771
+<s> james carlisle made that. <e>	19.775732763930183
+<s> saw him out at the three jolly topers marching along bareheaded and his eldest boy carrying one in a marketnet. <e>	107.0963649288021
+<s> an eightpenny in the burton. <e>	4.723083958528108
+<s> doubled up inside her trying to butt its way out blindly groping for the way out. <e>	47.07365031060973
+<s> suppose he was consumptive. <e>	3.9889864248983695
+<s> apjohn myself and owen goldberg up in the trees near goose green playing the monkeys. <e>	73.65836483263281
+<s> best moment to attack one in pudding time. <e>	38.46955406031008
+<s> his horse is hoofs clattering after us down abbey street. <e>	57.75927550279772
+<s> i do not wear such things... stop or i ll tell the missus on you. <e>	24.39447870059952
+<s> back out you get the knife. <e>	17.31786126721255
+<s> no grace for the carver. <e>	7.296376109909366
+<s> trams passed one another ingoing outgoing clanging. <e>	30.244224674557003
+<s> freeze them up with that eye of his. <e>	13.887648555347386
+<s> sloping into the empire. <e>	13.757236680272866
+<s> showing long red pantaloons under his skirts. <e>	18.618789063705766
+<s> or am i now i <e>	9.351119167343011
+<s> molly looks out of plumb. <e>	7.4747209475278495
+<s> get out of this. <e>	5.377585698159795
+<s> other chap telling him something with his mouth full. <e>	26.236417649284235
+<s> he backed towards the door. <e>	9.097945134609294
+<s> pint of stout. <e>	6.84174733713116
+<s> every fellow for his own tooth and nail. <e>	15.633357338565508
+<s> father o flynn would make hares of them all. <e>	10.729553234020564
+<s> hello bloom nosey flynn said from his nook. <e>	8.358564022471164
+<s> how is things <e>	5.410183579043333
+<s> ham and his descendants musterred and bred there. <e>	15.47034778267777
+<s> puzzle find the meat. <e>	17.809064277394498
+<s> christmas turkeys and geese. <e>	9.41438490983624
+<s> italian i prefer. <e>	6.442425569204138
+<s> good glass of burgundy take away that. <e>	14.143967242816203
+<s> his midriff yearned then upward sank within him yearned more longly longingly. <e>	96.29489912026723
+<s> whose smile upon each feature plays with such and such replete. <e>	43.76904298166895
+<s> nice piece of wood in that counter. <e>	14.98917480393111
+<s> licensed for the sale of beer wine and spirits for consumption on the premises. <e>	2.9859149728914374
+<s> unless you re in the know. <e>	8.890349613252951
+<s> he is giving sceptre today. <e>	14.725384948518732
+<s> will i tell him that horse lenehan <e>	10.560685546143942
+<s> dewdrop coming down again. <e>	12.609116698469768
+<s> nice wine it is. <e>	8.984062386185979
+<s> unsightly like a clot of phlegm. <e>	18.490338358816565
+<s> idea for a poison mystery. <e>	21.590719722892853
+<s> milly too rock oil and flour. <e>	20.16571854519433
+<s> fields of undersea the lines faint brown in grass buried cities. <e>	55.698614880190746
+<s> ravished over her i lay full lips full open kissed her mouth. <e>	67.7857017928912
+<s> joy i ate it joy. <e>	20.998345565164026
+<s> all yielding she tossed my hair. <e>	33.06832754691838
+<s> decent quiet man he is. <e>	11.647950005185272
+<s> paddy leonard eyed his alemates. <e>	9.004225398783012
+<s> that ll be two pounds ten about two pounds eight. <e>	45.92553435493158
+<s> there is nothing in the way. <e>	5.147524484801656
+<s> feel a gap. <e>	4.494052564529978
+<s> people ought to help. <e>	12.31646135419699
+<s> workbasket i could buy for molly is birthday. <e>	9.606557738557905
+<s> look at me. <e>	3.342794007554585
+<s> we call it black. <e>	6.996332684004299
+<s> straw hat in sunlight. <e>	10.593006840926058
+<s> to the right. <e>	3.335478174870261
+<s> try all pockets. <e>	9.162385200214038
+<s> bald most zealous by the door he gave his large ear all to the attendant is words heard them and was gone. <e>	82.04486136331808
+<s> hiesos kristos magician of the beautiful the logos who suffers in us at every moment. <e>	21.82583147321628
+<s> he speaks the words to burbage the young player who stands before him beyond the rack of cerecloth calling him by a name hamlet i am thy father is spirit bidding him list. <e>	75.15629730682329
+<s> flow over them with your waves and with your waters mananaan mananaan maclir... how now sirrah that pound he lent you when you were hungry <e>	89.50389935970813
+<s> you spent most of it in georgina johnson is bed clergyman is daughter. <e>	42.23925532212465
+<s> other i got pound. <e>	12.287689308563886
+<s> what he learnt from his other wife myrto _absit nomen _ socratididion is epipsychidion no man not a woman will ever know. <e>	31.46564944066035
+<s> but ann hathaway <e>	13.20898889913328
+<s> she put the comether on him sweet and twentysix. <e>	10.698162011451897
+<s> yogibogeybox in dawson chambers. <e>	5.988619873621323
+<s> crosslegged under an umbrel umbershoot he thrones an aztec logos functioning on astral levels their oversoul mahamahatma. <e>	40.84512563040206
+<s> they say we are to have a literary surprise the quaker librarian said friendly and earnest. <e>	28.279740546007247
+<s> stephen looked down on a wide headless caubeen hung on his ashplanthandle over his knee. <e>	28.992382761250948
+<s> longworth will give it a good puff in the express. o will he <e>	42.04499381544689
+<s> the pigs paper. <e>	7.880774532545122
+<s> mr best pleaded. <e>	6.8013074153885125
+<s> why does he send to one who is a buonaroba a bay where all men ride a maid of honour with a scandalous girlhood a lordling to woo for him <e>	97.53341984089208
+<s> he was himself a lord of language and had made himself a coistrel gentleman and he had written romeo and juliet. <e>	28.65863695798511
+<s> he goes back weary of the creation he has piled up to hide him from himself an old dog licking an old sore. <e>	63.73483153288699
+<s> that portrait of mr w. h. where he proves that the sonnets were written by a willie hughes a man all hues. <e>	47.32862536796819
+<s> yea turtledove her. <e>	6.781419964942523
+<s> his mobile lips read smiling with new delight. <e>	57.83732707282414
+<s> malachi mulligan the ship lower abbey street. <e>	12.308987534860421
+<s> what is his name <e>	2.448083178936563
+<s> i found him over in the museum where i went to hail the foamborn aphrodite. <e>	21.06514905851368
+<s> we begin to be interested in mrs s. till now we had thought of her if at all as a patient griselda a penelope stayathome. <e>	74.99378534639102
+<s> explain you then. <e>	8.67042789806598
+<s> a quart of ale is a dish for a king. <e>	21.441130586009816
+<s> he sued a fellowplayer for the price of a few bags of malt and exacted his pound of flesh in interest for every money lent. <e>	89.80994336238291
+<s> shylock chimes with the jewbaiting that followed the hanging and quartering of the queen is leech lopez his jew is heart being plucked forth while the sheeny was yet alive hamlet and macbeth with the coming to the throne of a scotch philosophaster with a turn for witchroasting. <e>	128.97619859015808
+<s> fatherhood in the sense of conscious begetting is unknown to man. <e>	33.06395043491381
+<s> if i were <e>	3.5666371344638126
+<s> the quaker librarian quaking tiptoed in quake his mask quake with haste quake quack. <e>	26.609697505766643
+<s> bous stephanoumenos._ where is your configuration <e>	11.22551042397325
+<s> pater ait. seabedabbled fallen weltering. <e>	11.328387001259655
+<s> best of best brothers. <e>	14.320677758839727
+<s> we should not now combine a norse saga with an excerpt from a novel by george meredith. <e>	58.259625501568884
+<s> he puts bohemia on the seacoast and makes ulysses quote aristotle. <e>	29.20783414296044
+<s> in cymbeline in othello he is bawd and cuckold. <e>	50.462082818765914
+<s> who helps to believe <e>	14.49616020059609
+<s> egomen. who to unbelieve <e>	6.977498608436045
+<s> in the readers book cashel boyle o connor fitzmaurice tisdall farrell parafes his polysyllables. <e>	10.048168535496298
+<s> item was hamlet mad <e>	20.675125056414778
+<s> forgot any more than he forgot the whipping lousy lucy gave him. <e>	83.1448161246233
+<s> being afraid to marry on earth they masturbated for all they were worth. <e>	46.49625146458528
+<s> only crows priests and english coal are black. <e>	75.52752077324129
+<s> that letter to father provincial. <e>	5.535823192744723
+<s> father conmee smiled and nodded and smiled and walked along mountjoy square east. <e>	27.942680689729997
+<s> the incumbent they called him. <e>	11.297097020183237
+<s> off an inward bound tram stepped the reverend nicholas dudley c. c. of saint agatha is church north william street on to newcomen bridge. <e>	137.30012617986335
+<s> the blond girl in thornton is bedded the wicker basket with rustling fibre. <e>	43.251083354559306
+<s> put these in first will you <e>	16.365345251864262
+<s> what is the damage <e>	7.128662529731986
+<s> ma almidano artifoni said. <e>	6.4153686823243135
+<s> his heavy hand took stephen is firmly. <e>	17.853251199167545
+<s> miss dunne hid the capel street library copy of the woman in white far back in her drawer and rolled a sheet of gaudy notepaper into her typewriter. <e>	109.64955714507887
+<s> then i can go after six if you re not back. <e>	16.880908499485514
+<s> mr lenehan yes. <e>	6.694820352099005
+<s> with gaping mouth and head far back he stood still and after an instant sneezed loudly. <e>	68.58401537955751
+<s> turn now on. <e>	2.5461115649187183
+<s> i want to pop into lynam is to see sceptre is starting price. <e>	60.230523503007866
+<s> you are late he spoke hoarsely eying her with a suspicious glare. <e>	44.07565480734479
+<s> a. jackson w. e. wylie a. munro and h. t. gahan their stretched necks wagging negotiated the curve by the college library. <e>	172.2006289886605
+<s> mr kernan pleased with the order he had booked walked boldly along james is street. <e>	7.122436711462066
+<s> i ll try this one now. <e>	9.676092488841105
+<s> here mr dedalus said handing her two pennies. <e>	21.428090399610632
+<s> without a doubt. <e>	5.468304803758468
+<s> and america they say is the land of the free. <e>	14.109465100700477
+<s> north wall and sir john rogerson is quay with hulls and anchorchains sailing westward sailed by a skiff a crumpled throwaway rocked on the ferrywash elijah is coming. <e>	45.36914863364625
+<s> is that ned lambert is brother over the way sam <e>	17.806472575263356
+<s> he is as like it as damn it. <e>	8.210781436528388
+<s> they rose in dark and evil days. <e>	18.241045150743712
+<s> dust webbed the window and the showtrays. <e>	17.52309690880284
+<s> the brainsick words of sophists antisthenes. <e>	10.042993723982521
+<s> your heart you sing of. <e>	12.572410941522772
+<s> quick far and daring. <e>	8.813714047229066
+<s> here stephen said. <e>	3.9238202500914796
+<s> we had to. <e>	5.025513107671158
+<s> she will drown me with her eyes and hair. <e>	20.857143330255912
+<s> he looked with vague hope up and down the quay a big apple bulging in his neck. <e>	53.4634256075575
+<s> he has father cowley said. <e>	4.107386041130343
+<s> the reverend mr love. <e>	5.3100131297215745
+<s> martin cunningham said shortly. <e>	3.7757731254752693
+<s> where was the marshal he wanted to know to keep order in the council chamber. <e>	28.156211398228915
+<s> testily he made room for himself beside long john fanning is flank and passed in and up the stairs. <e>	39.83296599815443
+<s> one puck in the wind from that fellow would knock you into the middle of next week man. <e>	34.75419335383832
+<s> from cahill is corner the reverend hugh c. love m. a. made obeisance unperceived mindful of lords deputies whose hands benignant had held of yore rich advowsons. <e>	83.78538069640909
+<s> at the royal canal bridge from his hoarding mr eugene stratton his blub lips agrin bade all comers welcome to pembroke township. <e>	84.43346872902725
+<s> a veil awave upon the waves. <e>	5.802328038372337
+<s> when first he saw. <e>	6.040342426799343
+<s> one rapped one tapped with a carra with a cock. <e>	13.214535670482112
+<s> pray for him <e>	3.398663467208225
+<s> last rose castile of summer left bloom i feel so sad alone. <e>	33.05149092683253
+<s> she laughed o wept <e>	11.0421162961755
+<s> a haughty bronze replied i ll complain to mrs de massey on you if i hear any more of your impertinent insolence. <e>	57.51543059784285
+<s> she poured in a teacup tea then back in the teapot tea. <e>	40.82840127354274
+<s> they pawed their blouses both of black satin two and nine a yard waiting for their teas to draw and two and seven. <e>	59.832087155357165
+<s> did you try the borax with the cherry laurel water <e>	26.922668138959544
+<s> bluerobed white under come to me. <e>	9.40104322075392
+<s> that brings those rakes of fellows in her white. <e>	26.4806105088548
+<s> again kennygiggles stooping her fair pinnacles of hair stooping her tortoise napecomb showed spluttered out of her mouth her tea choking in tea and laughter coughing with choking crying o greasy eyes <e>	281.69724919653424
+<s> married to the greasy nose <e>	15.341129595218554
+<s> mr bloom reached essex bridge. <e>	18.112057706891385
+<s> take no notice. <e>	7.7342646182612835
+<s> i quaffed the nectarbowl with him this very day said lenehan. <e>	28.120575034447413
+<s> the tuner was in today miss douce replied tuning it for the smoking concert and i never heard such an exquisite player. <e>	66.20676765906465
+<s> hair streaming lovelorn. <e>	11.176027791494304
+<s> she rose and closed her reading rose of castile fretted forlorn dreamily rose. <e>	125.62262102236129
+<s> who said four <e>	8.316315295470895
+<s> miss kennedy passed their way flower wonder who gave bearing away teatray. <e>	50.50353706018279
+<s> look to the west. <e>	6.940429952653657
+<s> la cloche cried gleeful lenehan. <e>	25.276553378786964
+<s> i am coming. <e>	4.304581589332593
+<s> his gouty paws plumped chords. <e>	30.628286951290338
+<s> no wedding garment. <e>	3.1162068084911834
+<s> where is my pipe by the way <e>	8.814129392492397
+<s> from the rock of gibraltar... all the way. <e>	9.54136385025723
+<s> they pined in depth of ocean shadow gold by the beerpull bronze by maraschino thoughtful all two. <e>	109.16609139932764
+<s> must be cowley. <e>	5.142394921038604
+<s> no one here goulding and i. <e>	10.159938200788972
+<s> her high long snore. <e>	6.901487359843184
+<s> night we were in the box. <e>	7.3505306459362565
+<s> conductor is legs too bagstrousers jiggedy jiggedy. <e>	27.000342144097694
+<s> best value in. <e>	5.130410384243779
+<s> and when the first note. <e>	7.021181456406479
+<s> asked leopold bloom. <e>	7.072679517087421
+<s> blackbird i heard in the hawthorn valley. <e>	14.7226985861837
+<s> all most too new call is lost in all. <e>	30.05315306019145
+<s> fall surrender lost. <e>	18.32788365672842
+<s> innocence in the moon. <e>	7.221951835284648
+<s> when first i saw that form endearing... richie turned. <e>	10.908442983671135
+<s> bloom wound a skein round four forkfingers stretched it relaxed and wound it round his troubled double fourfold in octave gyved them fast. <e>	116.39425438633323
+<s> i want to know. <e>	2.5881064130508507
+<s> only the two themselves. <e>	9.083878669936174
+<s> lionel is song. <e>	7.799423542641439
+<s> why the barber in drago is always looked my face when i spoke his face in the glass. <e>	49.225133524875
+<s> still hear it better here than in the bar though farther. <e>	33.748360481472126
+<s> cruel it seems. <e>	8.17737403398252
+<s> he does not see my mourning. <e>	7.095710965474293
+<s> bloom dipped bloo mur dear sir. <e>	49.724448707311616
+<s> ask her no answ. <e>	8.026362982140547
+<s> elijah is com. <e>	5.551948651058122
+<s> to keep it up. <e>	2.2476742387105024
+<s> other world she wrote. <e>	3.53052785931868
+<s> because i am away from. <e>	11.590418768218974
+<s> u. p up. <e>	2.0740589784151946
+<s> postal order stamp. <e>	5.268263041685782
+<s> he waits while you wait. <e>	2.2356536697091705
+<s> her ear too is a shell the peeping lobe there. <e>	53.09422318295341
+<s> skin tanned raw. <e>	9.728821195485773
+<s> souse in the ear sometimes. <e>	18.95238405320188
+<s> i ll go. <e>	4.278746249183955
+<s> hee hee hee hee. <e>	2.0814879240787514
+<s> the voice of penance and of grief came slow embellished tremulous. <e>	27.162851424800053
+<s> tankards and miss kennedy. <e>	9.632708231138599
+<s> brasses braying asses through uptrunks. <e>	23.84324179911834
+<s> with hoarse rude fury the yeoman cursed swelling in apoplectic bitch is bastard. <e>	100.43518694595957
+<s> like cashel boylo connoro coylo tisdall maurice tisntdall farrell. <e>	45.95586173493028
+<s> yes her lips said more loudly mr dollard. <e>	24.76861963040594
+<s> and the last rose of summer was a lovely song. <e>	8.502447360688455
+<s> you dare not budge. <e>	5.968338274654823
+<s> exquisite contrast bronzelid minagold. <e>	10.849758949591436
+<s> under the sandwichbell lay on a bier of bread one last one lonely last sardine of summer. <e>	77.5368999927838
+<s> poor little nominedomine. pom. <e>	4.425399728583078
+<s> wonder who was that chap at the grave in the brown macin. <e>	14.288929373915126
+<s> off her beat here. <e>	13.098414858202167
+<s> might learn to play. <e>	6.11233475432031
+<s> must be the cider or perhaps the burgund. <e>	16.43869921246724
+<s> he did not see. <e>	3.4882745567400892
+<s> a bit off the top. <e>	6.697284196257631
+<s> decent fellow joe when he has it but sure like that he never has it. <e>	26.554813298531553
+<s> in inisfail the fair there lies a land the land of holy michan. <e>	29.999894581748038
+<s> come out here geraghty you notorious bloody hill and dale robber <e>	48.9577984412692
+<s> do not be talking <e>	2.7511206972327877
+<s> and who was sitting up there in the corner that i had not seen snoring drunk blind to the world only bob doran. <e>	27.9157327110357
+<s> when is long john going to hang that fellow in mountjoy <e>	27.426710970894526
+<s> you should have seen long john is eye. <e>	8.436585197947647
+<s> talking about hanging i ll show you something you never saw. <e>	24.759909069362653
+<s> bob is a queer chap when the porter is up in him so says i just to make talk how is willy murray those times alf <e>	74.04004681275634
+<s> what about dignam <e>	4.937256699463892
+<s> rumbold master barber._ and a barbarous bloody barbarian he is too says the citizen. <e>	13.569602062285366
+<s> in the dark land they bide the vengeful knights of the razor. <e>	21.062938446544972
+<s> jesus i had to laugh at pisser burke taking them off chewing the fat. <e>	15.173118945913647
+<s> constable macfadden was heartily congratulated by all the f. o. t. e. i. several of whom were bleeding profusely. <e>	49.115889146409565
+<s> hard by the block stood the grim figure of the executioner his visage being concealed in a tengallon pot with two circular perforated apertures through which his eyes glowered furiously. <e>	136.89894042290524
+<s> a fresh torrent of tears burst from their lachrymal ducts and the vast concourse of people touched to the inmost core broke into heartrending sobs not the least affected being the aged prebendary himself. <e>	236.7216263339111
+<s> says the citizen jeering. <e>	6.8127930461392205
+<s> thank you no says bloom. <e>	6.160631447799527
+<s> well that is a point says bloom for the wife is admirers. <e>	11.690630226270414
+<s> choking with bloody foolery. <e>	9.65878262046055
+<s> but should i have overstepped the limits of reserve let the sincerity of my feelings be the excuse for my boldness. <e>	75.62673895840285
+<s> have you got an old testament _ only paddy was passing there i tell you what. <e>	24.82403735618938
+<s> good health citizen. <e>	5.738771260880462
+<s> gob he had his mouth half way down the tumbler already. <e>	22.151328040097013
+<s> pisser burke was telling me in the hotel the wife used to be in rivers of tears some times with mrs o dowd crying her eyes out with her eight inches of fat all over her. <e>	64.20279986159349
+<s> honourable members are already in possession of the evidence produced before a committee of the whole house. <e>	74.85667252353858
+<s> j. flanagan c. c. the laity included p. fay t. quirke etc. etc. <e>	83.05159875597865
+<s> and says bloom what i meant about tennis for example is the agility and training the eye. <e>	54.9467968208367
+<s> he let out that myler was on the beer to run up the odds and he swatting all the time. <e>	33.255214657933024
+<s> handed him the father and mother of a beating. <e>	10.089256781554107
+<s> it was a knockout clean and clever. <e>	11.037259032175905
+<s> the gardens of alameda knew her step the garths of olives knew and bowed. <e>	82.49824601920938
+<s> tell him a tale of woe about arrears of rent and a sick wife and a squad of kids and faith he ll dissolve in tears on the bench. <e>	93.4836936536151
+<s> and there sat with him the high sinhedrim of the twelve tribes of iar for every tribe one man of the tribe of patrick and of the tribe of hugh and of the tribe of owen and of the tribe of conn and of the tribe of oscar and of the tribe of fergus and of the tribe of finn and of the tribe of dermot and of the tribe of cormac and of the tribe of kevin and of the tribe of caolte and of the tribe of ossian there being in all twelve good men and true. <e>	74.98992138939829
+<s> she d have won the money only for the other dog. <e>	26.189747675122536
+<s> as treeless as portugal we ll be soon says john wyse or heligoland with its one tree if something is not done to reafforest the land. <e>	53.07692336166018
+<s> on leaving the church of saint fiacre in horto after the papal blessing the happy pair were subjected to a playful crossfire of hazelnuts beechmast bayleaves catkins of willow ivytod hollyberries mistletoe sprigs and quicken shoots. <e>	99.86973888095547
+<s> hear hear to that says john wyse. <e>	13.462699585450446
+<s> yes sir says terry. <e>	3.9383062205432497
+<s> but the sassenach tried to starve the nation at home while the land was full of crops that the british hyenas bought and sold in rio de janeiro. <e>	75.15983574730433
+<s> and everybody knows that it is the very opposite of that that is really life. <e>	32.37917776148584
+<s> mrs norman w. tupper loves officer taylor. <e>	15.953455826830764
+<s> no says the citizen. <e>	2.7358172096896407
+<s> yes that is the man says j. j. raping the women and girls and flogging the natives on the belly to squeeze all the red rubber they can out of them. <e>	42.50942721542276
+<s> i know where he is gone says lenehan cracking his fingers. <e>	10.613880586437514
+<s> bloom says he. <e>	2.5757127565213995
+<s> give us a bloody chance. <e>	7.831112211286474
+<s> and there is the man now that ll tell you all about it martin cunningham. <e>	11.156394280856011
+<s> cried he who by his mien seemed the leader of the party. <e>	36.37285550253696
+<s> so saying he knocked loudly with his swordhilt upon the open lattice. <e>	24.98889935791403
+<s> an you be the king is messengers god shield his majesty <e>	27.12574362202738
+<s> or who is he <e>	4.137949608394222
+<s> who is junius <e>	3.0347073484928315
+<s> yes says j. j. and every male that is born they think it may be their messiah. <e>	20.01655968810585
+<s> lying up in the hotel pisser was telling me once a month with headache like a totty with her courses. <e>	68.48471793026647
+<s> but where is he <e>	4.030983596445923
+<s> hundred to five. <e>	5.603289825971751
+<s> come along now. <e>	4.655596606439267
+<s> arrah sit down on the parliamentary side of your arse for christ sake and do not be making a public exhibition of yourself. <e>	62.038855893665435
+<s> christ was a jew like me. <e>	7.346177607907086
+<s> and he let a volley of oaths after him. <e>	15.312165068992165
+<s> when lo there came about them all a great brightness and they beheld the chariot wherein he stood ascend to heaven. <e>	85.5827002492697
+<s> say out big big. <e>	15.92847418913489
+<s> none of your spoilt beauties flora macflimsy sort was cissy caffrey. <e>	27.07250426269765
+<s> she put an arm round the little mariner and coaxed winningly what is your name <e>	17.69733937729943
+<s> gerty is tommy is sweetheart. <e>	4.262392335357167
+<s> they were protestants in his family and of course gerty knew who came first and after him the blessed virgin and then saint joseph. <e>	54.07878615136067
+<s> gerty was dressed simply but with the instinctive taste of a votary of dame fashion for she felt that there was just a might that he might be out. <e>	44.525296659103674
+<s> she would care for him with creature comforts too for gerty was womanly wise and knew that a mere man liked that feeling of hominess. <e>	136.5110037594123
+<s> and she tickled tiny tot is two cheeks to make him forget and played here is the lord mayor here is his two horses here is his gingerbread carriage and here he walks in chinchopper chinchopper chinchopper chin. <e>	103.13583418172135
+<s> she said with a pert toss of her head and a piquant tilt of her nose. <e>	39.62848897731317
+<s> o and will you ever forget her the evening she dressed up in her father is suit and hat and the burned cork moustache and walked down tritonville road smoking a cigarette. <e>	96.53582472755134
+<s> the colours were done something lovely. <e>	28.60675333872118
+<s> our two champions claimed their plaything with lusty cries and to avoid trouble cissy caffrey called to the gentleman to throw it to her please. <e>	100.50558669967107
+<s> and careworn hearts were there and toilers for their daily bread and many who had erred and wandered their eyes wet with contrition but for all that bright with hope for the reverend father father hughes had told them what the great saint bernard said in his famous prayer of mary the most pious virgin is intercessory power that it was not recorded in any age that those who implored her powerful protection were ever abandoned by her. <e>	265.2152698134644
+<s> it was he who mattered and there was joy on her face because she wanted him because she felt instinctively that he was like no one else. <e>	43.4743256974168
+<s> because she wished to goodness they d take the snottynosed twins and their babby home to the mischief out of that so that was why she just gave a gentle hint about its being late. <e>	77.10601457135932
+<s> her words rang out crystalclear more musical than the cooing of the ringdove but they cut the silence icily. <e>	45.42042902578693
+<s> she would follow her dream of love the dictates of her heart that told her he was her all in all the only man in all the world for her for love was the master guide. <e>	46.027614676325285
+<s> then the roman candle burst and it was like a sigh of o <e>	25.825963856417697
+<s> no a thousand times no. <e>	15.182650505250772
+<s> cissy caffrey whistled imitating the boys in the football field to show what a great person she was and then she cried gerty <e>	70.34739650015483
+<s> milly delighted with molly is new blouse. <e>	23.93290297167218
+<s> he wore a pair of gaiters the night that first we met. <e>	31.107860521609727
+<s> dressed up to the nines for somebody. <e>	7.485406779535447
+<s> you re looking splendid. <e>	2.6150015266547824
+<s> dark devilish appearance. <e>	8.127412331085791
+<s> ten bob i got for molly is combings when we were on the rocks in holles street. <e>	15.226567058083832
+<s> aftereffect not pleasant. <e>	3.5723153815641213
+<s> well are not they <e>	5.997563166550697
+<s> amours of actresses. <e>	5.667625922091071
+<s> worst is beginning. <e>	5.843269529383311
+<s> but her breasts were developed. <e>	24.023773453948944
+<s> sharp as needles they are. <e>	19.149810308597125
+<s> three years old she was in front of molly is dressingtable just before we left lombard street west. <e>	15.705904878523139
+<s> transparent stockings stretched to breaking point. <e>	32.246697616480226
+<s> in hamlet that is. <e>	6.92199686849825
+<s> then i will tell you all. <e>	2.215884737572394
+<s> might be false name however like my name and the address dolphin is barn a blind. <e>	43.41892954263776
+<s> sad however because it lasts only a few years till they settle down to potwalloping and papa is pants will soon fit willy and fuller is earth for the baby when they hold him out to do ah ah. <e>	173.6443205769568
+<s> cocoanut skulls monkeys not even closed at first sour milk in their swaddles and tainted curds. <e>	146.34459094364178
+<s> husband rolling in drunk stink of pub off him like a polecat. <e>	48.302191719358795
+<s> just compare for instance those others. <e>	25.437793323898745
+<s> as god made them he matched them. <e>	7.394638452295292
+<s> but lots of them ca not kick the beam i think. <e>	21.757362708782587
+<s> at the dance night she met him dance of the hours. <e>	16.086274658016464
+<s> mr bloom inserted his nose. <e>	6.616190255554173
+<s> i could mention meagher is just to remind him. <e>	35.896217955332496
+<s> still if he works that paragraph. <e>	8.563807282987247
+<s> lose your customers that way. <e>	21.95038761870116
+<s> enjoying nature now. <e>	13.99056781809353
+<s> walk after him now make him awkward like those newsboys me today. <e>	51.50615952175462
+<s> a star i see. <e>	5.34172570487863
+<s> grab at all that offer. <e>	7.29628812205697
+<s> where i come in. <e>	6.33034767828301
+<s> at dolphin is barn charades in luke doyle is house. <e>	14.155490434121603
+<s> what frightens them light or noise <e>	17.65867681017838
+<s> perhaps the sticks dry rub together in the wind and light. <e>	52.516226844977695
+<s> that bee last week got into the room playing with his shadow on the ceiling. <e>	31.75646259510779
+<s> sometimes away for years at the ends of the earth somewhere. <e>	20.894606896351164
+<s> i did not want to. <e>	3.2085362287618557
+<s> padding themselves out if fat is in fashion. <e>	34.287929756791286
+<s> the seabirds screaming. <e>	6.969780378487964
+<s> perhaps not to hurt he meant. <e>	18.483899789462882
+<s> ugly no woman thinks she is. <e>	23.142471575215424
+<s> must be near nine. <e>	7.22502309221464
+<s> wo not sleep though. <e>	8.909624005588702
+<s> of israel is folk was that man that on earth wandering far had fared. <e>	51.1659840944601
+<s> also the lady was of his avis and repreved the learningknight though she trowed well that the traveller had said thing that was false for his subtility. <e>	76.06128662518897
+<s> and on this board were frightful swords and knives that are made in a great cavern by swinking demons out of white flames that they fix then in the horns of buffalos and stags that there abound marvellously. <e>	109.31161602783376
+<s> and also it was a marvel to see in that castle how by magic they make a compost out of fecund wheatkidneys out of chaldee that by aid of certain angry spirits that they do in to it swells up wondrously like to a vast mountain. <e>	98.83992002024881
+<s> what means this <e>	8.443867408949417
+<s> desire is wind blasts the thorntree but after it becomes from a bramblebush to be a rose upon the rood of time. <e>	58.83441237745571
+<s> in woman is womb word is made flesh but in the spirit of the maker all flesh that passes becomes the word that shall not pass away. <e>	125.12055118630518
+<s> therefore hast thou sinned against my light and hast made me thy lord to be the slave of servants. <e>	96.69535496490349
+<s> lynch a scots fellow will. <e>	24.951473506928107
+<s> tis her ninth chick to live i hear and lady day bit off her last chick is nails that was then a twelvemonth and with other three all breastfed that died written out in a fair hand in the king is bible. <e>	92.215290179077
+<s> to tell the truth he was mean in fortunes and for the most part hankered about the coffeehouses and low taverns with crimps ostlers bookies paul is men runners flatcaps waistcoateers ladies of the bagnio and other rogues of the game or with a chanceable catchpole or a tipstaff often at nights till broad day of whom he picked up between his sackpossets much loose gossip. <e>	165.2979358403375
+<s> valuing himself not a little upon his elegance being indeed a proper man of person this talkative now applied himself to his dress with animadversions of some heat upon the sudden whimsy of the atmospherics while the company lavished their encomiums upon the project he had advanced. <e>	121.14826520257152
+<s> i could weep to think of it. <e>	8.821205975931216
+<s> to those who create themselves wits at the cost of feminine delicacy a habit of mind which he never did hold with to them he would concede neither to bear the name nor to herit the tradition of a proper breeding while for such that having lost all forbearance can lose no more there remained the sharp antidote of experience to cause their insolency to beat a precipitate and inglorious retreat. <e>	216.3858896139307
+<s> but with what fitness let it be asked of the noble lord his patron has this alien whom the concession of a gracious prince has admitted to civic rights constituted himself the lord paramount of our internal polity <e>	173.34385651812278
+<s> yes it is true. <e>	3.953498586785378
+<s> as she hath the virtue of the chameleon to change her hue at every new approach to be gay with the merry and mournful with the downcast so too is her age changeable as her mood. <e>	124.17690761456184
+<s> she follows her mother with ungainly steps a mare leading her fillyfoal. <e>	83.03337685343556
+<s> she is more taking then. <e>	11.754695739680677
+<s> he was walking by the hedge reading i think a brevier book with i doubt not a witty letter in it from glycera or chloe to keep the page. <e>	90.91413106765533
+<s> next the scotchman was the place assigned to costello the eccentric while at his side was seated in stolid repose the squat form of madden. <e>	63.79859794414471
+<s> it had better be stated here and now at the outset that the perverted transcendentalism to which mr s. dedalus div. <e>	34.305608017468764
+<s> for the enlightenment of those who are not so intimately acquainted with the minutiae of the municipal abattoir as this morbidminded esthete and embryo philosopher who for all his overweening bumptiousness in things scientific can scarcely distinguish an acid from an alkali prides himself on being it should perhaps be stated that staggering bob in the vile parlance of our lowerclass licensed victuallers signifies the cookable and eatable flesh of a calf newly dropped from its mother. <e>	159.02608987974628
+<s> those who have passed on who have gone before are happy too as they gaze down and smile upon the touching scene. <e>	120.9518212191459
+<s> he knows and will call in his own good time. <e>	16.039668241564232
+<s> then all being gone a glance of motherwit helping he whispers close in going madam when comes the storkbird for thee <e>	128.57561847281832
+<s> to be printed and bound at the druiddrum press by two designing females. <e>	30.327334710703067
+<s> how is the squaws and papooses <e>	4.6930193905632756
+<s> stunned like seeing as how no shiners is acoming. <e>	19.541711685304325
+<s> up to you matey. <e>	4.687978277100999
+<s> au reservoir mossoo. <e>	14.926009923845815
+<s> i shee you shir. <e>	4.132726142202834
+<s> opera he d like <e>	8.360136501177362
+<s> will immensely splendiferous stander permit one stooder of most extreme poverty and one largesize grandacious thirst to terminate one expensive inaugurated libation <e>	204.18731667715477
+<s> hoots mon a wee drap to pree. <e>	14.720058117286536
+<s> bartle the bread we calls him. <e>	14.976498882630615
+<s> seen him today at a runefal <e>	12.296692367387486
+<s> ware hawks for the chap puking. <e>	22.059525065667472
+<s> shut your obstropolos. <e>	3.7936723128885674
+<s> elijah is coming <e>	3.78261066816366
+<s> alexander j christ dowie that is my name that is yanked to glory most half this planet from frisco beach to vladivostok. <e>	68.73389758335546
+<s> _ private carr and private compton swaggersticks tight in their oxters as they march unsteadily rightaboutface and burst together from their mouths a volleyed fart. <e>	28.286118555750605
+<s> _ lynch which is the jug of bread <e>	8.764291973002619
+<s> the navvy lurches against the lamp. <e>	16.59998017154654
+<s> from gillen is hairdresser is window a composite portrait shows him gallant nelson is image. <e>	53.955333443913
+<s> he brushes a mudflake from his cheek with a parcelled hand. <e>	29.019200572776576
+<s> i ought to report him. <e>	7.310129951558023
+<s> the stiff walk. <e>	7.434693146219334
+<s> true word spoken in jest. <e>	2.8214031025112734
+<s> _ a sinister figure leans on plaited legs against o beirne is wall a visage unknown injected with dark mercury. <e>	221.831245388512
+<s> a stooped bearded figure appears garbed in the long caftan of an elder in zion and a smokingcap with magenta tassels. <e>	46.0589717047278
+<s> i told you not go with drunken goy ever. <e>	16.775921105776952
+<s> what you call them running chaps <e>	15.206122115639966
+<s> not the least little bit. <e>	10.94911067353901
+<s> in the gap of her dark den furtive rainbedraggled bridie kelly stands. <e>	39.33393573701483
+<s> _ bridie hatch street. <e>	9.522171572421952
+<s> _ gerty with all my worldly goods i thee and thou. <e>	22.53622064678897
+<s> i know somebody wo not like that. <e>	9.092389847858765
+<s> you re scalding <e>	7.699658557752245
+<s> bloom _ low secretly ever more rapidly. <e>	18.731601827314517
+<s> spattered with size and lime of their lodges they frisk limblessly about him. <e>	62.00440006542179
+<s> got a match on you <e>	8.571582729274251
+<s> _ we are the boys. <e>	5.997276801982085
+<s> absurd i am. <e>	7.175160529927645
+<s> _ strange how they take to me. <e>	14.29673998373555
+<s> give and have done with it. <e>	6.164880348657622
+<s> two raincaped watch approach silent vigilant. <e>	15.630962173689888
+<s> _ the bulldog growls his scruff standing a gobbet of pig is knuckle between his molars through which rabid scumspittle dribbles. <e>	69.1487951179591
+<s> _ signor maffei _ with a sinister smile. <e>	14.398328603595305
+<s> no fixed abode. <e>	4.620258428970365
+<s> _ i ll introduce you inspector. <e>	9.086915270774773
+<s> _ a dark mercurialised face appears leading a veiled figure. <e>	40.2729573796363
+<s> a voice turncoat <e>	3.4872002308677037
+<s> _ with quiet feeling. <e>	9.996351004030203
+<s> i bear a respectable character and was four months in my last place. <e>	43.339578336811044
+<s> mary driscoll _ excitedly. <e>	4.049958264521034
+<s> a titbits back number_. <e>	11.379677482879991
+<s> my client is an infant a poor foreign immigrant who started scratch as a stowaway and is now trying to turn an honest penny. <e>	93.20581362645562
+<s> _ li li poo lil chile blingee pigfoot evly night payee two shilly... _ he is howled down. <e>	57.697001781742664
+<s> _ to bloom. <e>	2.3574797940645342
+<s> _ bleibtreustrasse berlin w. 13. <e>	5.513922261580954
+<s> his face lengthens grows pale and bearded with sunken eyes the blotches of phthisis and hectic cheekbones of john f. taylor. <e>	158.33192321761427
+<s> i am suffering from a severe chill have recently come from a sickbed. <e>	35.965871600368814
+<s> _ a crowd of sluts and ragamuffins surges forward. <e>	34.52898675519536
+<s> _ the sluts and ragamuffins _ screaming. <e>	12.267086034888381
+<s> _ also me. <e>	5.054198239603067
+<s> i have it still. <e>	5.131609624226841
+<s> i ll flay him alive. <e>	5.3355816511910215
+<s> _ mrs yelverton barry _ severely. <e>	5.11548672555514
+<s> _ the timepiece _ unportalling. <e>	4.236402412083139
+<s> a thousand pounds reward. <e>	4.880129493942375
+<s> second watch _ awed whispers. <e>	6.858570661703145
+<s> he rubs grimly his grappling hands knobbed with knuckledusters. <e>	22.881780017607287
+<s> _ overcome with emotion. <e>	11.650870652037444
+<s> second watch _ blesses himself. <e>	10.70370355065268
+<s> _ the kisses _ warbling. <e>	13.018536904730514
+<s> _ she puts the potato greedily into a pocket then links his arm cuddling him with supple warmth. <e>	70.23820344989126
+<s> a fountain murmurs among damask roses. <e>	87.00178435272443
+<s> mammoth roses murmur of scarlet winegrapes. <e>	37.02418110861923
+<s> make a stump speech out of it. <e>	12.84309500998919
+<s> _ mankind is incorrigible. <e>	7.717076669284626
+<s> the van of the procession appears headed by john howard parnell city marshal in a chessboard tabard the athlone poursuivant and ulster king of arms. <e>	83.91798743205533
+<s> bloom is boys run amid the bystanders with branches of hawthorn and wrenbushes. <e>	63.07767608465983
+<s> _ bloom s boys the wren the wren the king of all birds saint stephen is his day was caught in the furze. <e>	64.35222125644478
+<s> and is that bloom <e>	6.765049807562987
+<s> _ and done <e>	5.322173087619695
+<s> _ will you to your power cause law and mercy to be executed in all your judgments in ireland and territories thereunto belonging <e>	85.09088642625355
+<s> _ illustrious bloom <e>	9.158377362793521
+<s> numerous houses are razed to the ground. <e>	18.34351593158828
+<s> _ absence makes the heart grow younger. <e>	41.48450755452716
+<s> ter in die._ chris callinan what is the parallax of the subsolar ecliptic of aldebaran <e>	23.287373443021266
+<s> bloom when my progenitor of sainted memory wore the uniform of the austrian despot in a dank prison where was yours <e>	115.76552249485366
+<s> new worlds for old. <e>	19.859689402967923
+<s> paddy leonard stage irishman <e>	13.164111005899786
+<s> a worshipper of the scarlet woman intrigue is the very breath of his nostrils. <e>	21.375905082629995
+<s> dr punch costello the fetor judaicus is most perceptible. <e>	14.757699119337907
+<s> all the octuplets are handsome with valuable metallic faces wellmade respectably dressed and wellconducted speaking five modern languages fluently and interested in various arts and sciences. <e>	148.43632063986874
+<s> leopoldi autem generatio._ moses begat noah and noah begat eunuch and eunuch begat o halloran and o halloran begat guggenheim and guggenheim begat agendath and agendath begat netaim and netaim begat le hirsch and le hirsch begat jesurum and jesurum begat mackay and mackay begat ostrolopsky and ostrolopsky begat smerdoz and smerdoz begat weiss and weiss begat schwarz and schwarz begat adrianopoli and adrianopoli begat aranjuez and aranjuez begat lewy lawson and lewy lawson begat ichabudonosor and ichabudonosor begat o donnell magnus and o donnell magnus begat christbaum and christbaum begat ben maimun and ben maimun begat dusty rhodes and dusty rhodes begat benamor and benamor begat jones smith and jones smith begat savorgnanovich and savorgnanovich begat jasperstone and jasperstone begat vingtetunieme and vingtetunieme begat szombathely and szombathely begat virag and virag begat bloom et vocabitur nomen eius emmanuel. a deadhand _ writes on the wall. <e>	113.6040715662913
+<s> the fire brigade pflaap <e>	5.392886138793145
+<s> _ lieutenant myers of the dublin fire brigade by general request sets fire to bloom. <e>	71.8966248317515
+<s> bloom _ in caubeen with clay pipe stuck in the band dusty brogues an emigrant is red handkerchief bundle in his hand leading a black bogoak pig by a sugaun with a smile in his eye. <e>	119.59082802736616
+<s> _ all insanity. <e>	3.4312329406296938
+<s> let everything rip. <e>	3.068444383977975
+<s> the greeneyed monster. <e>	2.8439688688191334
+<s> _ with little parted talons she captures his hand her forefinger giving to his palm the passtouch of secret monitor luring him to doom. <e>	60.67344478335111
+<s> _ she is a bit imbecillic. <e>	4.392134318197342
+<s> _ what ails it tonight <e>	7.0550716739654185
+<s> the cap bah <e>	3.805029367454037
+<s> o my foot is tickling. <e>	5.553853986924437
+<s> _ stephen turns and sees bloom. <e>	15.443257963579468
+<s> rien va plus <e>	5.870041537715806
+<s> open your gates and sing hosanna... _ a rocket rushes up the sky and bursts. <e>	40.81725203378937
+<s> _ over the possing drift and choking breathcoughs elijah is voice harsh as a corncrake is jars on high. <e>	129.19829840386586
+<s> _ our mr president he twig the whole lot and he aint saying nothing. <e>	65.35881956038729
+<s> my mother is sister married a montmorency. <e>	11.840922211703402
+<s> i was guilty with whelan when he slipped into the bed. <e>	27.62557558860037
+<s> _ he corantos by. <e>	4.39787431469868
+<s> he rises slowly. <e>	8.977343698592792
+<s> his left hand grasps a huge crayfish by its two talons. <e>	27.71888469186252
+<s> the green light wanes to mauve. <e>	16.353755046474056
+<s> kitty ricketts licks her middle finger with her spittle and gazing in the mirror smooths both eyebrows. <e>	90.66995656311735
+<s> _ my name is virag lipoti of szombathely. <e>	17.186369532967056
+<s> am i right <e>	3.6215932680386724
+<s> her beam is broad. <e>	9.645737343359585
+<s> _ bloom i wanted then to have now concluded. <e>	12.127862241472643
+<s> _ he unrolls his parchment rapidly and reads his glowworm is nose running backwards over the letters which he claws. <e>	93.29491438691788
+<s> he doth rest anon. <e>	23.77793224140327
+<s> he snaps his jaws suddenly on the air. <e>	12.68120215237938
+<s> the moth i am a tiny tiny thing ever flying in the spring round and round a ringaring. <e>	33.15033555589419
+<s> will write fully tomorrow. <e>	24.12528961427872
+<s> _ philip sober take a fool is advice. <e>	10.904741262947763
+<s> if i could only find out about octaves. <e>	9.624130405701676
+<s> you re like someone i knew once. <e>	13.52023778096931
+<s> she whips it off. <e>	5.379795939480288
+<s> _ he sticks out a flickering phosphorescent scorpion tongue his hand on his fork. <e>	59.501934290763636
+<s> dr hy franks. <e>	2.581895164141393
+<s> but beware antisthenes the dog sage and the last end of arius heresiarchus. <e>	53.00379717479153
+<s> i am very fond of what i like. <e>	9.555362088761688
+<s> _ bloom _ solemnly. <e>	2.886374340385514
+<s> tansy and pennyroyal. <e>	5.668922998525715
+<s> _ that is so. <e>	4.771768268259302
+<s> was then she him you us since knew <e>	34.18196711325662
+<s> cheek me i dare you. <e>	16.04203359563457
+<s> _ they hold and pinion bloom. <e>	8.615999335296383
+<s> _ bello _ squats with a grunt on bloom is upturned face puffing cigarsmoke nursing a fat leg. <e>	113.13865291192788
+<s> zoe _ pulling at florry. <e>	10.928440679338797
+<s> _ not man. <e>	5.179972980129776
+<s> did he not lie in bed the gross boar gloating over a nauseous fragment of wellused toilet paper presented to him by a nasty harlot stimulated by gingerbread and a postal order <e>	142.88542586894212
+<s> with how many <e>	5.908089035988314
+<s> _ and there now <e>	6.018127891069336
+<s> bello you will make the beds get my tub ready empty the pisspots in the different rooms including old mrs keogh is the cook is a sandy one. <e>	157.57696015794505
+<s> you will dance attendance or i ll lecture you on your misdeeds miss ruby and spank your bare bot right well miss with the hairbrush. <e>	65.86306134176805
+<s> _ dillon is lacquey rings his handbell. <e>	21.874820549420154
+<s> bring all your powers of fascination to bear on them. <e>	33.101845243446604
+<s> but that dress the green <e>	10.341599174578263
+<s> _ bello as a paying guest or a kept man <e>	37.8550148645669
+<s> if you have none see you damn well get it steal it rob it <e>	41.09938052419236
+<s> bloom _ crawls jellily forward under the boughs streaked by sunlight with dignity. <e>	31.100814820150497
+<s> _ your classic curves beautiful immortal i was glad to look on you to praise you a thing of beauty almost to pray. <e>	96.93699749345629
+<s> the nymph _ her fingers in her ears. <e>	6.5294470487008685
+<s> _ halcyon days high school boys in blue and white football jerseys and shorts master donald turnbull master abraham chatterton master owen goldberg master jack meredith master percy apjohn stand in a clearing of the trees and shout to master leopold bloom. <e>	300.43581593263684
+<s> _ whispered kisses are heard in all the wood. <e>	21.58659691362692
+<s> _ regularly engaged. <e>	6.836358148817123
+<s> we eat electric light. <e>	19.770211876442335
+<s> _ a large moist stain appears on her robe. <e>	32.735843372867286
+<s> bloom _ calls after her. <e>	7.4035709012830555
+<s> who is paying here <e>	10.130859366284186
+<s> who did ... <e>	6.252681382516115
+<s> bloom _ quietly. <e>	4.2970926810816
+<s> _ burying his grandmother. <e>	7.847539156759923
+<s> _ he strikes a match and proceeds to light the cigarette with enigmatic melancholy. <e>	24.612296504948247
+<s> it goes out. <e>	6.281646732628207
+<s> hangende hunger fragende frau macht uns alle kaputt. <e>	15.899687847621431
+<s> zoe _ examining stephen is palm. <e>	18.70684707910717
+<s> zoe _ peering at bloom is palm. <e>	14.897582243632328
+<s> lenehan _ smells gleefully. <e>	10.823813183273339
+<s> _ here to buy yourself a gin and splash. <e>	21.64461669894902
+<s> boylan clasps himself. <e>	14.139149170476227
+<s> _ vaseline sir <e>	10.144533899537901
+<s> bloom _ his eyes wildly dilated clasps himself. <e>	18.760524939132907
+<s> most bloody awful demirep <e>	14.003015502583784
+<s> ho là là <e>	26.731783247372807
+<s> stephen _ grimacing with head back laughs loudly clapping himself. <e>	76.25197667622936
+<s> _ caoutchouc statue woman reversible or lifesize tompeeptom of virgins nudities very lesbic the kiss five ten times. <e>	113.28946610630157
+<s> stephen _ extends his arms. <e>	4.2818386006864575
+<s> where is the red carpet spread <e>	11.364619942698065
+<s> _ ho boy <e>	7.054724606261628
+<s> bloom who ll... <e>	9.594480708359047
+<s> _ she drops two pennies in the slot. <e>	7.980484516871224
+<s> the pianola with changing lights plays in waltz time the prelude of my girl is a yorkshire girl. <e>	53.20353586912101
+<s> her sleeve falling from gracing arms reveals a white fleshflower of vaccination. <e>	43.11371378338562
+<s> in his buttonhole is an immense dahlia. <e>	15.603215412664055
+<s> the air in firmer waltz time sounds. <e>	40.19165831588395
+<s> _ hours you may touch my. <e>	24.42948400597437
+<s> the pianola my little shy little lass has a waist. <e>	49.35643740684166
+<s> weary they curchycurchy under veils. <e>	11.41502442310436
+<s> he stops dead. <e>	5.936635950192298
+<s> the pity of it <e>	6.914140194755116
+<s> kinch dogsbody killed her bitchbody. <e>	19.115385264806033
+<s> _ a green crab with malignant red eyes sticks deep its grinning claws in stephen is heart. <e>	148.08142396449614
+<s> but he is a trinity student. <e>	11.853023724567302
+<s> you do not want a scandal. <e>	4.0084006489149235
+<s> _ there is a row on. <e>	6.011467977210852
+<s> private carr _ his cap awry advances to stephen. <e>	12.898137154157299
+<s> dolly gray _ from her balcony waves her handkerchief giving the sign of the heroine of jericho. <e>	76.59176650202994
+<s> stephen _ laughs emptily. <e>	4.817750261615926
+<s> struggle for life is the law of existence but but human philirenists notably the tsar and the king of england have invented arbitration. <e>	52.72934777121603
+<s> _ edward the seventh appears in an archway. <e>	8.01758481774445
+<s> _ kevin egan h lo <e>	13.674203439412436
+<s> _ werf those eykes to footboden big grand porcos of johnyellows todos covered of gravy <e>	31.832382472604387
+<s> _ may the god above send down a dove with teeth as sharp as razors to slit the throats of the english dogs that hanged our irish leaders. <e>	112.16707654974492
+<s> _ rope which hanged the awful rebel. <e>	50.04175403204786
+<s> _ stephen aha <e>	7.749069671916562
+<s> private carr _ tugging at his belt. <e>	9.013484029754643
+<s> on fire on fire <e>	2.5806208824177834
+<s> cries of valour. <e>	4.197819143926216
+<s> the voice of all the blessed alleluia for the lord god omnipotent reigneth <e>	5.191157151119546
+<s> i ll wring the bastard fucker is bleeding blasted fucking windpipe <e>	104.75448558498385
+<s> _ i ll insult him. <e>	8.714336364949338
+<s> _ ute ute ute ute ute ute ute ute. <e>	5.306338008928797
+<s> and assaulted my chum. <e>	4.619889859117596
+<s> _ i just see a car there. <e>	12.631508418272183
+<s> _ corny kelleher weepers round his hat a death wreath in his hand appears among the bystanders. <e>	33.50956272245037
+<s> _ bloom _ quickly. <e>	2.868033194141408
+<s> corny kelleher _ winking. <e>	6.382989467584685
+<s> _ thank you very much gentlemen. <e>	7.08305136452756
+<s> bloom shakes his head in mute mirthful reply. <e>	23.839133073523204
+<s> then he bends to him and shakes him by the shoulder. <e>	18.739103651486204
+<s> _ he sighs and stretches himself then murmurs thickly with prolonged vowels. <e>	64.24868552429577
+<s> _ face reminds me of his poor mother. <e>	15.532135470075637
+<s> _ bloom _ wonderstruck calls inaudibly. <e>	10.199983815217477
+<s> as it so happened a dublin united tramways company is sandstrewer happened to be returning and the elder man recounted to his companion à propos of the incident his own truly miraculous escape of some little while back. <e>	64.76890599298777
+<s> en route to his taciturn and not to put too fine a point on it not yet perfectly sober companion mr bloom who at all events was in complete possession of his faculties never more so in fact disgustingly sober spoke a word of caution re the dangers of nighttown women of ill fame and swell mobsmen which barely permissible once in a while though not as a habitual practice was of the nature of a regular deathtrap for young fellows of his age particularly if they had acquired drinking habits under the influence of liquor unless you knew a little jiujitsu for every contingency as even a fellow on the broad of his back could administer a nasty kick if you did not look out. <e>	240.390489184961
+<s> i would not ask you only pursued he on my solemn oath and god knows i am on the rocks. <e>	53.4974707051897
+<s> though this sort of thing went on every other night or very near it still stephen is feelings got the better of him in a sense though he knew that corley is brandnew rigmarole on a par with the others was hardly deserving of much credence. <e>	134.63546489513092
+<s> simply fag out there for nothing. <e>	22.212567329301923
+<s> i gathered in the course of conversation that he had moved. <e>	15.644079126287195
+<s> there was no response forthcoming to the suggestion however such as it was stephen is mind is eye being too busily engaged in repicturing his family hearth the last time he saw it with his sister dilly sitting by the ingle her hair hanging down waiting for some weak trinidad shell cocoa that was in the sootcoated kettle to be done so that she and he could drink it with the oatmealwater for milk after the friday herrings they had eaten at two a penny with an egg apiece for maggy boody and katey the cat meanwhile under the mangle devouring a mess of eggshells and charred fish heads and bones on a square of brown paper in accordance with the third precept of the church to fast and abstain on the days commanded it being quarter tense or if not ember days or something like that. <e>	171.4833786673556
+<s> our name was changed too he added pushing the socalled roll across. <e>	106.18917243985213
+<s> i ve heard of him stephen said. <e>	9.188105625866253
+<s> all too irish stephen rejoined. <e>	21.731581060930004
+<s> the lefthand dead shot. <e>	8.618024428816804
+<s> i seen him do that in stockholm. <e>	7.940848867265785
+<s> fort camden and fort carlisle. <e>	4.637777465518691
+<s> nobody volunteering a statement he winked saying glass. <e>	42.630046228187965
+<s> mr bloom inquired. <e>	2.7459300278704197
+<s> what year would that be about <e>	19.01534375463283
+<s> our soi disant sailor munched heavily awhile hungrily before answering i am tired of all them rocks in the sea he said and boats and ships. <e>	170.04304379889362
+<s> why the sailor answered with a slow puzzled utterance my son danny <e>	36.964614512588014
+<s> it would be immortal i understand but for the possibility of its annihilation by its first cause who from all i can hear is quite capable of adding that to the number of his other practical jokes corruptio per se and corruptio per accidens both being excluded by court etiquette. <e>	212.24538726486023
+<s> o that stephen expostulated has been proved conclusively by several of the bestknown passages in holy writ apart from circumstantial evidence. <e>	147.30332811311055
+<s> and take a piece of that bun. <e>	7.27031822505853
+<s> you would feel a different man. <e>	3.501708695922616
+<s> mind you i am not saying that it is all a pure invention he resumed. <e>	24.336958578304493
+<s> there were wrecks and wreckers the keeper said who was evidently _au fait_. <e>	14.686413057378937
+<s> where would you find anywhere the like of irish bacon <e>	20.330222520912145
+<s> it was quite on a par with the quixotic idea in certain quarters that in a hundred million years the coal seam of the sister island would be played out and if as time went on that turned out to be how the cat jumped all he could personally say on the matter was that as a host of contingencies equally relevant to the issue might occur ere then it was highly advisable in the interim to try to make the most of both countries even though poles apart. <e>	193.6282643890329
+<s> not a vestige of truth in it i can safely say. <e>	15.767887014602957
+<s> you have every bit as much right to live by your pen in pursuit of your philosophy as the peasant has. <e>	96.87170357381734
+<s> however reverting to the original there were on the other hand others who had forced their way to the top from the lowest rung by the aid of their bootstraps. <e>	40.02587448935998
+<s> letter from his grace. <e>	6.804677330971291
+<s> foot and mouth. <e>	2.555173566692703
+<s> mr f. alexander is throwaway b. h. by rightaway thrale 5 yrs 9 st 4 lbs w. lane 1. <e>	366.0741337082578
+<s> sceptre a shade heavier. <e>	8.959425799174017
+<s> guesswork it reduced itself to eventually. <e>	13.52883424042937
+<s> that haunting sense kind of drew you. <e>	24.48595856437112
+<s> though it was no concern of theirs absolutely if he regarded her with affection carried away by a wave of folly. <e>	74.65367907625024
+<s> do you consider by the by he said thoughtfully selecting a faded photo which he laid on the table that a spanish type <e>	61.43467579395733
+<s> stephen obviously addressed looked down on the photo showing a large sized lady with her fleshy charms on evidence in an open fashion as she was in the full bloom of womanhood in evening dress cut ostentatiously low for the occasion to give a liberal display of bosom with more than vision of breasts her full lips parted and some perfect teeth standing near ostensibly with gravity a piano on the rest of which was in old madrid a ballad pretty in its way which was then all the vogue. <e>	227.61185754217684
+<s> and why not <e>	3.812607671096099
+<s> at his age when dabbling in politics roughly some score of years previously when he had been a quasi aspirant to parliamentary honours in the buckshot foster days he too recollected in retrospect which was a source of keen satisfaction in itself he had a sneaking regard for those same ultra ideas. <e>	120.1784265816673
+<s> on the other hand it was altogether far and away too late for the sandymount or sandycove suggestion so that he was in some perplexity as to which of the two alternatives. <e>	32.35288109482081
+<s> at all events he wound up by concluding eschewing for the nonce hidebound precedent a cup of epps is cocoa and a shakedown for the night plus the use of a rug or two and overcoat doubled into a pillow at least he would be in safe hands and as warm as a toast on a trivet he failed to perceive any very vast amount of harm in that always with the proviso no rumpus of any sort was kicked up. <e>	188.72316980481608
+<s> people could put up with being bitten by a wolf but what properly riled them was a bite from a sheep. <e>	81.60535323449719
+<s> to which absorbing piece of intelligence echo answered why. <e>	27.940496510405808
+<s> one thing i never understood he said to be original on the spur of the moment. <e>	26.868618318665625
+<s> still supposing he had his father is gift as he more than suspected it opened up new vistas in his mind such as lady fingall is irish industries concert on the preceding monday and aristocracy in general. <e>	67.54534337486125
+<s> these opening bars he sang and translated extempore. <e>	48.085951124414336
+<s> slowly three times one after another from a full crupper he mired. <e>	32.64477102485248
+<s> under a row of five coiled spring housebells a curvilinear rope stretched between two holdfasts athwart across the recess beside the chimney pier from which hung four smallsized square handkerchiefs folded unattached consecutively in adjacent rectangles and one pair of ladies grey hose with lisle suspender tops and feet in their habitual position clamped by three erect wooden pegs two at their outer extremities and the third at their point of junction. <e>	388.3376841118595
+<s> what in water did bloom waterlover drawer of water watercarrier returning to the range admire <e>	68.58180543457458
+<s> that he was hydrophobe hating partial contact by immersion or total by submersion in cold water his last bath having taken place in the month of october of the preceding year disliking the aqueous substances of glass and crystal distrusting aquacities of thought and language. <e>	156.73462353932632
+<s> fanned by a constant updraught of ventilation between the kitchen and the chimneyflue ignition was communicated from the faggots of precombustible fuel to polyhedral masses of bituminous coal containing in compressed mineral form the foliated fossilised decidua of primeval forests which had in turn derived their vegetative existence from the sun primal source of heat radiant transmitted through omnipresent luminiferous diathermanous ether. <e>	246.18234532782913
+<s> what reminiscences temporarily corrugated his brow <e>	16.988118482981616
+<s> light to the gentiles. <e>	5.277841164553256
+<s> what cerebration accompanied his frequentative act <e>	13.886194594365682
+<s> had he found their solution <e>	14.026921197072157
+<s> you are mine. <e>	2.5938597702725184
+<s> alexander j. keyes. <e>	9.241012254709199
+<s> did he attribute this homonymity to information or coincidence or intuition <e>	49.35796774764733
+<s> which domestic problem as much as if not more than any other frequently engaged his mind <e>	43.42441015484789
+<s> in calculating the addenda of bills she frequently had recourse to digital aid. <e>	98.45320474664845
+<s> on the penultimate blank page of a book of inferior literary style entituled sweets of sin produced by bloom and so manipulated that its front cover came in contact with the surface of the table with a pencil supplied by stephen stephen wrote the irish characters for gee eh dee em simple and modified and bloom in turn wrote the hebrew characters ghimel aleph daleth and in the absence of mem a substituted qoph explaining their arithmetical values as ordinal and cardinal numbers videlicet 3 1 4 and 100. <e>	392.6723235902272
+<s> by a periphrastic version of the general text. <e>	11.496224725710983
+<s> he heard in a profound ancient male unfamiliar melody the accumulation of the past. <e>	35.11974530001041
+<s> illustration how did the son of rudolph receive this first part <e>	21.334472255657275
+<s> smiling a jew he heard with pleasure and saw the unbroken kitchen window. <e>	36.5644362608393
+<s> it leads him to a strange habitation to a secret infidel apartment and there implacable immolates him consenting. <e>	45.2727004634278
+<s> did that first division portending a second division afflict him <e>	63.07770232791928
+<s> why similarly why differently <e>	23.30060822983668
+<s> she remembered on the 27th anniversary of his birth she presented to him a breakfast moustachecup of imitation crown derby porcelain ware. <e>	47.575651437114786
+<s> promptly inexplicably with amicability gratefully it was declined. <e>	31.251692876046892
+<s> the former returned to the latter without interest a sum of money 1 7 0 one pound seven shillings sterling advanced by the latter to the former. <e>	62.89734522473673
+<s> to inaugurate a course of vocal instruction place the residence of the instructress. <e>	12.736261543026314
+<s> his bloom is logical conclusion having weighed the matter and allowing for possible error <e>	65.74381379062817
+<s> silent each contemplating the other in both mirrors of the reciprocal flesh of theirhisnothis fellowfaces. <e>	79.76846857179473
+<s> the cold of interstellar space thousands of degrees below freezing point or the absolute zero of fahrenheit centigrade or réaumur the incipient intimations of proximate dawn. <e>	154.67781673354665
+<s> the other a slender splayfoot chair of glossy cane curves placed directly opposite the former its frame from top to seat and from seat to base being varnished dark brown its seat being a bright circle of white plaited rush. <e>	575.6654010579814
+<s> what homothetic objects other than the candlestick stood on the mantelpiece <e>	45.013063145502336
+<s> a timepiece of striated connemara marble stopped at the hour of 4.46 a.m. on the 21 march 1896 matrimonial gift of matthew dillon a dwarf tree of glacial arborescence under a transparent bellshade matrimonial gift of luke and caroline doyle an embalmed owl matrimonial gift of alderman john hooper. <e>	61.304826250776856
+<s> what composite asymmetrical image in the mirror then attracted his attention <e>	16.48399354070809
+<s> yet that man is father was his grandfather is son. <e>	20.142828605160844
+<s> shakespeare is works dark crimson morocco goldtooled . <e>	48.004472963969256
+<s> the story of the heavens by sir robert ball blue cloth . <e>	25.951597610093188
+<s> pardies and rendered into engliſh by john harris d. d. london printed for r. knaplock at the biſhop is head mdccxi with dedicatory epiſtle to his worthy friend charles cox eſquire member of parliament for the burgh of southwark and having ink calligraphed statement on the flyleaf certifying that the book was the property of michael gallagher dated this 10th day of may 1822 and requeſting the perſon who should find it if the book should be loſt or go aſtray to reſtore it to michael gallagher carpenter dufery gate enniſcorthy county wicklow the fineſt place in the world. <e>	179.8003284084417
+<s> what caused him irritation in his sitting posture <e>	7.967699503866566
+<s> what additional attractions might the grounds contain <e>	48.39181247348398
+<s> what improvements might be subsequently introduced <e>	19.474814552636943
+<s> in loose allwool garments with harris tweed cap price 8 6 and useful garden boots with elastic gussets and wateringcan planting aligned young firtrees syringing pruning staking sowing hayseed trundling a weedladen wheelbarrow without excessive fatigue at sunset amid the scent of newmown hay ameliorating the soil multiplying wisdom achieving longevity. <e>	316.83819588739885
+<s> what lighter recreations <e>	3.170926007359382
+<s> 800 plus 2 1 2 interest on the same repayable quarterly in equal annual instalments until extinction by amortisation of loan advanced for purchase within a period of 20 years amounting to an annual rental of 64 headrent included the titledeeds to remain in possession of the lender or lenders with a saving clause envisaging forced sale foreclosure and mutual compensation in the event of protracted failure to pay the terms assigned otherwise the messuage to become the absolute property of the tenant occupier upon expiry of the period of years stipulated. <e>	199.27377060346967
+<s> a scheme for the use of dogvans and goatvans for the delivery of early morning milk. <e>	13.630828941656578
+<s> a scheme for the development of irish tourist traffic in and around dublin by means of petrolpropelled riverboats plying in the fluvial fairway between island bridge and ringsend charabancs narrow gauge local railways and pleasure steamers for coastwise navigation 10 per person per day guide trilingual included . <e>	223.40632693290001
+<s> what did he fear <e>	5.624984706173522
+<s> an indistinct daguerreotype of rudolf virag and his father leopold virag executed in the year 1852 in the portrait atelier of their respectively 1st and 2nd cousin stefan virag of szesfehervar hungary. <e>	94.98331590833315
+<s> mendicancy that of the fraudulent bankrupt with negligible assets paying 1 4d in the sandwichman distributor of throwaways nocturnal vagrant insinuating sycophant maimed sailor blind stripling superannuated bailiff is man marfeast lickplate spoilsport pickthank eccentric public laughingstock seated on bench of public park under discarded perforated umbrella. <e>	174.5051577949894
+<s> by decease change of state by departure change of place . <e>	73.70108687872779
+<s> the cause of a brief sharp unforeseen heard loud lone crack emitted by the insentient material of a strainveined timber table. <e>	136.73426674465762
+<s> with what antagonistic sentiments were his subsequent reflections affected <e>	67.78022358627638
+<s> assassination never as two wrongs did not make one right. <e>	18.445245667833568
+<s> suit for damages by legal influence or simulation of assault with evidence of injuries sustained selfinflicted not impossibly. <e>	146.45591967845826
+<s> if any positively connivance introduction of emulation material a prosperous rival agency of publicity moral a successful rival agent of intimacy depreciation alienation humiliation separation protecting the one separated from the other protecting the separator from both. <e>	321.195230037244
