@@ -37,23 +37,34 @@ def clean_text(text):
 class LSTM(nn.Module):
     def __init__(self, vocab_size, embedding_dim, hidden_dim, num_layers, dropout_rate, tie_weights):
 
+        # Initialising the parent class
         super().__init__()
+
+        # Setting up the hyperparameter
         self.num_layers = num_layers
         self.hidden_dim = hidden_dim
         self.embedding_dim = embedding_dim
 
+        # Declaring embedding layer
         self.embedding = nn.Embedding(vocab_size, embedding_dim)
+
+        # Declaring LSTM Layer
         self.lstm = nn.LSTM(embedding_dim, hidden_dim, num_layers=num_layers, dropout=dropout_rate, batch_first=True)
+
+        # Dropout Layer
         self.dropout = nn.Dropout(dropout_rate)
+
+        # Linear Layer
         self.fc = nn.Linear(hidden_dim, vocab_size)
 
+        # Tie Weights
         if tie_weights:
             if embedding_dim != hidden_dim:
                 print("In order to tie weights, embedding dimension and hidden dimenstion should be same")
                 sys.exit(1)
             self.embedding.weight = self.fc.weight
 
-        # Initialising weights
+        # Initialising weights as generally pytorch initialises it randomly
         self.embedding.weight.data.uniform_(-0.1, 0.1)
         self.fc.weight.data.uniform_(-1 / math.sqrt(self.hidden_dim), 1 / math.sqrt(self.hidden_dim))
         self.fc.bias.data.zero_()
@@ -66,9 +77,14 @@ class LSTM(nn.Module):
             )
 
     def forward(self, src, hidden):
+        # Embedding tensor
         embedding = self.dropout(self.embedding(src))
+
+        # LSTM Matrix
         output, hidden = self.lstm(embedding, hidden)
         output = self.dropout(output)
+
+        # Linear output
         prediction = self.fc(output)
         return prediction, hidden
 
@@ -192,7 +208,7 @@ if __name__ == "__main__":
     optimizer = optim.Adam(model.parameters(), lr=lr)
     criterion = nn.CrossEntropyLoss()
 
-    mode = True
+    mode = False
 
     if mode == True:
         with open("Ulysses - James Joyce.txt", "r") as f:
