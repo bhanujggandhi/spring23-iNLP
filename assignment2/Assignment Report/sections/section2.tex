@@ -1,0 +1,72 @@
+
+\section{Methodology}
+
+Steps followed to implement the Neural POS Tagger
+
+\begin{enumerate}
+	\item Analysis of the dataset, carefully look at what all data is given and how it is formatted.
+	\item Created sequence of the dataset in order to feed the model
+	\begin{lstlisting}[language=Python]
+	def prepare_datasets(dataset):
+    	mod_data = []
+   		for idx in range(len(dataset)):
+       		tempword = []
+       		temptag = []
+       		for jdx in range(len(dataset[idx])):
+           		tempword.append(dataset[idx][jdx]["form"])
+           		temptag.append(dataset[idx][jdx]["upos"])
+
+        	mod_data.append([tempword, temptag])
+    	return mod_data
+	\end{lstlisting}
+	
+	\item Create vocabulary for Train Dataset (both for word tokens as well as Tag Tokens), for this I have used \texttt{torchtext vocabulary builder}, which lets us created a dictionary which handles the unknowns.
+	\begin{lstlisting}[language=Python]
+	word_vocab = torchtext.vocab.build_vocab_from_iterator(new_list)
+	word_vocab.insert_token('<unk>', 0)            
+	word_vocab.set_default_index(word_vocab['<unk>'])
+	\end{lstlisting}
+
+	\item Create model, \texttt{pytorch} let's you create model using class inheritence. I have used 3 layers to define my model.
+		\begin{enumerate}
+			\item Embedding Layer
+			\item Bidirectional LSTM Layer
+			\item Linear Layer
+		\end{enumerate}
+		I have also used Dropout, as out corpus is very small and it is possible for model to \textit{overfit}	, thus dropping some of the weights and re-learn them in further iterations.
+	\begin{lstlisting}[language=Python]
+	class LSTMTagger(nn.Module):
+    	def __init__(
+        	self,
+        	word_embedding_dim,
+        	word_hidden_dim,
+        	vocab_size,
+        	tagset_size,
+    	):
+        	super(LSTMTagger, self).__init__()
+        	self.word_hidden_dim = word_hidden_dim
+        	self.word_embeddings = nn.Embedding(vocab_size, word_embedding_dim)
+        	self.lstm = nn.LSTM(word_embedding_dim, word_hidden_dim, num_layers = 1, bidirectional = True)
+
+        	self.hidden2tag = nn.Linear(word_hidden_dim*2, tagset_size)
+
+        	self.dropout = nn.Dropout(0.1)
+
+    	def forward(self, sentence):
+        	embeds = self.dropout(self.word_embeddings(sentence))
+        	lstm_out, _ = self.lstm(embeds.view(len(sentence), 1, -1))
+        	tag_space = self.hidden2tag(lstm_out.view(len(sentence), -1))
+        	tag_scores = F.log_softmax(tag_space, dim=1)
+        	return tag_scores
+
+	\end{lstlisting}
+	
+	\item To calculate loss and to calculate the \textit{Gradient Descent} in each iteration, I have used Negative Loss Likelihood function and to optimize the learning rate I have used Adam as optimizer.
+	\begin{lstlisting}[language=Python]
+	# Define the loss function as the Negative Log Likelihood loss (NLLLoss)
+	loss_function = nn.NLLLoss()
+
+	# We will be using a simple SGD optimizer
+	optimizer = optim.Adam(model.parameters(), lr=0.01)
+	\end{lstlisting}
+\end{enumerate}

@@ -1,0 +1,35 @@
+
+
+\section{Neural POS Tagging}
+
+Q) Design, implement, and train a neural sequence model (RNN, LSTM, GRU, etc.) of your choice to (tokenize and) tag a given sentence with the correct part-of-speech tags. For example, given the input\par
+\texttt{Mary had a little lamb}\par
+your model should output\par
+\texttt{Mary    NOUN\\
+had VERB\\
+a   DET\\
+little  ADJ\\
+lamb    NOUN}\par
+Note that the part-of-speech tag is separated from each word by a tab \textbackslash t character.\par
+
+\subsection{Introduction}
+
+Neural POS tagging is a method for automatically assigning parts-of-speech (POS) tags to words in a sentence using neural networks. POS tagging is an important task in natural language processing (NLP) because it helps in understanding the syntactic structure of sentences and is used in many downstream NLP tasks, such as text classification and named entity recognition.
+
+
+\subsection{Dataset Overview}
+
+The dataset used in this task is the \textit{UD English-Atis} treebank, version 2.11, which includes data specific to the ATIS (Airline Travel Information System) domain. The dataset consists of the following files:
+
+\begin{itemize}
+    \item \texttt{en\_atis-ud-train.conllu}: This file contains the training set with annotated part-of-speech tags and syntactic dependency relations.
+    
+    \item \texttt{en\_atis-ud-dev.conllu}: This file contains the development set, which is used for tuning the model hyperparameters and evaluating its performance during training.
+    
+    \item \texttt{en\_atis-ud-test.conllu}: This file contains the test set, which is used to evaluate the final performance of the trained model.
+
+\end{itemize}
+
+The files are in the CoNLL-U format, which is a plain text format for representing syntactic dependency trees with annotations.
+
+Each line in these files corresponds to a token in a sentence, and the fields in each line are separated by tabs. The first ten fields contain information about the token, including its index, word form, lemma, part-of-speech tag, and features. The eleventh field contains the index of the token's head in the sentence, and the twelfth field contains the syntactic dependency relation between the token and its head.
