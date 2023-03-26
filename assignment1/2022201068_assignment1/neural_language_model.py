@@ -170,7 +170,7 @@ def calculate_perp(data, vocab_dict, model_file_path):
     data = batchify(data, vocab_dict, 1)
     # print(data)
     model.load_state_dict(torch.load(model_file_path, map_location=device))
-    test_loss = evaluate(model, data, criterion, 1, seq_len, device)
+    test_loss = evaluate(model, data, criterion, 1, 1, device)
     pp = math.exp(test_loss)
     print(f"Perplexity: {math.exp(test_loss):.3f}")
     print(f"Probability: {(1 / pp) ** seq_len}")

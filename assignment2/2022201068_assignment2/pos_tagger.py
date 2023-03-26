@@ -240,7 +240,7 @@ if mode == True:
         print(f"Accuracy on test dataset: {np.mean(acc)}")
 
 
-model.load_state_dict(torch.load("last_model.pth", map_location=device))
+model.load_state_dict(torch.load("lstm_model.pth", map_location=device))
 
 # import json
 
@@ -265,7 +265,7 @@ def find_pos_tags(sent: str):
         for i in range(len(indices)):
             for key, value in tag_vocab.get_stoi().items():
                 if indices[i] == value:
-                    ret.append(f"{sent[i]}\t{key}")
+                    ret.append(f"{sent[i]}    {key}")
 
         for p in ret:
             print(p)

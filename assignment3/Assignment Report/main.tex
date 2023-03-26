@@ -1,0 +1,23 @@
+%% PREAMBEL %%
+\input{template/preamble.tex}
+
+%% DOCUMENT START %%
+\begin{document}
+
+\pagenumbering{roman}
+
+\include{template/title}
+
+\setlength{\parskip}{.5em}
+\cleardoublepage
+\tableofcontents
+\setlength{\parskip}{1em}
+\newpage
+
+\pagenumbering{arabic}
+
+\include{sections/section1}
+\include{sections/section2}
+\include{sections/section3}
+
+\end{document}

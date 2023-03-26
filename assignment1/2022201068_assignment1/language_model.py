@@ -128,6 +128,8 @@ def train_test_split(text: list[str], test_size) -> (list[str], list[str]):
 
 train_data, test_data = train_test_split(preprocessText, 1000)
 
+print(test_data)
+
 print("*" * 40)
 print(f"Training Corpus Size: {len(train_data)}")
 print(f"Testing Corpus Size: {len(test_data)}")

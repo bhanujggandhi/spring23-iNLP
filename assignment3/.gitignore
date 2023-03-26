@@ -1,0 +1,8 @@
+cbow_model
+datasubsets
+svd_model
+reviews_Movies_and_TV
+*.json
+*.npy
+*.pt
+*.pkl
