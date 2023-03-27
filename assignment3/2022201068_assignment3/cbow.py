@@ -1,6 +1,7 @@
 # ==========================================
 # Import Dependencies
 # ==========================================
+import html
 import random
 from functools import partial
 
@@ -48,7 +49,7 @@ class CBOW(nn.Module):
 
 class CBOW_1(nn.Module):
     def __init__(self, vocab_size, embedding_dim, device):
-        super(CBOW, self).__init__()
+        super(CBOW_1, self).__init__()
         self.device = device
         self.context_embeddings = nn.Embedding(vocab_size, embedding_dim)
         self.neg_embeddings = nn.Embedding(vocab_size, embedding_dim)
@@ -175,7 +176,7 @@ if TRAIN:
     text_pipeline = lambda x: vocab(tokenizer(x))
     train_dataloader = DataLoader(
         matched_style_corpus,
-        batch_size=512,
+        batch_size=64,
         shuffle=True,
         collate_fn=partial(collate_cbow, text_pipeline=text_pipeline, vocab=vocab, word_freq=word_freq),
     )
@@ -187,7 +188,7 @@ if TRAIN:
 
     EMBED_DIMENSION = 300
 
-    model = CBOW(len(vocab), EMBED_DIMENSION, device)
+    model = CBOW_1(len(vocab), EMBED_DIMENSION, device)
     model.to(device)
 
     criterion = nn.CrossEntropyLoss()
@@ -213,8 +214,6 @@ else:
 
     model = torch.load("./cbow_model/model_cbow.pt", map_location=device)
     vocab = torch.load(f"./cbow_model/vocab_cbow.pt")
-
-    print(model)
 
     # embedding from first model layer
     embeddings = list(model.parameters())[0]
