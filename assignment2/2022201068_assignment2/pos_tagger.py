@@ -1,5 +1,6 @@
 # IMPORTS
 import re
+import warnings
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -11,6 +12,8 @@ import torchtext
 from conllu import parse
 from sklearn.metrics import classification_report
 from tqdm import tqdm
+
+warnings.filterwarnings("ignore")
 
 # For replicating the results
 torch.manual_seed(1)
@@ -241,6 +244,7 @@ if mode == True:
 
 
 model.load_state_dict(torch.load("lstm_model.pth", map_location=device))
+model.eval()
 
 # import json
 

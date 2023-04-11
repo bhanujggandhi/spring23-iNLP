@@ -1,0 +1,13 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Neural POS Tagging}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Introduction}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Dataset Overview}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Methodology}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Model Architecture}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Implementational Steps}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Results}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Analysis}{4}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Unidirectional LSTM}{4}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Hyper-parameters Tuning}{5}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Results}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Sample sentences test}{8}{subsection.3.3}%
