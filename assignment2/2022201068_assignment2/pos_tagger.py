@@ -227,7 +227,7 @@ if mode == True:
     with torch.no_grad():
         acc = []
         wrong = 0
-        for sent, tags in mod_dev_data:
+        for sent, tags in mod_test_data:
             sentence = torch.tensor(sequence_to_idx(sent, word_vocab), dtype=torch.long).to(device)
 
             tag_scores = model(sentence)
