@@ -24,10 +24,10 @@ from sklearn.metrics import (
 )
 from matplotlib import pyplot as plt
 
-# nltk.download("wordnet")
+nltk.download("wordnet")
 lemmatizer = WordNetLemmatizer()
 
-# nltk.download("stopwords")
+nltk.download("stopwords")
 stop_words = set(stopwords.words("english"))
 stop_words.remove("not")
 stop_words.remove("no")

@@ -10,25 +10,19 @@ import torchtext
 import unidecode
 from bs4 import BeautifulSoup
 from datasets import load_dataset
+from matplotlib import pyplot as plt
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-from sklearn.metrics import (
-    classification_report,
-    roc_curve,
-    roc_auc_score,
-    ConfusionMatrixDisplay,
-    confusion_matrix,
-)
+from sklearn.metrics import (ConfusionMatrixDisplay, classification_report,
+                             confusion_matrix, roc_auc_score, roc_curve)
 from torch import nn, optim
 from torch.utils.data import DataLoader, Dataset
 from tqdm import tqdm
-from matplotlib import pyplot as plt
 
-
-# nltk.download("wordnet")
+nltk.download("wordnet")
 lemmatizer = WordNetLemmatizer()
 
-# nltk.download("stopwords")
+nltk.download("stopwords")
 stop_words = set(stopwords.words("english"))
 stop_words.remove("not")
 stop_words.remove("no")
@@ -94,7 +88,7 @@ class ELMo(nn.Module):
         super(ELMo, self).__init__()
         self.embedding = nn.Embedding.from_pretrained(embeddings)
 
-        self.layer_1 = nn.LSTM(
+        self.layer1 = nn.LSTM(
             input_size=embedding_size,
             hidden_size=hidden_size,
             num_layers=1,
@@ -102,7 +96,7 @@ class ELMo(nn.Module):
             bidirectional=True,
         )
 
-        self.layer_2 = nn.LSTM(
+        self.layer2 = nn.LSTM(
             input_size=2 * hidden_size,
             hidden_size=hidden_size,
             num_layers=1,
@@ -117,9 +111,9 @@ class ELMo(nn.Module):
     def forward(self, X):
         embeddings = self.embedding(X)
 
-        lstm1_output, _ = self.layer_1(embeddings)
+        lstm1_output, _ = self.layer1(embeddings)
 
-        lstm2_output, _ = self.layer_2(lstm1_output)
+        lstm2_output, _ = self.layer2(lstm1_output)
         lstm2_output = self.dropout(lstm2_output)
 
         output = self.linear(lstm2_output)
@@ -140,16 +134,16 @@ class Sentiment_Classifier_MultiNLI(nn.Module):
 
     def forward(self, premise, hypothesis):
         embeddings_p = elmo.embedding(premise)
-        lstm1_output_p, _ = elmo.lstm1(embeddings_p)
-        lstm2_output_p, _ = elmo.lstm2(lstm1_output_p)
+        lstm1_output_p, _ = elmo.layer1(embeddings_p)
+        lstm2_output_p, _ = elmo.layer2(lstm1_output_p)
         output_p = self.gamma * (
             self.s1 * embeddings_p + self.s2 * lstm1_output_p + self.s3 * lstm2_output_p
         )
         out1 = output_p.mean(dim=1)
 
         embeddings_h = elmo.embedding(hypothesis)
-        lstm1_output_h, _ = elmo.lstm1(embeddings_p)
-        lstm2_output_h, _ = elmo.lstm2(lstm1_output_h)
+        lstm1_output_h, _ = elmo.layer1(embeddings_p)
+        lstm2_output_h, _ = elmo.layer2(lstm1_output_h)
         output_h = self.gamma * (
             self.s1 * embeddings_h + self.s2 * lstm1_output_h + self.s3 * lstm2_output_h
         )
