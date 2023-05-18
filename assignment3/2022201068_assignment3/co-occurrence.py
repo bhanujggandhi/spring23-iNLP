@@ -82,20 +82,20 @@ if TRAIN:
     # Truncated SVDs
     # ==========================================
 
-    # df = pd.DataFrame(co_occ_matrix, index=vocab.get_stoi().keys(), columns=vocab.get_stoi().keys())
-    # co_occ_np = df.to_numpy()
-    # U, s, VT = svds(co_occ_np, k=300)
+    df = pd.DataFrame(co_occ_matrix, index=vocab.get_stoi().keys(), columns=vocab.get_stoi().keys())
+    co_occ_np = df.to_numpy()
+    U, s, VT = svds(co_occ_np, k=300)
 
     # ==========================================
     # Incremental PCA
     # ==========================================
-    incr_pca = IncrementalPCA(n_components=300, batch_size=1000)
-    batches = np.array_split(np.nan_to_num(co_occ_matrix), int(len(co_occ_matrix) / 1000))
+    # incr_pca = IncrementalPCA(n_components=300, batch_size=1000)
+    # batches = np.array_split(np.nan_to_num(co_occ_matrix), int(len(co_occ_matrix) / 1000))
 
-    for batch in tqdm(batches):
-        incr_pca.partial_fit(batch)
+    # for batch in tqdm(batches):
+    #     incr_pca.partial_fit(batch)
 
-    U = incr_pca.components_.T
+    # U = incr_pca.components_.T
 
     # ==========================================
     # Saving Matrix and Vocabulary
